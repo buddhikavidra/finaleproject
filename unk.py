@@ -5,7 +5,7 @@ import numpy as np
 
 xxx = []
 DATA_DIR = "D:/reserch/new models/bbc/business"
-keyword = 'house'
+keyword = 'human right'
 import os
 for file in os.listdir(DATA_DIR):
     if file.endswith(".txt"):
