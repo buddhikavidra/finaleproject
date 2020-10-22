@@ -4,8 +4,8 @@ import math
 import numpy as np
 
 xxx = []
-DATA_DIR = "D:/reserch/new models/bbc/business"
-keyword = 'human right'
+DATA_DIR = "D:/reserch/fortraining/latest"
+keyword = 'list'
 import os
 for file in os.listdir(DATA_DIR):
     if file.endswith(".txt"):
