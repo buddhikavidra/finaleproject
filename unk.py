@@ -2,10 +2,13 @@
 import re
 import math 
 import numpy as np
+import streamlit as st 
 
+
+st.title('search')
 xxx = []
-DATA_DIR = "D:/reserch/fortraining/latest"
-keyword = 'list'
+DATA_DIR = "D:/reserch/dattoprotect"
+keyword = 'divorce'
 import os
 for file in os.listdir(DATA_DIR):
     if file.endswith(".txt"):
@@ -83,13 +86,16 @@ for root, dirs, files in os.walk(DATA_DIR, onerror=None):
                         line = line.decode("utf-8")
                         #lines = f.read().splitlines()
                         
-                    except ValueError:  # decoding failed, skip the line
+                    except ValueError:  
                         continue
-                    if keyword in line:  # if the keyword exists on the current line...
+                    if keyword in line:  
                         print('=========================================')
                         print('keyword  :',keyword,' : contains in')
                         print('contents:')
-                        #print(len(dictionary))
+                        st.text('This will appear first')
+                        #st.title('keyword  :',keyword)
+                      #  st.title(line)
+                        print(len(dictionary))
                         print(line)
                         print(file_path)  
                         continue  
