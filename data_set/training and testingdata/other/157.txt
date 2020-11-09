@@ -1,0 +1,391 @@
+[![CommonLII](/images/logos/CommonLII_small.jpg)](/) |  [Home](/) |
+[Databases](/databases.html) | [WorldLII](http://www.worldlii.org) |
+[Search](/forms/search1.html) | [Feedback](/commonlii/feedback.html)
+
+# Supreme Court of Sri Lanka  
+  
+---|---  
+**You are here:**   [CommonLII](/) >> [Databases](/databases.html) >> [Supreme
+Court of Sri Lanka](../) >> [1981](./) >> **[1981] LKSC 14**
+
+[Database Search](/form/search1.html?mask=lk/cases/LKSC) | [Name
+Search](/form/search1.html?mask=lk/cases/LKSC&title=1) | [Recent
+Decisions](../recent.html) |
+[Noteup](/form/search/?method=boolean&query=LKSC+1981+14 or 1981+LKSC+14) |
+[LawCite](/cgi-bin/LawCite/?cit=1981+LKSC+14) |
+[Help](/commonlii/help/cases.html "Help")
+
+* * *
+
+##  Khan v. Jayman - SLR - 233, Vol 2 of 1994 [1981] LKSC 14; (1994) 2 Sri LR
+233 (13 December 1981)
+
+**  233**
+
+**KHAN**
+
+**v.**
+
+**JAYMAN**
+
+SUPREME COURT.
+
+G. P. S. DE SILVA, C.J.
+
+KULATUNGA, J. AND
+
+WADUGODAPITIYA, J.
+
+S.C. APPEAL NO. 38/95.
+
+C.A. APPEAL NO. 827/81(F).
+
+D.C. COLOMBO NO. 2904/ZL.
+
+AUGUST 25, SEPTEMBER 7 AND 29 , 1993.
+
+
+
+Landlord and Tenant ‑ Licencee ‑ Vindicatory suit ‑ Burden of proof ‑ Civil
+Procedure Code, sections 121 and 175(2) proviso ‑ Secondary evidence ‑Evidence
+Ordinance, sections 65, 66, 109._
+
+_  _
+
+The plaintiff sued the defendant for declaration of title, eviction of the
+defendant and damages. The plaintiff claimed that the defendant who was his
+cousin was permitted to occupy the premises in suit and was a licencee. The
+defendant claimed he was tenant and that his tenancy was protected by the Rent
+Act. The defendant produced a letter wherein the plaintiff had said "I shall .
+. . bring the house rent receipts" which defendant claimed was in response to
+his demand for receipts. The plaintiff stated that receipts referred to were
+in respect of another transaction relating to another house.
+
+
+
+**Held:**
+
+
+
+1.      The defendant did not list the letter by which he claims to have demanded rent receipts as required by S.121 of the Civil Procedure Code. Under the proviso to S.175(2) of the Code it could have been produced in cross‑examination though not listed. If the letter could not be produced as it was in the plaintiff's possession, secondary evidence thereof could have been produced under s. 65 of the Evidence Ordinance after giving notice to the plaintiff under s. 66 to produce the original. The District Judge allowed secondary evidence by way of oral testimony of the contents of the document in breach of the express prohibition against such procedure contained in s. 66. The District Judge criticized the failure of the plaintiff to produce the original of defendant's letter when the burden of producing legal evidence of his own letter was on the defendant whether such evidence was intended to "prove" the tenancy or for "showing" that the parties had been acting as landlord and tenant within the meaning of s. 109 of the Evidence Ordinance. Defendant also admitted making a false statement to the Police in connection with another incident. Defendant had failed to show that he and plaintiff had acted as tenant and landlord.
+
+**  234**
+
+2\.         The plaintiff was the owner and had established the _factum
+probandum_ , namely the licence and its termination and was entitled to
+judgment. The defendant had failed to prove a better title.
+
+
+
+**Case referred to :**
+
+
+
+1\. _Pessona v. Babonchi Bass_ 49 N.L.R. 442, 444.
+
+
+
+**Appeal** from judgment of Court of Appeal.
+
+
+
+_Faiz Musthapha, P.C._ with _S. Mahenthiran_ for appellant.
+
+
+
+_L. L. P. Wettasinghe_ for respondent.
+
+_Cur. adv vult._
+
+October 12, 1993.
+
+**KULATUNGA, J.**
+
+
+
+
+
+The plaintiff sued the defendant for ejectment from premises No. 6, Lillie
+Street, Colombo 2, more fully described in the schedule to the plaint and for
+damages. In his plaint the plaintiff states that he resided in the premises in
+suit from 1963, as a tenant; that in 1974 he became its owner, having
+purchased it from his landlord on Deed No. 478 dated 29.05.74 (P4); that the
+defendant is a cousin of the plaintiff and a bachelor, and a travelling
+salesman whom the plaintiff permitted to occupy a room in the said premises,
+whenever he was in Colombo; that the plaintiff had a business in Bandarawela
+and resided there on account of his business; and that while he was away on
+such business, the plaintiff expected the defendant to look after the said
+premises.
+
+
+
+The plaint alleges that on or about 04.02.1976, the defendant (who was only a
+licensee) brought his mother and sisters to the premises in suit whereupon the
+plaintiff requested him to leave the same; instead, he was forcibly staying
+there on a false claim of tenancy. In the premises, the plaintiff prayed for
+ejectment and damages and for vacant possession of the premises.
+
+
+
+The defendant filed answer stating that in or about November, 1971 the
+plaintiff gave him the premises on a monthly tenancy at a rental of Rs. 200/‑
+per mensem after recovering an advance of Rs. 5000/‑; that after 09.02.76 the
+plaintiff attempted to forcibly eject him and his family from the premises
+whereupon he made a complaint to the police, that he was in lawful occupation
+thereof as a
+
+**  235**
+
+protected tenant under the Rent Act and hence no cause of action had accrued
+to the plaintiff to sue him.
+
+
+
+After trial, the learned District Judge held that from February, 1976 the
+defendant was in occupation of the premises against the wishes of the
+plaintiff but that the plaintiff had failed to establish that the defendant's
+occupation of the premises was by leave and licence, even though the evidence
+was insufficient to establish a tenancy; and hence dismissed the plaintiff's
+action. The Judge held that as the plaintiff had failed to establish that the
+respondent was a licensee, it was unnecessary to answer the issue on tenancy.
+After an unsuccessful appeal to the Court of Appeal, the plaintiff now appeals
+to this Court.
+
+
+
+The plaintiff did not pray for a declaration of title or raise an issue on
+ownership, presumably because no challenge to his ownership was anticipated.
+Indeed the defendant's answer did not deny the plaintiff's title. At the
+trial, the plaintiff established his title and the defendant in his evidence
+admitted the plaintiff's title to the premises in suit. This action is,
+therefore, a vindicatory action i.e. an action founded on ownership.
+Maasdorp's Institutes of South African Law Vol. II Eighth Edition page 70
+commenting on the right of an owner to recover possession of his property
+states ‑
+
+
+
+"The plaintiff's ownership in the thing is the very essence of such an action
+and will have to be both alleged and proved . . ."
+
+
+
+He also states ‑
+
+
+
+". . . The ownership of a thing consists in the exclusive rights of possession
+. . . . . . . . . . . . . . . . . . . . . . and in the absence of any
+agreement or other legal restriction to the contrary, it entitles the owner to
+claim possession from any one who cannot set up **a better title** to it and
+warn him off the property, and eject him from it".
+
+
+
+This Court granted leave to appeal limited to one question, namely where title
+of the plaintiff to the premises in suit is admitted, whether in the
+circumstances of this case there is a burden on the defendant to prove by what
+right he is in occupation of the premises. In any event, has the defendant
+discharged that burden ?
+
+_  _
+
+**  236**
+
+            Learned Counsel for the plaintiff-appellant submitted that although the District Judge had not answered the issue on tenancy, defendant's claim to have been a tenant of these premises stands discredited by his own evidence and he has clearly failed to establish that claim; and that in the circumstances, once he admitted the plaintiff's title, the burden was on him to establish a superior title to the property. He has failed to discharge this burden and hence the plaintiff is entitled to judgment.           
+
+           
+
+Learned Counsel for the defendant-respondent submitted that he would not
+question the principle of common law applicable to the owner's right to
+recover possession of his property from a person in unlawful possession. In
+such a case the _factum probandum_ is ownership. However, in this case the
+plaintiff claimed to have permitted the defendant to occupy the premises in
+suit by leave and licence. Hence the _factum probandum_ is the licence; and
+the burden is on the plaintiff to prove the licence and its termination. If
+the evidence leaves the matter in doubt, the plaintiff must fail. Counsel
+added that even if the burden is on the defendant, it would suffice, in view
+of s.109 of the Evidence Ordinance, for the defendant to have "shown" that the
+parties have been acting as landlord and tenant in which event, the burden of
+proving that there was no such relationship is on the plaintiff; that on the
+facts of this case, the defendant has "shown" the existence of a tenancy and
+the plaintiff has failed to rebut it. The word "shown" in s.109 of the
+Evidence Ordinance is not synonymous with the word "prove" and connotes a
+lesser degree of legal proof. _Pessona v. Babonchi Baas_ (1). On this ground
+too, the plaintiff must fail.  
+
+           
+
+In considering the above submissions in the light of the facts, it may perhaps
+be appropriate to first consider the defendant's claim of a tenancy. There is
+no documentary evidence of a tenancy agreement in respect of the premises in
+suit. The defendant, however, produced a letter dated 05.08.73 sent to him by
+the plaintiff (V3) where the plaintiff has said "I shall . . . bring the house
+rent receipts". V3 is a reply to a letter sent by the defendant and the major
+part of it explains the efforts made by the plaintiff to recover for the
+defendant certain monies from a man in Batticaloa. It does not identify the
+premises in respect of which the plaintiff promised to bring house rent
+receipts. The defendant said in evidence that since he took the house on rent
+in 1971, the plaintiff did not issue receipts  
+
+                                                           
+
+
+
+**  237**
+
+for rents paid; but in view of the new rent laws, he thought it desirable the
+to insist on receipts and hence wrote a letter demanding receipts to which he
+received the reply V3.
+
+
+
+By way of explanation of the reference to rent receipts in V3, the plaintiff
+said that his father had rented out a house in Bandarawela; that the landlord
+of that house was living in Singapore and the rents          were collected in
+his behalf by the post-mistress Bandarawela who issued rent receipts. After
+some time, the landlord's wife who lived in Panadura objected to the post-
+mistress collecting the rents and desired to peruse the receipts which had
+already been issued. Those are the receipts which are referred to in V3. They
+were given to the defendant to be handed over to the landlord's wife.
+
+
+
+The defendant did not list the letter by which he claims to have demanded rent
+receipts, as required by s.121 of the Civil Procedure Code. In view of the
+proviso to s.175(2) of the Code, there was, however, no bar against producing
+it in cross-examination though it was not listed. If the letter could not be
+produced as it was in the plaintiff's possession then, secondary evidence
+thereof had to be produced under s. 65 of the Evidence Ordinance after giving
+notice to the plaintiff under s. 66 to produce the original. Presumably, no
+such notice was given but the District Judge permitted the defendant to give
+secondary evidence by way of oral testimony of the contents of the document,
+in breach of the express prohibition against such procedure contained in s.
+66. That section provides that notice to produce a document may be dispensed
+with in certain cases. I am of the opinion that this was not such a case.  
+
+
+            Having irregularly permitted secondary evidence of the document, the District Judge proceeded to comment adversely on the failure of the plaintiff to produce the original and the Court of Appeal alleged that the plaintiff thereby attempted to suppress evidence of the tenancy. I hold that such criticism of the plaintiff's conduct was not justified, for the reason that the burden of producing legal evidence of his own letter in proof of the alleged tenancy was on the defendant, whether such evidence was intended to "prove" the tenancy or for "showing" that the parties had been acting as landlord and tenant within the meaning of s.109 of the Evidence Ordinance. 
+
+**  238**
+
+ The available evidence supports the allegation that the defendant attempted
+to set out a tenancy claim only as late as 1975‑1976\. The relevant items of
+evidence are as follows:‑
+
+
+
+1\.         The file maintained by the Insurance Corporation in respect of the
+defendant's insurance policy shows that he applied for the policy in or about
+December, 1969 (P16). At that time he gave his address as 9/24, Muhandiram
+Lane, Colombo 12. In 1970 the address was changed as Nagalagam Street, Colombo
+12. It was only on 07.01.75 that he gave the premises in suit as his new
+address.
+
+
+
+2\.         The defendant's name has been entered in the electoral register as
+a resident of the premises in suit only from 1975 onwards (D17, D18 and D19).
+
+
+
+3\.         The house holders' list maintained by the Food Department shows
+that his name has been entered as the chief house holder of the said premises
+only in 1976 (P17). Prior to that, it was the plaintiff who appears as the
+chief house holder.
+
+
+
+4\.         It was on 20.02.76 that the defendant made a statement to the
+police (P5) wherein he said that he had been a tenant of the premises in suit
+from 1971. It is relevant to note that in P5 the defendant also said that from
+December, 1975 the plaintiff had been asking him to quit the house.
+Defendant's witness Steven (Janatha Committee member) had accompanied the
+defendant to the Police Station on that occasion. Steven says that prior to
+1976 he had seen the defendant in the premises in suit but he does not speak
+to having known the defendant as a tenant during that period.
+
+
+
+We next have the document P15 viz. the defendant's complaint dated 03.09.74
+which he made to the Grandpass Police giving his residence as No. 37,
+Nagalagam Street, Totalanga. He says that he was boarded in a room of that
+house where he kept his belongings; that on 29.08.74 when he returned from
+work, he found his suit case forced opened and his belongings including his
+clothing's, wrist watch, an umbrella, insurance policy and a ring stolen. His
+driver Ariyapala's savings pass books were also missing. He suspected
+
+**  239**
+
+Premasiri and Indrasena who used to loiter there to have been concerned in the
+theft. In cross examination, the defendant admitted that P15 is a false
+statement and that he made it solely to help his driver who was residing at
+No. 37, Nagalagam Street, where he himself resided, before shifting to the
+premises in suit.
+
+
+
+Thus the available evidence shows that the defendant is a self­confessed liar;
+and on a consideration of the totality of the evidence, I cannot agree that
+the District Judge was left in doubt as to which version is true. The
+defendant's claim of tenancy was wholly discredited and the District Judge
+ought to have answered the issue on tenancy in the negative. Further, on the
+available evidence, it cannot be said that the defendant has even "shown" that
+the parties had been acting as landlord and tenant within the ambit of s.109.
+That section has no application to this case.
+
+
+
+We are, therefore, left with the fact that the plaintiff is the owner of the
+premises in suit and his uncontroverted evidence that the defendant occupied a
+room by leave and licence. Admittedly, that licence was terminated by the end
+of 1975. The plaintiff has thus established the _factum probandum_ namely, the
+licence and its termination and he is, therefore, entitled to judgment as
+prayed for.
+
+
+
+Learned Counsel for the defendant‑respondent also submitted that in view of
+the fact that this was not a case of the plaintiff suing as owner
+_simpliciter_ and in the absence of an issue on ownership, the defendant would
+not have known the case he had to meet and was prejudiced in his defence. I
+cannot agree. As stated early in his judgment, the plaintiff pleaded his
+ownership and clearly set out his case, including the fact that the defendant
+was in occupation of a room of the premises in suit by leave and licence. The
+defendant too set out his case in unambiguous terms viz. that he was a
+protected tenant from 1971. In the end, the plaintiff proved his case whilst
+the defendant failed to establish a better title to the property. As such, the
+question of prejudice does not arise.
+
+
+
+For the foregoing reasons, I allow the appeal, set aside the judgments of
+District Judge and the Court of Appeal and enter judgment for the plaintiff as
+prayed for, for ejectment and damages
+
+**  240**
+
+together with legal interest on the aggregate from 13.12.1981, until payment
+in full. The plaintiff will also be entitled to costs in a sum of Rs. 8500/‑
+(Rupees Eight Thousand Five Hundred) as costs of appeal here and in the Court
+of Appeal, in addition to the costs of action in the District Court.
+
+
+
+**G. P S. DE SILVA, C.J.** ‑ I agree.
+
+
+
+**WADUGODAPITIYA, J.** ‑ I agree.
+
+
+
+Appeal allowed.
+
+* * *
+
+**CommonLII:** [Copyright Policy](/commonlii/copyright.html) **|**
+[Disclaimers](/commonlii/disclaimers.html) **|** [Privacy
+Policy](/commonlii/privacy.html) **|** [Feedback](/commonlii/feedback.html)  
+URL: _http://www.commonlii.org/lk/cases/LKSC/1981/14.html_  
+

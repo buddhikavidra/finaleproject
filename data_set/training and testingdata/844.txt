@@ -1,0 +1,599 @@
+##  Moosajees Limited v. Arthur And Others - SLR - 65, Vol 1 of 2006 [2002]
+LKSC 47; (2006) 1 Sri LR 65 (5 December 2002)
+
+**
+
+65
+
+MOOSAJEES LIMITED
+
+VS
+
+ARTHUR AND OTHERS
+
+**
+
+SUPREME COURT  
+FERNANDO, J.  
+WIGNESWARAN, J. AND  
+WEERASOORIYA, J.  
+SC APPEAL NO. 58/2001  
+CA APPLICATION NO. 1354/98  
+SEPTEMBER 16, 2002  
+  
+_Writ of Certiorari - Ceiling on Housing Property Law, No. 1 of
+1973-Application under section 13 - Decision of Commissioner - Appeal under
+section 39(1) ­Board of Review - Finality clause, section 39(3) - Application
+of section 22 of Interpretation Ordinance - Whether Court of Appeal varied a
+decision which was ex facie not within the power of the Board of Review -
+Wrong application of section 47 of the Law - Definition of house - Burden of
+proof - Evidence Ordinance, sections 101 and 102 - Effect of Article 140 of
+Constitution on section 22 of Interpretation Ordinance._
+
+**66**
+
+The 1st respondent tenant applied to the 2nd respondent (Commissioner for
+National Housing) under section 13 of the Ceiling on Housing Property Law,
+NO.1 of 1973 ("CHP Law") to purchase the house in dispute owned by the
+appellant. On 25.01.1984 the Commissioner refused the application holding the
+premises were business premises under section 47 of the CHP Law. On appeal to
+the Board of Review under section 39(1) of the Law, the Board held that it was
+a house as it had been used for residence from 1943. The Court of Appeal
+refused an application by the appellant to quash the decision of the Board by
+certiorari. The Court held that in view of section 22 of the Interpretation
+Ordinance, read with section 39(3) of the CHP Law, the court's jurisdiction
+.was ousted as the decision of the Board using the test of user was not ex
+facie outside the Board's jurisdiction and by its order dated 09.02.2001,
+refused the application for a writ.  
+  
+**Held;  
+  
+**1\. In terms of section 47 (definition of 'house') the premises had been
+originally constructed as an eating house and assessed as such, but not
+originally constructed for residential purpose, although since 1943, it had
+been used for residence and assessed as such in 1980.  
+  
+2\. The Court of Appeal wrongly placed the burden of proof on the appellant to
+prove that the building was originally constructed for residential purposes
+when in terms of sections 101 and 102 of the Evidence Ordinance, the burden of
+proving the original purpose of the building was on the 1st respondent.  
+  
+3\. In the above circumstances, the decision of the Board of Review was ultra
+vires and a nullity-outside its jurisdiction and the appellant was entitled to
+a writ of certiorari notwithstanding section 39(3) of the CHP Law. Further,
+Article 140 of the Constitution prevailed over section 22 of the
+Interpretation Ordinance. For that reason also, section 39(3) of the CHP Law
+had no application.  
+  
+**Cases referred to :  
+  
+**1\. _Abeysekera v Wijetunga_ (1982) 2 SLR 737 at p. 739  
+  
+2\. _Mohammed Ismail v Hussain_ (1993) 2 SLR 380  
+  
+3\. _Anderson v Ahamed Husny Appellate Law Recorder_ Vol 2 March 2001 p. 13  
+  
+4\. _Withanarachiv Gunawardena_ (1996) (1) SLR 253 at p. 257
+
+**67**
+
+5\. _Sitamparanathan v Premaratne_ (1996) 2 SLR 202  
+  
+6. _Rex v Northumberland Compensation Appeal Tribunal_ (1952) 1 All ER 122  
+  
+7\. _Anisminic Ltd v_ Foreisn Compensation Commission (1969) 2 AC- 147  
+  
+8\. _O' Reilly v Mackman_ (1983) 2 AC 237 at p. 278  
+  
+9\. _R v Hult University Visitor_ (1993 A.C.) 682 at p 701  
+  
+10\. _Maradane Masque Trustesv Mahamud_ (1967) 1 AC 13  
+  
+11\. _Atapattuv People's Bank_ (1907) 1 SLR 208 at p 221  
+  
+12. _Sirisena Cooray v Tissa Bandaranayake_ (1999) 1 SLR 1 at p.14  
+  
+13\. _Wljepala Mendis v PRP Perera_ (1999) 2 SLR 110 at p 119  
+  
+**APPEAL** against the judgment of the Court of Appeal reported in (2001) 2
+SLR 101 (Overruled)  
+  
+_Dr. J. de Almeida Gunaratne with Parakrama Agalawatta and Kishali Pinto
+Jayawardena_ for appellant.  
+  
+_Rohana Jayawardena_ for 1st respondent.  
+  
+_Uditha Egalahewa,_ State Counsel for 2nd respondent.
+
+_Cur.adv. vult_
+
+December, 5, 2002  
+**WEERASOORIYA, J.  
+**  
+The 1st respondent-respondent ("the 1st respondent") made an application under
+Section 13 of the Ceiling on Housing Property Law, NO.1 of 1973 "(the C. H. P.
+Law") to the Commissioner of National Housing ("the Commissioner") to purchase
+the premises bearing No. 17, Hunupitiya Road, Colombo 2, and the Commissioner
+by his order dated 25.01.1984, dismissed the application holding that the
+premises were business premises. The 1st respondent appealed against that
+order to the Ceiling on Housing Property Board of Review ("the Board") under
+Section 39(1) of the C. H. P. Law, and the Board reversed the Commissioner's
+finding and allowed the appeal on the basis that the premises in question were
+residential and therefore a house. The petitioner-appellant ("the petitioner")
+thereafter invoked the jurisdiction of the Court of Appeal seeking to quash
+
+**68**
+
+the said order of the Board by way of a writ of certiorari. The Court of
+Appeal by its judgment dated 09.02.2001, dismissed the petitioner's
+application. Thereafter the petitioner obtained special leave to appeal from
+this Court upon the following questions.  
+  
+(1) Whether the Board of Review and the Court of Appeal erred in law in
+applying the test of user of premises instead of considering the purpose of
+construction in determining whether the premises constituted a 'house' as
+defined under Section 47 of the C. H. P. Law?  
+  
+(2) Whether the Board of Review and the Court of Appeal erred in law in
+placing the burden of proof on the petitioner to establish that the premises
+is not a house as so defined?  
+  
+(3) Whether the Court of Appeal lacked jurisdiction to review the order of the
+Board of Review in view of the clause contained in Section 39 (3) ?  
+  
+**(1) Test of User  
+**  
+It is not in dispute that the 1st respondent as tenant of the petitioner made
+an application in terms of Section 13 of the C. H. P. Law to purchase the
+premises. Upon such application being made, the Law requires the Commissioner
+to hold an inquiry into such application and upon being satisfied on the
+requirements laid down in Section 17 (1) (a), (b), and (c) to make a
+recommendation to the Minister whether such premises should be vested. The
+issue whether a tenant could maintain such an application depends on whether
+the premises fall within the meaning of a 'house' as defined in Section 47 of
+the C. H. P. Law:  
+  
+_" House" means an independent living unit, whether assessed or not for the
+purpose of levying rates, constructed mainly or solely for  
+residential purposes, and having a separate access, and through which unit
+access cannot be had to any living accommodation, and includes a flat or
+tenement, but shall not include-  
+_  
+(1) sub divisions of, or extensions to a house which was first occupied as a
+single unit of residence; and  
+  
+(2) a house used mainly or solely for a purpose other than a residential
+purpose for an uninterrupted period of ten years prior to March, 1st, 1972;"
+
+**69**
+
+This definition postulates the following criteria to be satisfied by the
+applicant.  
+  
+(a) It must be an independent living unit whether assessed or not for the
+purpose of levying rates.  
+  
+(b) It must have been constructed mainly or solely for residential purposes;
+and  
+  
+(c) It must have a separate access and through which unit access can not be
+had to any other living accommodation.  
+  
+The Commissioner by his order dated 25.01.1984 (P1a) held that the premises
+were business premises. However, on appeal, the Board reversed the finding of
+the Commissioner and held that the said premises had been used mainly or
+solely for residential purposes.  
+  
+Learned Counsel for the petitioner contended that the Board applied the wrong
+test by misconstruing Section 47 of the C. P. H. Law.  
+  
+It is to be observed that the Board without asking itself the question as to
+whether the premises had been constructed mainly or solely for residential
+purposes as laid down in the definition of a house in Section 47 asked the
+question "........................ whether the said premises is a business
+premises or not" and thereafter applied exception (2) to the definition of a
+house contained in the section. In fact, the said exception is meant to take
+even a building which was constructed mainly or solely for residential
+purposes, outside the definition of a 'house' if such building was used mainly
+or solely for a purpose other than a residential purpose for an uninterrupted
+period of 10 years prior to March 1st, 1972.  
+  
+The Court of Appeal disagreed with the contention of learned Counsel for the
+petitioner that the Board formulated the wrong question and held that implicit
+in this question was the proposition whether the premises in question were
+residential or business.  
+  
+The petitioner had presented his case on the basis that the premises at the
+inception had been assessed for the purpose of levying rates as an "eating
+house" indicating that the original purpose of construction was for
+
+**70**
+
+business. Therefore, the petitioner's case was that though used by the 1st
+respondent as residential premises, the premises had been originally
+constructed for business purposes.  
+  
+It would be manifest that there was no dispute that from 1943, since the 1st
+respondent came into occupation of the premises, that the premises were used
+for residential purposes. But to enable the 1st respondent to purchase it, it
+must be shown that the premises were constructed mainly or solely for
+residential purposes. It was open to the 1st respondent to state that premises
+had been continuously used as a residence thereby entitling him to the
+protection of the Rent Act. However, it would be a different situation when
+the (1st respondent) tenant makes an application under Section 13 of the C. H.
+P. law to purchase it, where different criteria are spelt out under Section 47
+of the C. H. P. Law.  
+  
+In the circumstances, the Board misdirected itself in addressing the question
+whether the said premises were business premises or not. This misdirection was
+the outcome of failing to appreciate the provisions of Section 47 of the C. H.
+P. Law. The Court of Appeal has taken the mistaken view that implicit in the
+question was whether the premises in question were residential or business.  
+  
+The misconstruction of Section 47 of C. H. P. Law was reflected in the
+application of the test of user of premises to determine the question whether
+the premises was a house. The primary test postulated by that section is the
+test as to whether the premises were constructed for residential purposes. It
+is to be noted that this section does not permit a choice between two primary
+tests. The effect of the reasoning of the Board and the Court of Appeal was to
+impose a burden on the owner to prove that it was constructed for business
+purposes which is contrary to what is envisaged in Section 47.  
+  
+It is necessary to consider the decisions of this Court, on the definition of
+a house as given in Section 47 of C. H. P. Law.  
+  
+The case of Abeysekera vs. 'Wijetunga(1) laid down the rule that the test to
+be applied to determine what a house is, for the purposes of C. H. P. Law,
+must be an objective test and not a subjective one and that its initial
+construction and the purpose of construction is what matters.
+
+**71**
+
+"In _Mohamed Ismail vs. Hussair_ (2) Court applied the criterion of user
+mainly because of the lack of direct evidence relating to the initial purpose
+of construction. However, it was disclosed that the premises had been
+originally assessed as a house. Therefore, it would be clear that, there was
+no occasion to consider the original purpose of construction of the premises
+and the question of devolution of the burden of proof in the context of
+Section 47 of the C. H. P. Law did not arise for consideration.  
+  
+On the foregoing material, I hold that the Board and the Court of Appeal erred
+in applying the test of user of premises instead of considering the purpose of
+construction in determining whether the premises constituted a house within
+the meaning of Section 47 of C. H. P. Law.  
+  
+**(2) Burden of Proof  
+**  
+Section 101 of the Evidence Ordinance provides:  
+  
+_" Whoever desires any Court to give judgment as to any legal right or
+liability dependent on the existence of facts which he asserts, must prove
+those facts exist. When a person is bound to prove the existence of any fact,
+it is said that burden of proof lies on that person".  
+_  
+This section is concerned with the duty to prove one's case as a whole and is
+distinguishable from Section 103 which explains the burden of proof as to a
+particular fact. This section reads as follows  
+  
+_" The burden of proof as to any particular fact lies on that person who
+wishes the Court to believe in its existence, unless it is provided by any law
+that the proof of that fact shall lie on any particular person".  
+_  
+The difference in scope could be seen from illustration (A) to Section 101
+which states as follows.  
+  
+_" A desires a Court to give judgment that B shall be punished for a crime
+which A says B has committed. A must prove that B has committed the crime."  
+_  
+But however, where B concedes that he committed the act alleged but pleads
+that it does not entail criminal liability since the general exception
+'relating to exercise of the right to private defence or any special exception
+
+**72**
+
+contained in the Penal Code is applicable, B is bound to establish facts to
+bring him within that exception. (Vide Section 105).  
+  
+Section 102 provides for the devolution of the burden of proof in the
+following terms.  
+  
+_" The burden of proof in a suit or proceeding lies on that person who would
+fail if no evidence at all were given on either side".  
+  
+_The question as to which party should begin to lead evidence before the
+Labour Tribunal came up for consideration before the Supreme Court in the case
+of _David J. Anderson vs. Ahamad Husny_ (3)The Court held that although the
+Labour Tribunal is not bound by the Evidence Ordinance, the principle
+enshrined in Section 102, that the person on whom the burden of proof lies
+would fail if no evidence at all were given on either side, is a common sense
+principle, departure from which would not be justified if the circumstances do
+not warrant such a departure.  
+  
+In the present case, the primary test postulated by Section 47 of C. H. P. Law
+is whether the premises were constructed for residential purposes. If no
+evidence is given by either side, it is the 1st respondent who would  fail
+before the Commissioner. The 1st respondent had failed to lead any evidence to
+establish that the premises were constructed for residential purposes. The
+petitioner had produced assessment extracts (P43-P53) which showed the
+premises were originally assessed as an eating house though used as a
+residential house. There was no reason to deviate from the rule set out in
+Section 102 of the Evidence Ordinance at the inquiry before the Board of
+Review.  
+  
+Accordingly, I hold that the burden of proof that the premises were
+constructed for residential purposes lay with the 1st respondent, and has not
+been discharged.  
+  
+**(3) Ouster Clause  
+  
+**Learned Counsel for the 1st respondent contended that the order of the Board
+is final and conclusive and cannot be impeached on the material submitted by
+the petitioner. This contention is based on Section 39(3) of the C. H. P. Law
+read with Section 22 of the Interpretation Ordinance as amended by Act, No. 18
+of 1972.
+
+**73**
+
+Section 39(3) of the C. H. P. Law provides:  
+  
+_" The determination of the Board on any appeal made under sub section (I)
+shall be final and shall not be called in question in any Court".  
+_  
+The material parts of Section 22 of the Interpretation Ordinance (as amended)
+read as follows.  
+  
+" _Where there appears in any enactment.................. the expression
+"shall not be called in question in any Court"............. in relation to any
+order, decision,..................... which any person, authority or tribunal
+is empowered to make or issue under such enactment, no court shall, in any
+proceedings and upon any ground whatsoever, have jurisdiction to pronounce
+upon the validity or legality of such order, decision
+........................made or issued in the exercise or the apparent
+exercise of the power conferred on such person, authority or tribunal.  
+  
+ Provided however, that the preceding provisions of this Section shall not
+apply to the Supreme Court or the Court of Appeal as the case may be
+.................in respect of the following matters only, that is to say-  
+  
+(a) Where such order, decision ...............is ex facie not within the power
+conferred on such person, authority or tribunal making or issuing such order,
+decision ....; and_  
+  
+(b).....................".  
+  
+Learned Counsel for the petitioner contended that the Board had the power ex
+facie to make the order it did, namely to hold whether the premises in
+question were either residential or business premises. He contended that
+nevertheless that power of the Board did not confer jurisdiction to the Board:  
+  
+(a) to formulate the wrong question.  
+  
+(b) to misconstrue the provisions of Section 47 of the C. H. P. Law and apply
+the wrong test; and  
+  
+(c) to take into account irrelevant considerations.
+
+**74**
+
+The ouster clause in Section 39(3) of the C. H. P. Law read with Section 22 of
+Interpretation Ordinance came up for consideration in _Withanaratchi vs.
+Gunawardena_ (4) where the Court held that on a consideration of the entirety
+of the facts and circumstances it could not conclude that the decision of the
+Board was unreasonable and unsupported by the evidence on record. The Court
+observed that at most the alleged error lay in the evaluation and the
+assessment of the oral and documentary evidence and therefore the error if at
+all was one made within the area of jurisdiction of the Board of Review.  
+  
+Thus, the two grounds enumerated namely; (a) where a decision is unreasonable
+or (b) where it is unsupported by evidence are obviously grounds that would
+affect the jurisdiction of the Board.  
+  
+The decision in the case of _Sitamparanathan vs. Premaratna_ (5) is
+significant in that it held that Section 39(3) of the C. H. P. law did not
+protect a decision which patently lacked jurisdiction to decide.  
+  
+ At this point it is useful to examine this question in the light of the
+English precedents.  
+  
+In _R. vs._ Northumberland Compensation Appeal Tribunal(6) the Court of Appeal
+held that certiorari to quash the decision of a Statutory Tribunal lay, not
+only where the tribunal had exceeded its jurisdiction but also where an error
+of law appeared on the face of the record. This case turned upon the amount of
+compensation payable to the clerk to a hospital board in Northumberland who
+has lost his employment consequent upon the introduction of the National
+Health Service. Upon a misconstruction of the regulations, the Compensation
+Appeal Tribunal refused to allow him his full period of service on the basis
+that there were two periods of service and that only the second period of
+service should be counted which appeared to be a manifest error of law.  
+  
+This case is significant in that it revived the power of review for mere error
+of law on the face of the record and marked the beginning of the process
+towards bringing all decisions on questions of law within judicial review.  
+  
+The application of the doctrine of ultra vires was made wider for the purpose
+of minimising the effect of ouster clauses by the House of Lords
+
+**75**
+
+in the celebrated _case of Anisminic Ltd. vs. Foreign Compensation Commission_
+(7)  
+  
+In this case, the Foreign Compensation Commission rejected a claim for
+compensation for a property already sold to a foreign buyer on the erroneous
+ground that the Statutory Order in Council required that the successor in
+title should have been of British Nationality at a certain date. Upon
+Anisminic challenging the Commission's decision on the ground that the
+Commission had misconstrued the relevant 1962 order from which the Commission
+derived jurisdiction, in that the 1962 order did not require both the
+applicant and his successor in title to be British to qualify for
+compensation, the House of Lords held that:  
+  
+(a) the ouster clause did not protect a determination which was outside
+jurisdiction; and  
+  
+(b) (by a majority) the misconstruction of the Order in Council which the
+Commission had to apply involved an excess of jurisdiction since they based
+their decision on a ground which they had no right to take into account and
+sought to impose another condition not warranted by the order.  
+  
+The principle deducible from the Anisminic case is that every error of law by
+a tribunal must necessarily be jurisdictional. This case became the leading
+example of jurisdictional error by a tribunal in the course of its
+proceedings.  
+  
+The majority view of the House of Lords was that the error destroyed the
+Commission's jurisdiction and rendered the decision a nullity, since on a true
+view of the law, the Commission had no jurisdiction to take the nationality of
+the successor in title into account. Therefore, by asking the wrong question
+and by imposing a requirement which the Commission had no authority to impose,
+it had overstepped its power. (Vide Administrative Law - Wade and Forsyth 8th
+Edition - page 270)  
+  
+Thus, a tribunal has in effect no power to decide any question of law
+incorrectly; any error of law would render its decision liable to be quashed
+as ultra vires.
+
+**76**
+
+This categorical pronouncement of the law was upheld and confirmed in two
+subsequent cases namely _O'Reilly vs. Mackman_ (8) and R. VS. Hull University
+Visitor(9)  
+  
+_In Reillyvs. Mackman_ (supra) Lord Diplock stated that:  
+  
+_" The breakthrough that the Anisminic case made was the recognition by the
+majority of this House that if a tribunal whose jurisdiction was limited by
+statute or subordinate legislation mistook the law applicable to the facts as
+it had found them, it must have asked itself the wrong question, i.e., one
+into which it was not empowered to inquire and so had no jurisdiction to
+determine. Its purported "determination" not being a "determination" within
+the meaning of the empowering legislation, was accordingly a nullity".  
+_  
+In _R. vs. Hull University Visitor_ (supra ; ) Lord Browne Wilkinson stated
+that:  
+  
+_" the decision in Anisminic Ltd. vs. Foreign Compensation Commission (19692
+AC 147) rendered obsolete the distinction between errors of law on the face of
+the record and other errors of law by extending the doctrine of ultra vires.
+Thenceforward it was to be taken that Parliament had only conferred the
+decision making power on the basis that it was to be exercised on the correct
+legal basis; a misdirection in law in making the decision therefore rendered
+the decision ultra vires".  
+  
+_Lack of jurisdiction may arise in many ways as enumerated below which would
+cause a tribunal to step outside its jurisdiction.  
+  
+(a) the absence of formalities or conditions precedent to the tribunal to
+clothe itself with jurisdiction to embark on a inquiry ;  
+  
+(b) where at the end of an inquiry tribunal makes an order that it has no
+jurisdiction to make;  
+  
+(c) where in the course of proceedings tribunal departs from rules of natural
+justice, and asks itself the wrong question or takes into account matters
+which it was not directed to take into account. (Vide Anisminic Ltd. vs.
+Foreign Compensation Commission at page 195).
+
+**77**
+
+In _Maradana Mosque Trustees VS. Mahamud_ (10) an appeal from the judgment of
+the Supreme Court, the Privy Council held that where statutory authority was
+given to a Minister to act if he was satisfied that a school is being
+administered in a certain way, he was not given authority to act, because he
+was satisfied that the school had been administered in that way. It was held
+that the Minister had asked himself the wrong question and never brought
+himself within the area of his jurisdiction and therefore, acted without or in
+excess of jurisdiction.  
+  
+In the light of the above decisions, the question that arises for
+consideration in the present case is whether the Board went outside its
+designated area and out stepped the confines of the territory of its inquiry.  
+  
+Undoubtedly, the Board asked itself the wrong question to wit; whether the
+premises were business premises or not. It would be obvious that the proper
+question to have asked was whether the premises was a 'house' within the
+meaning of Section 47 of the C. H. P. Law. In failing to ask the proper
+question the Board went out of bounds and wandered outside its designated
+area. Further, the Board erroneously laid the burden of proof on the
+petitioner to prove that the premises were business premises. This initial
+misdirection caused the Board to apply the wrong test of user.  
+  
+It is also evident that the misconstruction of the provisions of Section 47 of
+the C. H. P. Law, led the Board to rely on irrelevant considerations namely;  
+  
+(a) that the tenant had continued to be in uninterrupted occupation for a long
+period; and  
+  
+(b) that the premises had been assessed as a house in 1980.  
+  
+On a careful examination of the above material, it is manifest that the Board
+had digressed away from its allotted task and out stepped the confines of the
+territory of its inquiry and thereby exceeded its jurisdiction.  
+  
+Learned Counsel for the petitioner contended that in any event ouster clause
+in Section 39(3) of the C. H. P. Law read with Section 22 of the
+Interpretation Ordinance (as amended) is inoperative in view of the
+constitutional implications flowing from Article 140 of the Constitution.
+
+**78**
+
+Article 140 of the Constitution provides:  
+  
+_" Subject to the provisions of the Constitution, the Court of Appeal shall
+have full power and authority to inspect and examine the records of any Court
+of First Instance or tribunal or other institution, and grant and issue,
+according to law, orders in the nature of writs of certiorari, prohibition,
+procedendo, mandamus and quo warranto against the Judge of any Court of First
+Instance or tribunal or other institution or any other person:  
+  
+    ............................"  
+_  
+Article 168(1) of the Constitution permits the continued operation of
+legislation in force immediately before the commencement of the Constitution:  
+  
+_" Unless Parliament otherwise provides, all laws, written laws and unwritten
+laws, in force immediately before the commencement of the Constitution shall
+mutatis mutandis, and except as otherwise expressly provided in the
+Constitution, continue in force".  
+_  
+The Supreme Court in _Atapattu vs. People's Bank (11)_ in interpreting Article
+168(1) expressed the view that ouster clause would be operative only "except
+as otherwise expressly provided" in Article 140 and held that language used in
+Article 140 is broad enough to give the Court of Appeal authority to review
+even on grounds excluded by ouster clause. This case held further that
+constitutional provisions being the higher norm will prevail over the ordinary
+statutory provisions.  
+  
+In _Sirisena Cooray vs. Tissa Bandaranayake_ (12)the Supreme Court upheld and
+confirmed the view expressed in Atapattu vs. People's Bank. This view was
+reiterated in _Wijepala Mendis vs. P. R. P. Perera._ (13)Thus, the aforesaid
+decisions firmly establish the view that the ouster clause does not operate to
+exclude the jurisdiction conferred on the Court of Appeal by Article 140 of
+the Constitution.  
+  
+In the circumstances, the impress of finality set out in Section 39(3) of the
+C. H. P. Law read with Section 22 of the Interpretation Ordinance has no
+application to the impugned decision of the Board. Accordingly, I hold that
+the Court of Appeal had jurisdiction to review the decision of the Board and a
+writ of certiorari would lie to quash it.
+
+**79**
+
+For the above reasons, I set aside the decision of the Board dated 23.10.1998
+and the Order of the Court of Appeal dated 09.02.2001 and allow this appeal
+with costs fixed at Rs. 5,000/= payable by the 1st respondent to the
+petitioner.  
+  
+**FERNANDO J**.-I agree.  
+  
+**WIGNESWARAN J**.-I agree.  
+  
+_Appeal allowed._
+
+* * *
+
+**CommonLII:** [Copyright Policy](/commonlii/copyright.html) **|**
+[Disclaimers](/commonlii/disclaimers.html) **|** [Privacy
+Policy](/commonlii/privacy.html) **|** [Feedback](/commonlii/feedback.html)  
+URL: _http://www.commonlii.org/lk/cases/LKSC/2002/47.html_  
+

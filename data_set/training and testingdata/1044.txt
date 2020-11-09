@@ -1,0 +1,25 @@
+|  
+**Find** using autosearch this Boolean query any of these words all of these
+words this phrase this legislation name this case name this document title |
+**Enter search query:**  
+  
+[[Help](/commonlii/help/search.html)] [[Boolean
+operators](/commonlii/help/boolean.html)]  |  
+---|---|---  
+  
+**Select the CommonLII Database(s) to search:**  
+All CommonLII Databases Selected
+Document\--------------------------------------------------  
+---  
+  
+**Note:** You can search **multiple databases** at once by holding down the
+**Ctrl** key on your keyboard and then click the database name for _each_
+database you want to include in your search.  
+  
+* * *
+
+**CommonLII:** [Feedback](/commonlii/feedback.html) **|** [Privacy
+Policy](/commonlii/privacy.html) **|**
+[Disclaimers](/commonlii/disclaimers.html)  
+URL: _http://www.commonlii.org/form/search1.html_  
+

@@ -1,0 +1,193 @@
+[![CommonLII](/images/logos/CommonLII_small.jpg)](/) |  [Home](/) |
+[Databases](/databases.html) | [WorldLII](http://www.worldlii.org) |
+[Search](/forms/search1.html) | [Feedback](/commonlii/feedback.html)
+
+# Supreme Court of Sri Lanka  
+  
+---|---  
+**You are here:**   [CommonLII](/) >> [Databases](/databases.html) >> [Supreme
+Court of Sri Lanka](../) >> [1998](./) >> **[1998] LKSC 14**
+
+[Database Search](/form/search1.html?mask=lk/cases/LKSC) | [Name
+Search](/form/search1.html?mask=lk/cases/LKSC&title=1) | [Recent
+Decisions](../recent.html) |
+[Noteup](/form/search/?method=boolean&query=LKSC+1998+14 or 1998+LKSC+14) |
+[LawCite](/cgi-bin/LawCite/?cit=1998+LKSC+14) |
+[Help](/commonlii/help/cases.html "Help")
+
+* * *
+
+##  Nelia Silva v. Commissioner For National Housing and Another - SLR - 291,
+Vol 1 of 1999 [1998] LKSC 14; (1999) 1 Sri LR 291 (10 December 1998)
+
+**291**
+
+**NELIA SILVA  
+v.  
+COMMISSIONER FOR NATIONAL HOUSING AND ANOTHER**
+
+SUPREME COURT  
+G. P. S. DE SILVA, CJ.,  
+WADUGODAPITIYA, J. AND  
+WEERASEKERA, J.  
+S.C. APPEAL NO. 105/97  
+C.A. NO. 362/90  
+NOVEMBER 14 AND DECEMBER 4, 1998
+
+_Writ of certiorari - Tenants application to purchase a house - Sections 13
+and 17 (1) of the Ceiling on Housing Property Law - Requirements of a valid
+vesting order under section 17 (1) of the Law._
+
+In 1976 the respondent who was the tenant of a house owned by the appellant
+made an application under section 13 of the Ceiling on Housing Property Law to
+purchase the house let to him. The parties were not properly heard. However,
+on 20.10.1976 the Minister had made a minute in the file which was regarded as
+a "vesting" of the house under section 17 (1) of the Law. The purported
+"vesting" was communicated to the parties on 07.02.1977. Thereafter in 1982
+the Commissioner for National Housing held a proper inquiry and refused the
+tenant's application. That decision was communicated to the tenant. On an
+appeal by the tenant the Board of Review reversed the Commissioner's decision
+on the ground that the Commissioner had no jurisdiction to have held an
+inquiry in 1982 in view of the "vesting order' made in 1976.
+
+**Held:**
+
+1\. There was no valid vesting of the house in 1976, in that firstly there was
+no vesting order published in the Gazette at that point of time, as required
+by section 17 (1) of the Ceiling on Housing Property Law; secondly the
+Commissioner's decision under section 17 had not been communicated to the
+owner of the house prior to the "vesting".
+
+2\. A publication of the purported "vesting order" in the Gazette in 1996
+after the owner had applied to the Court of Appeal for a writ of certiorari
+was of no force or avail in law in that the said publication was founded on an
+illegal decision 'to vest' the premises.
+
+**292**
+
+**Case referred to:**
+
+_Caderamanpulle v. Pieter Keuneman_ and _Others_ \- SC Appeal No. 15/79 SC __
+Minutes 19th September, 1980.
+
+**APPEAL** from the judgment of the Court of Appeal.
+
+_P. A. D. Samarasekera, PC_ with _Upali de Almeida_ for the petitioner-
+appellant.
+
+_Faiz Musthapha. PC_ with _Ananda Kasturiarachchi_ for the 2nd respondent-
+respondent.
+
+_Cur. adv. vult._
+
+December 10, 1998.  
+**  
+G. P. S. DE SILVA, CJ.**
+
+The petitioner-appellant (petitioner) is the owner of premises bearing
+assessment No. 279 Mutuwella Mawatha, Colombo 15. The 2nd respondent's husband
+was the tenant of the premises at the time the Ceiling on Housing Property Law
+(the Law) came into force. The tenant made an application in terms of section
+13 of the Law to purchase the premises. The 1st respondent (The Commissioner
+of National Housing) held an inquiry some time in 1976. The Court of Appeal
+has described this inquiry as "an abortive inquiry"; it appears to have been a
+perfunctory inquiry where the parties were not properly heard. (The notes of
+this inquiry have not been produced).
+
+The 1st respondent thereafter proceeded to hold a second inquiry in 1982. The
+notes of this inquiry have been produced marked P1. A perusal of P1 shows that
+both the owner and the tenant had been fully heard by the 1st respondent. At
+the conclusion of the inquiry, the 1st respondent on the grounds of "equities"
+refused the application of the tenant to purchase the premises. This decision
+was communicated to the tenant by P2 dated 25.9.84.
+
+The tenant (ie the 2nd respondent's husband) thereupon preferred an appeal to
+the Board of Review. The Board of Review by its order
+
+293
+
+P4 dated 8.9.98 allowed the appeal. The petitioner unsuccessfully moved the
+Court of Appeal by way of a writ of certiorari to quash the order P4. Having
+failed before the Court of Appeal, the petitioner has now preferred the
+present appeal to this Court.
+
+The principal ground upon which the Board of Review allowed the appeal of the
+tenant was that as far back as 28th October, 1976, the premises had "vested"
+in the 1st respondent and the 1st respondent had no jurisdiction to hold the
+second inquiry and "override or cancel" the "vesting order". However, what
+needs to be stressed is that the Board of Review held that the premises had
+"vested" in the 1st respondent solely on the basis of a letter at folio 12 of
+the Commissioner's file. Furthermore, the Board of Review proceeded to hold
+that the "decision or determination of the Commissioner had been communicated"
+to both the owner and the tenant by the letter dated 7th February, 1977.
+
+Now, in the first place a "vesting" of the premises could not be effected by
+the Minister making a minute in the departmental file or by writing a letter
+which is placed in the departmental file. This finding of the Board of Review
+is in the teeth of the express provisions of section 17 (1) of the Law.
+Admittedly, there was no "vesting order" published in the Gazette at that
+point of time.
+
+More importantly, on the undisputed facts as set out by the Board of Review in
+its order P4, the petitioner was informed of the purported "vesting" more than
+three months later. The purported "vesting" was on 28.10.76 while the
+communication of the "vesting" to the petitioner was as late as 7th February,
+1977\. This procedure is manifestly contrary to the ruling in _Caderamanpulle
+v. Pieter Keuneman and others_ ,(1) wherein Thamotheram, J. held. "There is a
+duty cast on the Commissioner to act fairly. The failure therefore to inform
+the landlord of the Commissioner's decision or determination under section 17
+before the Order of vesting was made deprived the landlord of his right under
+section 39 to appeal to the Board of Review". Thus, it is clear that the Board
+of Review was in grave error in making the order P4.
+
+The Court of Appeal too agreed with the reasoning and conclusion of the Board
+of Review. Said the Court of Appeal, "The Commissioner was in error in holding
+the second inquiry whilst the order of vesting
+
+294
+
+by the Minister stood without being quashed. In other words upon the vesting
+by the Minister title to the property passed to the 1st respondent under
+section 15 (2) of the Law. The 1st respondent therefore could not have held a
+fresh inquiry into the vesting on an application under section 13 in respect
+of property which had already vested in him. Thus, it follows he could not
+have made order refusing to vest a house which had already vested in him under
+section 17 (1) **. . .** "The judgment of the Court of Appeal is vitiated by
+the fact that it has failed to appreciate that there was no valid "vesting" in
+terms of section 17 (1) of the Law.
+
+The 2nd respondent, however, now relies on a Gazette notification published as
+late as 23rd February, 1996, in support of his submission that the premises in
+suit are lawfully vested in the 1st respondent. It is to be noted that the
+petitioner's application for a writ of certiorari to quash the order of the
+Board of Review (P4) was filed as far back as 20th April, 1990. While the
+matter was pending before the Court of Appeal, the Minister had proceeded to
+publish the Gazette notification which has been produced for the first time
+before this Court.
+
+In any event, I am of the view that this Gazette notification is of no avail
+to the 2nd respondent as it follows upon an invalid decision or determination
+to "vest" the premises made on 28.10.76. In other words, the "vesting order"
+published in the Gazette on 23.2.96 is founded on an illegal decision "to
+vest" the premises. It, therefore, has no force or avail in law.
+
+For these reasons, the appeal is allowed, the judgment of the Court of Appeal
+is set aside and we direct that a writ of certiorari do issue to quash the
+order of the Board of Review (P4). In all the circumstances, I make no order
+for costs of appeal.
+
+**WADUGODAPITIYA, J.** \- I agree.
+
+**WEERASEKERA, J.** \- I agree.
+
+_Appeal allowed._
+
+_Writ of Certiorari issued to quash the Order of the Board of Review._
+
+* * *
+
+**CommonLII:** [Copyright Policy](/commonlii/copyright.html) **|**
+[Disclaimers](/commonlii/disclaimers.html) **|** [Privacy
+Policy](/commonlii/privacy.html) **|** [Feedback](/commonlii/feedback.html)  
+URL: _http://www.commonlii.org/lk/cases/LKSC/1998/14.html_  
+

@@ -1,0 +1,234 @@
+[![CommonLII](/images/logos/CommonLII_small.jpg)](/) |  [Home](/) |
+[Databases](/databases.html) | [WorldLII](http://www.worldlii.org) |
+[Search](/forms/search1.html) | [Feedback](/commonlii/feedback.html)
+
+# Supreme Court of Sri Lanka  
+  
+---|---  
+**You are here:**   [CommonLII](/) >> [Databases](/databases.html) >> [Supreme
+Court of Sri Lanka](../) >> [2003](./) >> **[2003] LKSC 1**
+
+[Database Search](/form/search1.html?mask=lk/cases/LKSC) | [Name
+Search](/form/search1.html?mask=lk/cases/LKSC&title=1) | [Recent
+Decisions](../recent.html) |
+[Noteup](/form/search/?method=boolean&query=LKSC+2003+1 or 2003+LKSC+1) |
+[LawCite](/cgi-bin/LawCite/?cit=2003+LKSC+1) |
+[Help](/commonlii/help/cases.html "Help")
+
+* * *
+
+##  Transasia Trading Company v. D. B. S. Finance Limited (M.V. Meng Kiat) -
+SLR - 105, Vol 2 of 2003 [2003] LKSC 1; (2003) 2 Sri LR 105 (29 July 2003)
+
+**105**
+
+**TRANSASIA TRADING COMPANY  
+v.  
+D.B.S.FINANCE LIMITED  
+(M.V. MENG KIAT")**
+
+SUPREME COURT  
+FERNANDO, J.  
+J.A.N. DE SILVA, J., AND  
+WEERASURIYA, J.  
+SC APPEAL NO 62/2002  
+CA APPLICATION NO. 617/98 (REV.)  
+H.C.COLOMBO ACTION IN REM NO. 69/97  
+29TH JULY, 2003  
+  
+_Action in rem - Sale of ship by auction - Forfeiture of deposit of
+"unsuccess­ful bidder" \- Interpretation of "unsuccessful bidder" \- Does it
+apply only to the highest bidder who fails to complete purchase?  
+_  
+A vessel was sold by auction on 13.2.98 by the Marshall upon the order of the
+High Court of Colombo, in the exercise of its admiralty jurisdiction, in an
+action in rem against that ship.  
+  
+All prospective bidders were required to deposit with the Marshal US$ 50,000
+each before the auction, to become eligible to make bids at the auction. A bid
+will be accepted subject to the order of the Court which will normally be the
+highest bid. The successful bidders deposit will be applied against the
+pur­chase price and the balance has to be paid within 14 days from the
+auction. If the highest bidder fails to complete the purchase, other bidders
+in their respec­tive orders will be considered subject to the same procedure
+applying to the deposit and payment of the full price less the deposit. The
+deposits of the unsuccessful bidders will be refunded.  
+  
+There were two bids. The highest bid was US$ 775,000. The next bid by the
+appellant was US$ 770,000.  
+  
+The highest bidder defaulted payment. Consequently the appellant suggested a
+reduced offer of US$ 600,000. By his order on 17.3.1998 the High Court
+accepted the appellant's original bid of US$ 770,000 and directed the payment
+of the balance US$ 720,000. The appellant failed to make payment and moved
+that his deposit of US$ 50,000 be refunded. The High Court rejected the claim.  
+  
+It was argued that the appellant was an "unsuccessful" bidder and hence
+entitiled to the refund of his deposit.
+
+**106**
+
+**Held :  
+  
+**Even though the appellant was the 2nd highest bidder, he was a successful
+bidder though not a successful purchaser. Thus he was not an unsuccessful
+bidder who was entitled to the refund of the deposit.  
+  
+**APPEAL** from the judgment of the Court of Appeal.  
+  
+_Shibly Aziz, P.C._ with _R.S. Srikantha and S. Ahamed_ for appellant.  
+  
+K. Kanag-lswaran, P.C. with Chandaka Jayasundera and Shivan Kanag-Iswaran for
+respondent.
+
+_Cur. adv. vult_
+
+August 08.2003.  
+  
+**FERNANDO, J.  
+**  
+This appeal involves the interpretation of the conditions upon which 01 a
+vessel was sold by auction on 13.2.98 by the Marshal upon the order of the
+High Court of Colombo, in the exercise of its admiralty jurisdiction, in an
+action in rem against that vessel.  
+  
+The advertisement of the auction set out the following condi­tions of sale:  
+  
+"... All prospective bidders will be required to deposit with the Marshal a
+sum of US Dollars 50,000.00 each before the com­mencement of the auction by
+bank draft in favour of... in order to become eligible to take part and make
+bids at the auction. 10 This deposit will be applied towards the amount of the
+bid that is to be deposited by the successful bidder... The successful bidder
+will be required to deposit the balance bid amount ...within 14 bank working
+days of the date of auction in Sri Lanka Admiralty Account No. ... The deposit
+of US Dollars 50,000 will be forfeited if the successful bidder fails to
+deposit the balance bid amount as set forth above. Time is of the essence of
+the contract and no extensions of time will be granted under any circumstances
+whatsoever....
+
+**107**
+
+In the event of the first highest bidder failing to complete the purchase
+within the stipulated time, then the next highest bid­ders in their respective
+orders may be called upon to deposit the balance amount of their bids within
+14 bank working days, from being called upon to do so, and complete the
+purchase as set forth above if their bid is accepted by Court. Deposits of
+unsuccessful bidders will be refunded within 30 days of the completion of the
+sale of the vessel. All bids will be subject to the final approval of the
+Court in the exercise of its absolute discretion. ..." [emphasis added]  
+  
+At the auction there were only two bids: the "first highest bidder" offered
+US$ 775,000, while the petitioner-appellant company ("the appellant") offered
+US$ 770,000. It was common ground that the sale was confirmed by the High
+Court, and that the highest bid­der became obliged to deposit the balance sum
+of US$ 725,000 on or before 6.3.98, but failed to do so.  
+  
+On 16.3.98 the appellant's agent in Sri Lanka sent the follow­ing fax message
+to the plaintiff-respondent's attorneys-at-law:  
+  
+"We understand that the highest bidder... has defaulted pay­ment... and
+therefore the second highest bidder... will auto­matically be entitled for the
+purchase of the above vessel.  
+  
+This development has been advised to us by our principal.  
+  
+We wish to bring to your notice that it is more than (30) days from the date
+of the auction... and that the condition of the ves­sel is rapidly
+deteriorating.  
+  
+In order to resolve the sale of this vessel speedily we suggest a revised
+price of US$ 600,000 for the vessel.  
+  
+On confirmation of your acceptance of our proposal, we can arrange for
+remittance..."  
+  
+On 17.3.98. the High Court ordered the Registrar and the Marshal to inform the
+appellant that the Court had accepted its bid, 4and had directed the deposit
+of the balance sum of US$ 720,000 within the required period. The Marshal so
+informed the appellant, which failed to make payment, and moved that the
+deposit of US$ 50,000 be refunded.
+
+**108**
+
+The High Court rejected that claim, and ordered the forfeiture of the deposit.
+The appellant filed an application in revision in the Court of Appeal, which
+was dismissed. Against that order, the appellant now appeals to this Court
+having obtained special leave to appeal. The Appellant also applied,
+unsuccessfully, to the Court of Appeal for leave to appeal against the High
+Court order, and now seeks special leave to appeal from this Court (in SC SLA
+Application No 176/2002). Counsel agreed that the same questions of law are
+involved, and that if this appeal succeeds the appellant will withdraw that
+application; and that if this appeal fails, that appli­cation will be
+dismissed.  
+  
+Learned President's Counsel for the appellant contended that the conditions of
+sale only provide for the forfeiture of the deposit of "the successful
+bidder", and not of an "unsuccessful bidder"; that the "first highest bidder"
+was the only "successful bidder" contem­plated in the conditions of sale, and
+that the appellant was an so "unsuccessful bidder"; that in the absence of any
+specific provision for the forfeiture of the deposit of the "next highest
+bidder", the con­ditions of sale ought not to be interpreted as authorising
+forfeiture; and that, at the least, there was some ambiguity or doubt in the
+conditions of sale, which ought therefore to be interpreted contra proferentem
+and in favour of the appellant.  
+  
+The conditions of sale must be interpreted in their entirety, and not piece-
+meal. In regard to the deposit, they made express provision: that the deposit
+will be applied towards the amount of the bid that is to be deposited by the
+successful bidder, that if the successful bidder fails to deposit the balance
+the deposit will be forfeited, and that the deposits of the unsuccessful
+bidders will be returned. Immediately upon the conclusion of the auction, the
+"first highest bidder" would be (subject to High Court approval) the only
+"successful" bidder. But it does not follow that all the other bidders would
+immediately become "unsuccessful" bidders. Their status would be uncertain. If
+the "first highest bidder" completes the purchase, then the other bidders
+would be "unsuccessful" bidders. But if the "first highest bidder" defaults
+and if the Court accepts the bid of the second (or failing him, the third)
+highest bidder, that bidder so would then become a "successful" bidder, though
+not yet a successful purchaser. The conditions of sale do not treat such a
+bidder
+
+**109**
+
+as being an "unsuccessful" bidder at any stage thereafter. The consequence of
+the Court order of 17.3.98 was that the appellant became a "successful"
+bidder, and was thereupon not entitled to the refund of its deposit.  
+  
+Furthermore, when the Court decided to accept the bid of the appellant, and
+notified the appellant, and called for payment within the required period, the
+appellant became obliged to complete the purchase "as set forth above". That
+made the preceding provisions 9o of the conditions of sale - in regard to the
+completion of the pur­chase - binding upon the appellant. Those provisions as
+to com­pletion of the purchase included, but were not restricted, to the bank
+account to which payment had to be made. They included also other stipulations
+regarding forfeiture, time, and extensions.  
+  
+The conditions of sale set out a mechanism for recovery of the purchase price,
+in situations in which many bids would be received from persons outside the
+jurisdiction. Providing for deposits and for forfeiture of deposits upon
+default by bidders, despite acceptance of their bids, was part of that
+mechanism - uniformly applicable to 100 all such bidders.  
+  
+I find no ambiguity or doubt in the conditions of sale, and accordingly the
+contra proferentem rule is inapplicable.  
+  
+I therefore hold that the appellant's deposit was liable to forfeiture, and
+was lawfully forfeited. The orders of the High Court and the Court of Appeal
+are affirmed, and the appeal is dismissed with costs in a sum of Rs 50,000
+payable by the appellant to the plaintiff-respondent. In terms of the
+agreement between Counsel, SC SLA Application No 176/2002 is dismissed without
+costs.  
+  
+**DE SILVA, J. -** I agree.  
+  
+**WEERASURIYA, J. -** I  agree.  
+  
+_**Appeal dismissed.**_
+
+* * *
+
+**CommonLII:** [Copyright Policy](/commonlii/copyright.html) **|**
+[Disclaimers](/commonlii/disclaimers.html) **|** [Privacy
+Policy](/commonlii/privacy.html) **|** [Feedback](/commonlii/feedback.html)  
+URL: _http://www.commonlii.org/lk/cases/LKSC/2003/1.html_  
+

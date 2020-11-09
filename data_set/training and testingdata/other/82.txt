@@ -1,0 +1,386 @@
+[![CommonLII](/images/logos/CommonLII_small.jpg)](/) |  [Home](/) |
+[Databases](/databases.html) | [WorldLII](http://www.worldlii.org) |
+[Search](/forms/search1.html) | [Feedback](/commonlii/feedback.html)
+
+# Supreme Court of Sri Lanka  
+  
+---|---  
+**You are here:**   [CommonLII](/) >> [Databases](/databases.html) >> [Supreme
+Court of Sri Lanka](../) >> [1998](./) >> **[1998] LKSC 11**
+
+[Database Search](/form/search1.html?mask=lk/cases/LKSC) | [Name
+Search](/form/search1.html?mask=lk/cases/LKSC&title=1) | [Recent
+Decisions](../recent.html) |
+[Noteup](/form/search/?method=boolean&query=LKSC+1998+11 or 1998+LKSC+11) |
+[LawCite](/cgi-bin/LawCite/?cit=1998+LKSC+11) |
+[Help](/commonlii/help/cases.html "Help")
+
+* * *
+
+##  Rajapakse and Others v. Dissanayake, Labour Officer and Another - SLR -
+398, Vol 1 of 1998 [1998] LKSC 11; (1998) 1 Sri LR 398 (21 May 1998)
+
+**398**
+
+**RAJAPAKSE AND OTHERS  
+v.  
+ DISSANAYAKE, LABOUR OFFICER AND ANOTHER**
+
+SUPREME COURT  
+G. P. S. DE SILVA, CJ.,  
+WIJETUNGE, J. AND  
+ANANDACOOMARASWAMY, J.  
+S.C. APPEAL NO. 50/96  
+H.C. COLOMBO NO. HCMCA 441/95  
+M.C. COLOMBO NO. 91879/3  
+AUGUST 27TH, OCTOBER 23RD. 1997.  
+DECEMBER 15TH, 1997, JANUARY 28TH, MARCH 16TH AND  
+MAY 18TH, 1998.  
+  
+_Shop and Office Employees Act - Failure to pay remuneration to an employee -
+Offence under S. 52 (1) read with s. 19 (1) (b) (Hi) of the Act - Burden of
+proof as to payment - Meaning of "employee" \- Sections 20 and 68 (2) of the
+Ad  
+_  
+Appellants who were the employers of Cecil Perera employed at the office of
+Lucksun Industries as its General Manager were convicted of the offence of
+failing to pay remuneration due to Cecil Perera in contravention of S. 19 (1)
+(b) (iii) of the Shop and Office Employees (Regulation of Employment and
+Remuneration) Act, an offence punishable under s. 52 (i).
+
+**399**
+
+**Held:  
+**  
+1\. In terms of s. 52 (4) of the Act the burden of proving that the
+remuneration due was paid is on the employer.  
+  
+2\. In the light of sections 20 and 68 (2) of the Act, Cecil Perera though
+designated as General Manager was an "employee within the meaning of the Act.  
+  
+Per G. P. S. de Silva, CJ.  
+  
+"On a reading of the entire Act, it seems to me that there is no warrant for
+giving a narrow or restrictive meaning to the word "employee". To do so would
+tend to defeat the object of the Act and render its salutory provisions
+largely nugatory."  
+  
+**APPEAL** from the judgment of the High Court of Colombo.  
+  
+_R. K. W. Goonesekera with Crosette-Tambiah_ for the appellants.  
+  
+_U. Egalahewa_ S.C for respondents.
+
+_Cur. adv. vult._
+
+May 21, 1998  
+  
+**G. P. S. DE SILVA, CJ.  
+**  
+The appellants who were the employers of Cecil Perera were charged in the
+Magistrate's Court with having failed to pay the balance remuneration due to
+the said Cecil Perera for the months of (i) 1.11.84 to 30.11.84, (ii) 1.12.84
+to 31.12.84, (iii) 1.1.85 to 31.1.85, in contravention of section 19 (1) (b)
+(iii) of the Shop and Office Em­ployees (Regulation of Employment and'
+Remuneration) Act, an of­fence punishable under section 52 (1). It was the
+case for the prosecution that Cecil Perera was employed at the office of
+Lucksun Industries, 379, Prince of Wales Avenue, Colombo 14, as its General
+Manager on a salary of Rs. 15,000 per month. The prosecution alleged that out
+of the said sum of Rs. 15,000 Cecil Perera was in fact paid only Rs. 3,000 per
+month and the balance remuneration due to him was Rs. 12,000 per month.  
+  
+Cecil Perera was appointed General Manager of Lucksun Industries with effect
+from 1.3.84. Vide the letter dated 23.2.84, written by the 1st appellant
+(Managing Partner of Lucksun Industries) marked P1.
+
+**400**
+
+It is in evidence that prior to his appointment as General Manager, Cecil
+Perera was a self-employed businessman who sold imported goods, electrical
+equipment, etc., and maintained an "after sales service" at his workshop. The
+1st appellant was a customer of Cecil Perera for about 5 years prior to March,
+1984 and there developed a close friendship between them over the years. Since
+1982 Cecil Perera "provided at his workshop the technical service facility for
+Rowenta household appliances sold by Lucksun industries virtually to the
+exclusion of (his) other business and customers" (vide paragraph 3 of A4).  
+  
+The case for the defence was that the remuneration payable to Cecil Perera as
+General Manager of Lucksun Industries was only Rs. 3,000 and that the said sum
+of Rs. 3,000 was duly paid to him. The defence further contended that an
+additional sum of Rs. 12,000 was payable to him on the basis of the technical
+services provided by Cecil Perera for Rowenta appliances sold by Lucksun
+Industries. In short, the position of the defence was that although a total
+sum of Rs. 15,000 per month was payable to Cecil Perera, yet the remuneration
+due to him **as General Manager of Lucksun Industries** was no more than Rs.
+3,000. Receipts were produced to prove the payment of Rs. 3,000 per month.  
+  
+The case for the defence, however, is **totally inconsistent with the
+documentary evidence,** placed before the court. The two crucial documents are
+P1 and P2.  
+  
+P1, the letter of appointment, reads thus:
+
+(P1)
+
+Lucksun Industries,  
+23 February, 1984.
+
+"Mr. E. Cecil Perera,  
+'Devika'  
+45, Off Templar Road,  
+Mount Lavinia.  
+  
+My dear Cecil,
+
+Having made my initial contact with you as a customer almost five years ago
+and our close association ever since, both socially and in business,
+particularly in respect of your wholehearted collaboration
+
+**401**
+
+with me in providing the technical service facility for Rowenta for the past
+two years to date which you have handled so very well for Lucksun Industries,
+and to the numerous other opportunities I have had, to be able to judge at
+first hand, your dynamic, energetic, self-motivated manner with a senior and
+mature outlook, and your ability to relate well and to communicate effectively
+with different types of people at various levels of responsibility in
+commercial, industrial and government sectors - coming naturally from your
+rich and wide work experience of the past, and your proven skills in widely
+different fields in management and industry with international organisations;
+it is my pleasure to invite you to join the management of my organisation on a
+full-time basis with effect from 1st March, 1984.  
+  
+In view of this total involvement with _LUCKSUN INDUSTRIES_ I naturally will
+expect you to phase out all your present personal business activities other
+than the continuation under your total control of the _ROWENTA TECHNICAL
+FACILITY_ , within the next three months, when such private business
+activities should cease, in the best interest of the company.  
+  
+As General Manager, Lucksun Industries, you will report direct to me and will
+be responsible to identify, analyse, develop and rec­ommend significant
+changes as may be necessary or desirable to raise and enhance the corporate
+image of _LUCKSUN_ _INDUSTRIES_ and will assume responsibility to expand and
+enlarge the scope of the company in areas of Imports and Exports, Marketing
+and Distribution, Advertising and Sales Promotion, Manufacturing, Investments,
+Acquisitions, Joint Ventures, Technology and Personnel Upgrading and Training,
+covering all aspects of Services, Trading and Management for _LUCKSUN
+INDUSTRIES_.  
+  
+Considering your past very successful and proven Senior Manage­ment experience
+and the challenge of the present opportunity in today's context as General
+Manager, Lucksun Industries, I propose to provide you a very generous and
+competitive compensation package, which would include a company car and other
+perquisites, comprising:-  
+  
+1\. A salary of Rupees fifteen thousand per mensem.  
+  
+2\. A company-maintained car for official and private use.  
+  
+3\. Reimbursement of business and entertainment expenses.
+
+**402**
+
+4\. Membership cover under scheme A of the Insurance Corpo­ration of Sri Lanka
+under the Surgical and Hospital expenses scheme, applicable to employee,
+spouse and children.  
+  
+5\. Eligibility and participation in the EPF and other statutory funds taxes
+as applicable.  
+  
+Needless to say that you will handle your interesting and challenging
+assignment with the greatest diplomacy and tact and with the strictest
+confidentiality in respect to the company's business interests - whilst being
+free at all times to seek my personal views and opinions on any matter
+whatsoever.  
+  
+Please signify in the space below your acceptance of this letter of
+appointment made out in duplicate returning the duplicate copy for my records.  
+  
+While welcoming you to the Lucksun family, you have my very best and sincere
+good wishes for a long and successful association for our mutual benefit, and
+assure you of my fullest support and co-operation, in all your endeavours to
+enhance and upgrade the corporate image and progress of the company.
+
+Very sincerely yours,  
+_LUCKSUN INDUSTRIES  
+_  
+Sgd.
+
+D. L Rajapakse,  
+Managing Partner.
+
+Signed in acceptance  
+Sgd.  
+E. Cecil Perera  
+Date: 23rd February, 1984."  
+  
+The services of Cecil Perera were terminated on 7.3.85 by letter P2 written by
+the 1st appellant, P2 reads as follows:
+
+**403**
+
+(P2)                                       _LUCKSUN INDUSTRIES_
+
+"24th May, 1985.  
+  
+Mr. E. Cecil Perera,  
+'Devika',  
+No. 45, Off Templar's Road,  
+Mount Lavinia.  
+  
+Dear Sir,  
+  
+Consequent to the Disciplinary Inquiry held against you by Mr. D. W. Fernando
+and the report that has been filed with me finding you guilty, I have now
+decided to dismiss you from service with effect from 7th March, 1985.  
+  
+I find from my records that a sum of Rs. 18,000 (Eighteen Thousand only) made
+up as follows is due to you:
+
+Salary for February, 1985  |
+
+Rs. 15,000/-  
+---|---  
+Salary for six days in March, 1985  |
+
+Rs.   3.000/-  
+  |
+
+Rs. 18,000/-  
+  
+Please find an "A/C Payee" cheque No. B322-046560 for Rs. 18,000 attached
+accordingly, I shall be glad to have your receipt for same.  
+  
+Thanking you.  
+Yours faithfully,  
+_LUCKSUN INDUSTRIES_  
+  
+Sgd. D. L Rajapakse  
+       Managing Director."  
+  
+On a reading of P1 and P2 it is clear beyond doubt that the salary payable to
+Cecil Perera as General Manager of Lucksun Industries was fixed at Rs. 15,000
+per month. However, Mr. R. K. W. Goonesekera for the appellants referred us to
+the testimony of Cecil Perera and of the 1st appellant and strenuously
+contended that there was a
+
+**404**
+
+subsequent oral agreement whereby the parties agreed to fix the salary payable
+to Cecil Perera as General Manager at Rs. 3,000 per month and the balance sum
+of Rs. 12,000 was payable for the technical services and facilities provided
+by Cecil Perera. On the other hand, state counsel relied on portions of the
+oral evidence given by Cecil Perera which tended to negative the existence of
+such an agreement. Cecil Perera in his evidence stated that Lucksun Industries
+was at that time in financial difficulties, and owing to the close association
+between him and the 1st appellant for the past several years he did not insist
+on the payment of the full sum of Rs. 15,000 as stated in P1. Cecil Perera
+stated in his evidence that he paid some of the workmen "out of his own money"
+as he felt sorry for his friend, the 1st appellant.  
+  
+On a consideration of the entirety of the evidence in regard to the alleged
+subsequent oral variation of the salary of Cecil Perera, it seems to me that
+the evidence is at best of an equivocal nature. The position taken up by the
+defence is manifestly in direct conflict with the documentary evidence
+referred to above. I am of the opinion that the Magistrate has correctly
+evaluated that oral evidence in the light of the cogent and unambiguous
+documentary evidence and has rightly held that a sum of Rs. 15,000 per month
+was the salary payable to Cecil Perera, and of this sum only Rs. 3,000 per
+month was in fact paid to him. There is no satisfactory evidence to prove that
+the balance sum of Rs. 12,000 was paid to Cecil Perera. In this connection the
+Magistrate has in the course of her judgment correctly referred to section 52
+(4) of the Act which expressly provides that the burden of proving that the
+balance remuneration was paid lies on the employer. Thus, on the facts, the
+conviction is well-supported by the evidence, in' particular P1 and P2.  
+  
+The next submission of Mr. R. K. W. Goonesekera was that the Shop and Office
+Employees (Regulation of Employment and Remuneration) Act has no application
+to the instant case. Mr. Goonesekera stressed the fact that Cecil Perera was
+holding a "senior managerial position"; his appointment was to a "senior
+execu­tive grade". Counsel contended that the Act was intended to "protect"
+persons who were below "the managerial level"; the focus was on those who are
+not in a position to assert their rights and vindicate their claims against
+the "management". Reliance was placed on the definition of "employer" in
+section 68 (1) which reads thus :
+
+**405**
+
+'Employer -  
+(a)  . . . . . . . . . . . . . . . . . . .  
+  
+(b)  in relation to any office, means the person carrying on, or for the time
+being responsible for the management of, the business for the purpose of which
+the office is maintained."  
+  
+On the other hand, state counsel referred us to section 3 (5) of the Act and
+argued that the persons excluded from the purview of the Act are those who
+hold "an executive or managerial position in a public institution. . ." The
+expression "public institution" is defined as "any corporation, board or other
+body established by or under any written law, other than the Companies
+Ordinance, with capital wholly or partly provided by the Government by way of
+grant, loan or other form". State counsel also referred us to section 68 (2),
+the material part of which reads thus: "For the purposes of this Act, a person
+shall be deemed to be employed in or about the business of a shop or office if
+he is wholly or mainly employed.  
+  
+(a) . . . . . . . . . . .  . . . . . .  
+  
+(b) in the service of the employer upon any work, whether in the shop or
+office or outside it, which is ancillary to the business carried on in that
+shop or office, and notwithstanding that he receives no reward for his labour;
+but he shall not be deemed to be so employed if his only employment in the
+service of the employer **is in the capacity of a caretaker or watcher. "**  
+  
+In considering the question whether Cecil Perera who was appointed as General
+Manager in terms of P1 falls within the purview of the Act, it is intensely
+relevant to note that the Shop and Office Employees (Regulation of Employment
+and Remuneration) Act is an important piece of social legislation enacted in
+1954 in the context of the emerging concept of a welfare state. Part HI of the
+Act which deals with "regulation of remuneration" defines the expression
+"employee" in very wide terms - "In this part, employee means a person
+employed in or about the business of a shop or office". On a reading of the
+entire Act, it seems to me that there is no warrant for giving a narrow or
+restrictive meaning to the word "employee". To do so would tend to defeat the
+object of the Act and render its salutry provisions largely nugatory. The
+facts in this case reveal that Cecil Perera, though designated as General
+Manager, was in as vulnerable
+
+**406**
+
+a position as any employee subordinate to him. I hold that the Act does not
+envisage a distinction between persons holding "a managerial position" like
+Cecil Perera and other subordinate employees, as contended for on behalf of
+the appellants.  
+  
+Finally, Mr. Goonesekera submitted that the Magistrate was in grave error in
+imposing a fine of Rs. 135,000 on the appellants. With this submission, I
+agree. Apart from the balance remuneration due for the 3 months set out in the
+charge, the Magistrate has, contrary to the provisions of section 53 (1) of
+the Act taken into account a further period of 8 months. In so doing the
+Magistrate has overlooked the fact that section 53 (1) expressly limits the
+period to "four years preceding the date on which complaint under section 136
+of the Code of Criminal Procedure Act was made to court". It was agreed that
+the relevant date was 19.10.88. State counsel rightly conceded that the total
+fine the Magistrate could have lawfully imposed on the appellants is Rs.
+41,000 (Rs. 36,000 for the 3 months set out in the charge plus Rs. 5,000). I
+accordingly set aside the fine of Rs. 135,000 imposed on the appellants, and
+substitute therefor a fine of Rs. 41,000.  
+  
+Subject to the aforesaid variation in the quantum of the fine, the appeals are
+dismissed.  
+  
+**WIJETUNGA, J. - I agree.  
+  
+ANANDACOOMARASWAMY, J. - I agree.  
+  
+_Appeal dismissed._  
+**  
+**_Quantum of fine varied._**
+
+* * *
+
+**CommonLII:** [Copyright Policy](/commonlii/copyright.html) **|**
+[Disclaimers](/commonlii/disclaimers.html) **|** [Privacy
+Policy](/commonlii/privacy.html) **|** [Feedback](/commonlii/feedback.html)  
+URL: _http://www.commonlii.org/lk/cases/LKSC/1998/11.html_  
+

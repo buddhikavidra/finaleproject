@@ -1,0 +1,229 @@
+[![CommonLII](/images/logos/CommonLII_small.jpg)](/) |  [Home](/) |
+[Databases](/databases.html) | [WorldLII](http://www.worldlii.org) |
+[Search](/forms/search1.html) | [Feedback](/commonlii/feedback.html)
+
+# Supreme Court of Sri Lanka  
+  
+---|---  
+**You are here:**   [CommonLII](/) >> [Databases](/databases.html) >> [Supreme
+Court of Sri Lanka](../) >> [1996](./) >> **[1996] LKSC 12**
+
+[Database Search](/form/search1.html?mask=lk/cases/LKSC) | [Name
+Search](/form/search1.html?mask=lk/cases/LKSC&title=1) | [Recent
+Decisions](../recent.html) |
+[Noteup](/form/search/?method=boolean&query=LKSC+1996+12 or 1996+LKSC+12) |
+[LawCite](/cgi-bin/LawCite/?cit=1996+LKSC+12) |
+[Help](/commonlii/help/cases.html "Help")
+
+* * *
+
+##  Ameer v. Kulatunge - SLR - 398, Vol 2 of 1996 [1996] LKSC 12; (1996) 2 Sri
+LR 398 (20 August 1996)
+
+**398**
+
+**AMEER  
+****v** **.  
+KULATUNGE**
+
+SUPREME COURT  
+G. P S. DE SILVA, C.J.  
+RAMANATHAN, J.  
+WIJETUNGE, J.  
+S.C. 93/95.  
+C.A. REV 3/95.  
+DC COLOMBO 7919/RE.  
+AUGUST 20, 1996.
+
+_Rent and Ejectment - Rent Act 7 of 1972 - Civil Procedure Code S 36.
+Misjoinder of causes of action - Termination of Tenancy - Notice to quit -
+Sinhala copy of plaint different from English copy._
+
+The Plaintiff Appellant instituted action to eject the Defendant - Respondent
+from four premises bearing Assest. Nos. 65, 63 1/1, 63 1/2 and 71.The District
+Court decided to try the issues on misjoinder of causes of action as
+preliminary Issues. The District Court answered these issues in favour of the
+Plaintiff and made order setting down the case for Trial on the remaining
+issues.
+
+The Defendant moved in Revision and submitted that there has been no
+termination of the Tenancy in respect of premises No. 71, as para 9 of the
+Sinhala copy of the plaint it is averred that on or about 9.7.92, the
+Plaintiff by his Attorney-at-Law gave the Defendant notice to quit the
+premises 65, 63 1/1, 63 1/2 and there was no reference to premises No. 71 in
+para 9 of the Sinhala copy.
+
+Although this matter was not raised before the District Court, the learned
+District Judge in his order noted the fact that in the English copy of the
+Plaint para 9 refers to premises No. 71 as well.
+
+The Court of Appeal took the view that there is no provision in law for the
+District Judge to refer to the English copy of the Plaint to supplement the
+ommision in the plaint in Sinhala, and the Plaintiff cannot eject the
+Defendant from Premises No. 71 as prayed for without terminating the Tenancy
+in respect of the premises; that there is a misjoinder of causes of action.
+The Court of Appeal dismissed the Plaintiffs action, on appeal.
+
+**Held:**
+
+(1)  On reading of the entirety of the plaint in Sinhala it is clear that the
+
+**399**
+
+omission in para 9 to refer to premises No. 71 is only a typographical error.
+
+(2) The Court of Appeal had overlooked the fact that the Notice to quit refers
+not only to premises No. 65, 63 1/1, 63 1/2 but also to No. 71.
+
+(3) Reference to the English copy of the Plaint (by the District Judge) would
+merely confirm, if confirmation was necessary, the conclusion arrived at by a
+scrutiny of all the averments in the Sinhala plaint.
+
+(4) Section 36 of the Civil Procedure Code permits the Plaintiff to unite
+several causes of Action against the same Defendant.
+
+(5) Court cannot dismiss an action merely on the ground of misjoinder of
+Causes of Action.
+
+**APPEAL** from the judgment of the Court of Appeal.
+
+**Cases referred to:**
+
+1\. _Morais_ _v. Victoria_ \- 73 NLR 409 at 413.
+
+2 _Dingiri_ _Appuhamy v. Pagnananda Thero_ 67 NLR 89 at 90.
+
+_A. K. Premadasa, P.C._ with _G. H. A. Suraweera_ and _C. E. de Silva_ for the
+
+Plaintiff-Appellant.
+
+_Rohan_ _Sahabandu_ for Defendant-Respondent.
+
+_Cur._ _adv. vult_.
+
+September 06, 1996.
+
+**G. P S. DE SILVA, C. J.**
+
+The Plaintiff instituted these proceedings seeking, _inter alia_ , the
+ejectment of the Defendant from four premises bearing assessment Nos. 65, 63
+1/1, 63 1/2 and 71, Jayantha Weerasekera Mawatha,  Colombo 10\. In his plaint
+the Plaintiff averred that the premises in suit are "excepted" premises and
+accordingly the provisions of the Rent Act have no application. The Defendant
+in his answer pleaded _inter alia_ , that the premises are governed by the
+provisions of the Rent Act.
+
+The District Court decided to try issue Nos. 10, 11 and 12 as preliminary
+issues of law. These issues read as follows:
+
+**400**
+
+Issue No. 10 - Is there a misjoinder of causes of action as pleaded in the
+plaint?
+
+Issue No. 11 - If the above issue is answered in the affirmative, can the
+Plaintiff have and maintain this action?
+
+Issue No. 12 - Does the plaint conform to the imperative provisions of the
+Civil Procedure Code?
+
+The District Court having considered the submissions made by Counsel for both
+parties delivered its order answering all three issues in favour of the
+Plaintiff and made order setting down the case for trial on the remaining
+issues. The Defendant thereupon moved the Court of Appeal by way of an
+application in revision to have the order of the District Court set aside. The
+Court of Appeal set aside the order of the District Court and answered the
+preliminary issues in favour of the Defendant. Hence the present appeal
+preferred to this court by the Plaintiff.
+
+At the hearing before the Court of Appeal, Counsel for the Defendant
+Petitioner submitted that there has been no termination of the tenancy in
+respect of the premises bearing assessment No. 71\. Counsel relied on
+paragraph 9 of the Sinhala copy of the plaint, wherein it is averred that on
+or about 9th July 1992, the Plaintiff by his Attorney-at-Law gave the
+Defendant notice to quit the premises Nos. 65, 63 1/1, 63 1/2 Jayantha
+Weerasekea Mawatha, Colombo 10, on or before 31st August 1992.
+
+The contention was that in paragraph 9 of the plaint in Sinhala there was no
+reference whatsoever to premises bearing assessment No. 71. The omission to
+refer to premises No. 71 in paragraph 9 of the Sinhala copy of the plaint
+filed of record was discovered by the District Judge on his own; it was not a
+matter which was raised before the District Court by Counsel for the
+Defendant. The District Judge, however, in his order noted the fact that in
+the English copy of the plaint filed of record paragraph 9 refers to premises
+bearing assessment No. 71 as well. The Court of Appeal took the view that
+there was no provision in law for the District Judge to refer to the English
+copy of the plaint to supplement the omission in the plaint in Sinhala.
+
+**401**
+
+Mr. Premadasa for the Plaintiff Appellant submitted that on a reading of the
+entirety of the plaint in Sinhala it is clear that the omission in paragraph 9
+to refer to premises bearing assessment No. 71 is only a typographical error.
+With this submission I agree. Paragraph 2 of the plaint avers that the
+Plaintiff let to the Defendant and the Defendant took on rent from the
+Plaintiff on terms of a monthly tenancy premises Nos. 65, 63 1/1, 63 1/2 and
+71 Jayantha Weerasekera Mawatha, Colombo 10. In paragraph 3 of the plaint it
+is averred, Inter alia, that premises bearing assessment No. 71 is more fully
+described in the 3rd schedule to the plaint. In paragraph 7 it is averred that
+premises No. 71 are excepted premises, in terms of regulation 3 of the
+schedule to the Rent Act. Paragraph 10 of the plaint further avers that a
+cause of action has accrued to the Plaintiff to sue the Defendant for
+ejectment from premises bearing assessment No. 71. In paragraph (c) of the
+prayer to the plaint the Plaintiff prays for ejectment of the Defendant from
+premises No. 71. It is thus manifest on a careful reading of the plaint in
+Sinhala as a whole that the omission to refer to premises No. 71 in paragraph
+9 is no more than a typographical error.
+
+More importantly, the Court of Appeal has overlooked the fact that with the
+statement of objections filed on behalf of the Plaintiff the copy of the
+notice to quit served on the Defendant was produced marked "A". At the hearing
+before us, Mr. Rohan Sahabandu for the Defendant Respondent very properly did
+not challenge the receipt of the notice to quit. (At the trial, the notice to
+quit was not marked as the leading of evidence had not commenced). Now, the
+notice to quit refers not only to premises Nos. 65, 63 1/1, 63 1/2 but also to
+premises bearing assessment No. 71, Jayantha Weerasekera Mawatha, Colombo 10.
+If the Court of Appeal had considered the terms of the notice to quit then it
+would have been clear beyond doubt firstly, that the tenancy in respect of
+premises No. 71, has been terminated and secondly, that the omission to refer
+to premises No. 71 in paragraph 9 was merely a typographical error and nothing
+turns upon that omission. Reference to the English copy of the plaint would
+merely confirm, if confirmation was necessary, the conclusion arrived at by a
+scrutiny of all the averments in the plaint in Sinhala. In this view of the
+matter, the Court of Appeal was in error in holding that, ". . . when the
+Respondent sought to eject the petitioner from premises No. 71
+
+**402**
+
+as prayed for in paragraph 11 (c) of the plaint without first terminating the
+tenancy in respect of the premises, there has been a misjoinder of causes of
+action."
+
+What I have stated above is sufficient to dispose of the appeal, but I would
+like to make the observation that section 36 of the Civil Procedure Code
+permits the Plaintiff to unite several causes of action against the same
+Defendant. (In this case there was only one Defendant ) "There is . . . no
+objection to the Plaintiff uniting in one action several different causes of
+action against the same Defendant in accordance with section 36 of our code .
+. ." _per A. L. S. Sirimanne J., in Morals v. Victoria_.(1) In any event, a
+Court cannot dismiss an action merely on the ground of misjoinder of causes of
+action. _Dingiri_ _Appuhamy v. Pagnananda Thero_.(2)
+
+For these reasons, the appeal is allowed, the judgment of then Court of Appeal
+is set aside and the order of the District Court dated 25.11.94 is restored.
+The Defendant-Respondent must pay the Plaintiff-Appellant a sum Rs. 1000/- as
+costs of appeal.
+
+**RAMANATHAN, J.** \- I agree.
+
+**WIJETUNGA, J. -** I agree.
+
+_Appeal allowed._
+
+* * *
+
+**CommonLII:** [Copyright Policy](/commonlii/copyright.html) **|**
+[Disclaimers](/commonlii/disclaimers.html) **|** [Privacy
+Policy](/commonlii/privacy.html) **|** [Feedback](/commonlii/feedback.html)  
+URL: _http://www.commonlii.org/lk/cases/LKSC/1996/12.html_  
+

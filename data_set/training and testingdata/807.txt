@@ -1,0 +1,281 @@
+##  Mohamed Ameer and Another v. Yapa Assistant Commissioner of Labour - SLR -
+156, Vol 1 of 1998 [1997] LKSC 43; (1998) 1 Sri LR 156 (2 December 1997)
+
+**156**
+
+**MOHAMED AMEER AND ANOTHER  
+v.  
+YAPA, ASSISTANT COMMISSIONER OF LABOUR**
+
+SUPREME COURT  
+FERNANDO, J.,  
+WIJETUNGA, J. AND  
+ANANDACOOMARASWAMY, J.  
+S.C. APPEAL NO. 121/97  
+CA. APPLICATION NO. 3/97  
+H.C. NWP NO. 70/95  
+M.C. KURUNEGALA NO. 91382  
+DECEMBER 2ND, 1997.  
+  
+_Employees' Provident Fund Act, No. 15 of 1958 - Default by the employer
+-Recovery of sums due - Particulars required to be set out in certificate
+under S. 38 (2).  
+_  
+**Held:  
+**  
+Section 38 (2) of the Employees' Provident Fund Act, No. 15 of 1958 requires
+that the employees in respect of whom default is alleged must be named or
+otherwise adequately identified; and that (at least) where default is alleged
+in respect of a period during which there has been changes in remuneration
+and/ or rates of contributions, the remuneration in relation to which the
+contributions and default has been computed must also be disclosed.  
+  
+**Cases referred to:**  
+  
+1\. _Vaz v. Commissioner of Income Tax_ 46 NLR 200, 202.  
+  
+2\. _Ekanayake v. Prince of Wales Co-operative Society_ 50 NLR 297.  
+  
+3\. _De Silva v. Commissioner of Income Tax_ 53 NLR 280, 282, 283.  
+  
+4\. _Barnes de Silva v. Galkissa-Wattarapola Co-operative Stores Society_ 54
+NLR 326, 329.
+
+**157**
+
+5\. _Nilaweera v. Commissioner of Inland Revenue_ 63 NLR 486.  
+  
+6\. _Free Lanka Trading Limited v. Commissioner of Labour_ (1982) 1 Sri LR 97.  
+  
+7\. _Ramlin v. Commissioner of Inland Revenue_ (1988) 2 Sri LR 259.  
+  
+8\. _Philip v. Commissioner of Inland Revenue_ 1 Sriskantha 133, 134.  
+  
+9\. _Mendis v. Commissioner of Income Tax_ 61 NLR 95, 96.  
+  
+10\. _City Carriers Ltd. v. Attorney-General_ (1992) 2 Sri LR 257.  
+  
+**APPEAL** from the judgment of the Court of Appeal.  
+  
+_A. P.  Niles with Shilan Nagoor_ for the appellants.  
+  
+_Adrian Pereira_ , SSC for the respondent.
+
+_Cur. adv. vult._
+
+December 16, 1977.  
+  
+**FERNANDO, J.  
+**  
+In this appeal we have to interpret section 38 (2) of the Employees' Provident
+Fund Act, No. 15 of 1958, as amended by Act No. 8 of 1971, which provides:  
+  
+"Where an employer makes default in the payment of any sum which he is liable
+to pay under this Act and the Commissioner is of opinion that it is
+impracticable or inexpedient to recover that sum under section 17 or under
+subsection (1) of this section or where the full amount due has not been
+recovered by seizure and sale, then, he may issue a certificate containing
+particulars of the sum so due and the name and place of residence of the
+defaulting employer, to the Magistrate having jurisdiction in the division in
+which such place is situate. The Magistrate shall, thereupon, summon such
+employer before him to show cause why further proceedings for the recovery of
+the sum due under this Act should not be taken against him and in default of
+sufficient cause being shown, such sum shall be deemed to be a fine imposed by
+a sentence of the Magistrate on such employer . . ."  
+  
+Section 38 (3) further provides:  
+  
+"The correctness of any statement in a certificate issued by the Commissioner
+for the purposes of this section shall not be called in question or examined
+by the court in any proceedings under
+
+**158**
+
+this section, and accordingly nothing in this section shall authorize the
+court to consider or decide the correctness of any statement in such
+certificate, and the Commissioner's certificate shall be sufficient evidence
+that the amount due under this Act from the defaulting employer has been duly
+calculated and that such amount is in default".  
+  
+A certificate under section 38 (2) was issued to the Magistrate's Court of
+Kurunegala alleging default by the respondents-petitioners-petitioners-
+appellants ("the Appellants") in a sum of Rs. 150,992; the following details
+were given:  
+
+
+(1) Number of employees in respect of whom there was a default in
+contributions  | TWO  
+---|---  
+(2) Period of default |  May 1971 to July 1991  
+(3) Employees' contributions under section 10 (1) | Rs.     40,264  
+(4) Employer's contributions under section 10 (2) | Rs.     60,398  
+(5) Total amount of contributions in default | Rs.   100,662  
+(6) Surcharge added under section 16 | Rs.     50,330  
+  
+Total | Rs.   150,992  
+  
+The Magistrate's Court, the High Court in revision, and the Court of Appeal,
+held that the certificate was in order.  
+  
+The question is whether the above details constitute "particulars of the sum
+so due" within the meaning of section 38 (2). Counsel agreed that the appeal
+must be dismissed if they did; but allowed if they did not.  
+  
+The principal grievance of learned Counsel for the Appellants was that the
+certificate did not set out the names and emoluments of the employees in
+respect of whom default was alleged. He cited Vaz v. Commissioner of Income
+Tax, (1) Ekanayake v. Prince of Wales Cooperative Society,(2) De Silva v.
+Commissioner of Income Tax, (3) Barnes de Silva v. Galkissa-Wattarapola Co-
+operative Stores Society(4) Nilaweera v. Commissioner of Inland Revenue,(5)
+Free Lanka Trading Limited v. Commissioner of Labour, (6) Ramlin v.
+Commissioner of Inland Revenue (7) Philip v. Commissioner of Inland Revenue,
+(8) and Mendis v. Commissioner of Income Tax, (9) in support of the
+proposition
+
+**159**
+
+that a certificate issued under provisions similar to section 38 (2) could be
+challenged, notwithstanding preclusive clauses similar to section 38 (3). He
+also cited City Carriers Ltd. v. Attorney-General, (10) which quashed
+proceedings before the Magistrate's Court, where the certificate contained no
+particulars of the sum claimed. Since there were no particulars at all, it was
+unnecessary in that case to decide what details must be furnished; however,
+Counsel referred to the submission made in that case that:  
+  
+". . . the document X1 contains only the total sum alleged to be due but does
+not set out any particulars whatsoever in regard to e.g. the computation of
+that sum, the period within which that sum became due, the number of employees
+concerned in making the computation _**or**_ their names and emoluments, etc.
+. . ."  
+  
+He contended that names and emoluments should be stated, while learned Senior
+State Counsel argued that it was sufficient to state either the number of
+employees or their names and emoluments.  
+  
+The Court of Appeal considered that the details given were sufficient -
+seemingly on the basis that because the number of employees was stated, their
+names and emoluments were unnecessary.  
+  
+It seems to me that two distinct questions arise in relation to enforcement
+proceedings commenced by means of a certificate issued under section 38 (2).
+The first is whether the certificate sets out the particulars of the sum due,
+in the manner and to the extent required by section 38 (2). If it does not,
+the certificate does not satisfy section 38 (2), and no further proceedings
+can be had. That is a requirement as to **form**. The issue that arises is as
+to the **sufficiency** of particulars, and not as to their **truth**. The
+second question only arises where the necessary particulars have been given -
+which will be in the form of "statements" in the certificate, as to persons,
+periods, amounts, etc. In that event, in the course of the proceedings,
+section 38 (3) comes into operation to restrict the extent to which the
+**truth** of such statements may be disputed or disproved by the alleged
+defaulter.  
+  
+To put it in another way, the first question is whether **omissions** in the
+certificate result in its **formal** invalidity; the second relates to the
+**proof** \- or, rather, **disproof** \- of statements **contained** in the
+certificate.
+
+**160**
+
+It is unnecessary to consider the first group of decisions cited, because
+section 38 (3) deals with the extent of immunity from challenge of a statement
+which is contained in a valid certificate. We are concerned here not with the
+disproof of statements contained in a certificate, but with the alleged
+invalidity of the certificate itself on account of what has been omitted
+therein; not with burden of proof or sufficiency of evidence, but with
+validity and jurisdiction.  
+  
+A certificate can be issued under section 38 (2) only where an employer makes
+default in the payment of any sum which he is liable to pay under the Act. The
+issue of a certificate does not compel the Magistrate's Court to proceed,
+automatically, to recover the sum stated: the Court must first give the
+alleged defaulter an opportunity to show cause why further proceedings for the
+recovery of the sum claimed should not be taken. The law thus expressly
+incorporates the audi alteram partem rule. Fairness requires that when a
+certificate mentions a sum allegedly due, it must also give adequate details
+of how it was made up to enable the alleged defaulter to show cause. It is
+true that the certificate does give some details: but to say that the number
+of employees involved was two is in my opinion quite insufficient. An employer
+may have ten, or a hundred, or a thousand, employees; if it is alleged that he
+has not paid the dues of two employees - or even one - without naming or
+otherwise identifying them, how can he satisfy the Court that no further
+proceedings should be taken? His position may be that he has regularly made
+contributions for all his employees, and even that he has receipts and other
+documentary proof: and accordingly that the persons to whom the certificate
+relates either were not his employees, or were employees in respect of whom
+all dues had been paid. If the names are withheld, the alleged defaulter will
+be denied a meaningful opportunity of showing cause; he may be put to the
+trouble and expense of proving who his employees were, and that all their dues
+were paid during a long period of time. On the other hand, the Commissioner
+must necessarily have in his possession full details of the names of the
+employees in respect of whom there has been a default, and - in respect of
+each employee separately - the period of the default, his emoluments during
+that period (on the basis of which would be calculated the contributions due
+from employer and employee), the contributions actually remitted, and the
+amount of the default; and the sum claimed would be the aggregate of those
+amounts. I see no reason why the relevant particulars cannot be disclosed to
+the alleged defaulter
+
+**161**
+
+in the certificate. There is neither prejudice to the Commissioner, nor any
+breach of confidentiality.  
+  
+There is another aspect. Proceedings for recovery may not be criminal in the
+strict sense, but they may result in fines and even imprisonment. While
+particulars need not be given with the same strictness as in a criminal charge
+or indictment, yet enough details must be disclosed so as to enable the
+alleged defaulter to know what he is being accused of. To tell the alleged
+defaulter "You have not paid the dues in respect of two of your employees, but
+I am not telling you who they are" is grossly unfair. If he is told "You have
+not paid the dues in respect of X and Y", he can produce receipts, or other
+books and documents, to prove that X and Y were paid, or that they were not
+his employees. But if it is permissible to withhold the names, what would
+ensue is a game of hide-and-seek, for - as I have pointed out earlier - there
+would be an undue and unfair burden placed on him to prove payment in respect
+of a large number of persons, even though the Commissioner does not allege
+default in respect of them.  
+  
+A certificate is issued by the Commissioner in the context of an alleged
+default "in the payment of any sum which [the alleged defaulter] is liable to
+pay under [the] Act"; the law allows the alleged defaulter an opportunity to
+show cause: and it must follow that the certificate must contain the
+particulars known to the Commissioner in relation to which he must show cause,
+i.e. that he is not in default, or that the default is less than what is
+alleged. The opportunity that he is entitled to is to show cause in respect of
+_**the alleged default**_ : not an opportunity to prove payment of dues in
+other cases, in which the Commissioner has _**not**_ alleged any default.  
+  
+I have therefore no hesitation in holding that section 38 (2) requires that
+the employees in respect of whom default is alleged must be named or otherwise
+adequately identified; and that (at least) where default is alleged in respect
+of a period during which there have been changes in remuneration and/or rates
+of contributions, the remunera­tion in relation to which the contributions and
+default has been computed must also be disclosed. Learned State Counsel
+submitted that it would be difficult to include all that information in a
+single certificate. Since the certificate is not to be equated to a charge in
+a criminal case, I hold that the required particulars can be furnished in a
+duly authenticated schedule, referred to in, and annexed to, the formal
+certificate.
+
+**162**
+
+I therefore set aside the orders of the Magistrate's Court, the High Court,
+and the Court of Appeal, and quash the proceedings in the Magistrate's Court,
+without prejudice to the right of the Commissioner to issue a fresh
+certificate. The appellants will be entitled to a sum of Rs 15,000 as costs in
+this Court and in the Courts below.  
+  
+**WIJETUNGA, J. - I agree.  
+  
+ANANDACOOMARASWAMY, J. - I agree.  
+**  
+_**Order set aside.**_
+
+* * *
+
+**CommonLII:** [Copyright Policy](/commonlii/copyright.html) **|**
+[Disclaimers](/commonlii/disclaimers.html) **|** [Privacy
+Policy](/commonlii/privacy.html) **|** [Feedback](/commonlii/feedback.html)  
+URL: _http://www.commonlii.org/lk/cases/LKSC/1997/43.html_  
+

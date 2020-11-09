@@ -31,7 +31,7 @@ def word_dictionary(document):
         
         text = file.read().lower()
         # replaces anything that is not a lowercase letter, a space, or an apostrophe with a space:
-        text = re.sub('[^a-z\ \']+', " ", text)  # For some reason, even though the text is in lower case, the code does't work unless i redo that condition
+        text = re.sub('[^a-z\ \']+', " ", text) 
         Words = list(text.split())  # put text into an empty list using split()
         for i in Words:
             if i in dictionary:
@@ -40,7 +40,7 @@ def word_dictionary(document):
                 dictionary[i] = 1
     return dictionary
 
-# making the inverted index of the document
+# making the inverted index of the documents
 def make_invertedIndex(document):
     inverted = {}
     with open(document, 'r') as f:
@@ -115,44 +115,43 @@ try:
     
 
 
-        query_words = list(query.split())   
-        print(query_words)    # split the query into individual words
-        doc_all_query = inverted[query_words]# get all documents containing the first query word from inverted index
-        print(doc_all_query)
-        print('--------------------')
-        for idx,query_word in enumerate(query_words):   # go through all the remaining words in the query
-            doc_this_query = inverted[query_words[idx]] # get all documents of the word
-            doc_all_query = [doc for doc in doc_all_query if doc in doc_this_query] # remove the documents that are not present in the next words
+       # query_words = list(query.split())   
+query_words =keyword
+print(query_words)    # split the query into individual words
+doc_all_query = inverted[query_words]# get all documents containing the first query word from inverted index
+print(doc_all_query)
+print('--------------------')
+for idx,query_word in enumerate(query_words):   # go through all the remaining words in the query
+    doc_this_query = inverted[query_words[idx]] # get all documents of the word
+    doc_all_query = [doc for doc in doc_all_query if doc in doc_this_query] # remove the documents that are not present in the next words
 
     # now we have only those documents which contain all the words from the given query
-            print (' '.join(map(str, doc_all_query)))    # print all those documents
+     #print (' '.join(map(str, doc_all_query)))    # print all those documents
 
     # measuringthe similarity between each document we have got from above aginst the given query
-            angleDict = {}
-            queryDict = dict.fromkeys(dictionary, 0)
-            for i in query_words:
-                if i in queryDict:
-                    queryDict[i] = 1
-                    print(queryDict[i])
-                    print('--------------------')
+angleDict = {}
+queryDict = dict.fromkeys(dictionary, 0)
+for i in query_words:
+    if i in queryDict:
+        queryDict[i] = 1
+        print(queryDict[i])
+        print('--------------------')
 
-            queryVec = np.fromiter(queryDict.values(),dtype=float)  # changing this dictionary in a vector of only values as we dont need the keys now
-            print(queryVec)
-            # for each remaining document calculate this similarity
-            for docs in doc_all_query:
-                docDict = dict.fromkeys(dictionary, 0)
-                Words = list(lines[docs-1].split())
-                for i in Words:
-                    if i in docDict:
-                        docDict[i] += 1
+queryVec = np.fromiter(queryDict.values(),dtype=float)  # changing this dictionary in a vector of only values as we dont need the keys now
+print(queryVec)
+# for each remaining document calculate this similarity
+for docs in doc_all_query:
+    docDict = dict.fromkeys(dictionary, 0)
+    Words = list(lines[docs-1].split())
+    for i in Words:
+        if i in docDict:
+            docDict[i] += 1
         
-                docVec = np.fromiter(docDict.values(), dtype=float) # calculating the document vector now
-                angleDict[docs] = calc_angle(queryVec, docVec)  # passing the vectors in the function to get the similarity angle
-        
-            # sorting angles in ascending order and then printing
-            angleSorted = sorted(angleDict, key=angleDict.get, reverse=False)
-            for r in angleSorted:
-                print (r, '{:.2f}'.format(round(angleDict[r], 2)))
-except  :
-    print()
-'''  
+    docVec = np.fromiter(docDict.values(), dtype=float) # calculating the document vector now
+    angleDict[docs] = calc_angle(queryVec, docVec)  # passing the vectors in the function to get the similarity angle
+
+# sorting angles in ascending order and then printing
+angleSorted = sorted(angleDict, key=angleDict.get, reverse=False)
+for r in angleSorted:
+    print (r, '{:.2f}'.format(round(angleDict[r], 2)))
+'''

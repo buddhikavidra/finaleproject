@@ -1,0 +1,526 @@
+##  Migultenne v. The Attorney General - SLR - 408, Vol 1 of 1996 [1995] LKSC
+44; (1996) 1 Sri LR 408 (29 May 1995)
+
+**408**
+
+**MIGULTENNE** **  
+v** **.**  
+**THE ATTORNEY ‑GENERAL**
+
+SUPREME COURT.  
+FERNANDO, J.  
+DHEERARATNE, J. AND  
+PERERA, J.  
+S.C. REFERENCE NO.3/94 _._ _  
+_ C.A. NO. 246/86 (F).  
+D.C. COLOMBO N0.3346/Z.  
+JUNE 21, 1995.
+
+_Constitutional Law ‑Interpretation of sections 106 and 107 of the 1972
+Constitution‑Rule 4(12) of the Court of Appeal (Appellate Procedure) Rules
+1990 ‑ Holding office at the pleasure of the executive‑Ouster of jurisdiction
+of Court._
+
+"Pleasure" implies discretion, and the question is whether sections 106 and
+107 were intended to give the Executive an unfettered discretion unrestrained
+by judicial review.
+
+Rules made under section 106(3) are subordinate legislation, and cannot be
+regarded as legislation within the meaning of section 107(1).Subordinate
+legislation, even where authorised by the Constitution, cannot prevail over
+(and thereby amend) the Constitution, unless the Constitution clearly
+authorises such a result. The authority to make rules is subject to the
+"pleasure principle".
+
+Section 107(1) provides for only two restraints on the "pleasure principle"‑
+the pleasure principle will not apply where the Constitution itself
+**expressly** provides otherwise, and where the legislature by law provides
+otherwise. It follows that exceptions to the "pleasure principle" cannot be
+created by **Implication** from constitutional provisions (such as the
+fundamental rights) or by subordinate legislation (such as rules made under
+section 106(3) which are not "legislative" in character) and so cannot be
+treated as being "laws" within the meaning of section 107(1).
+
+Section 107(1) makes the "pleasure principle" applicable to "state officers"
+appointed by the Cabinet (under section 107(1) as well as Presidential
+appointees (under section 108).
+
+Section 107(1) provides that office is held at the pleasure of the
+**President.**
+
+**409**
+
+The President has no independent discretion, as he must act on advice (section
+27); and if he has no real discretion, there can be no criteria by reference
+to which his exercise of discretion can be reviewed. There appears to be some
+anomaly in office being held at the pleasure of the President, although
+appointment and dismissal are by the Cabinet, but the fact remains that there
+are no criteria by which the exercise of discretion may be reviewed; even
+compliance with the fundamental rights is not required. This is suggestive of
+an unfettered discretion, not subject to review. Under the 1972 Constitution
+"state officers" held office at pleasure; there was no exception (save as
+otherwise expressly provided by the Constitution or by statute law). The
+plaintiff held office at pleasure.
+
+(2) The ouster clause in the 1972 Constitution is consistent with a general
+intention to exclude judicial review. The ouster clause in section 106(3) __
+was a bar to the plaintiff's action for a declaration.
+
+**_Per_ Fernando, J.** ****
+
+"Judgments of this Court show that, for that mischief (unrestricted pleasure
+principle) the fundamental rights jurisdiction (under the 1978 Constitution)
+is an antidote of growing efficacy though not a preventive."
+
+**Cases referred to:**
+
+1\. _Abeywickrema_ _v. Pathirana_ [1986] 1 Sri L.R. 120, 182 _._
+
+2\. _Chandrasiri_ _v. A. G_.[1989]1 Sri L.R. 115.
+
+3 _._ _Vallipuram v. Postmaster‑General (1948) 50 N.L.R. 214_.
+
+4 _._ _Santiapillai v. A. G. _(1953) 55 N. L. R. 83.
+
+5 _._ _De Silva Wijesundera v. P. S. C.  _(1953) 55 N.L.R.94.
+
+6 _._ _Silva v. A.G. (1958) 60 N.L.R. 145_.
+
+7 _._ _De Zoysa v. P. S. C. _(1960) 62 N. L. R. 492 (S. C.).
+
+8\. _De Zoysa v. P. S. C._ (1963) 64 N. L. R. 505 (P. C.).
+
+9 _._ _Herat_ _v. Nugawela (1968) 70 N.L.R. 529_.
+
+10 _._ _A. G. v. Kodeswaran_ (1967) 70 N. L. R. 121.
+
+11 _. Pillai v. Fonseka (1968) 71 N.L.R. 202_.
+
+12 _. De Alwis v. De Silva (1967) 71 N.L.R. 108_.
+
+13 _._ _Bandara v. __Premachandra_ ___S.C._ __ 213/93 S.C. Minutes of 16.8.93.
+
+14 _._ _P. S. U. N. U. v. Jayewickrema  _[1988] 1 Sri L.R. 229, 235‑6.
+
+15 _._ _Ramupillai v. Perera _[1991] 1 Sri L.R. 11.
+
+16 _._ _Wickremabandu v. Herath _[1990] 2 Sri L.R. 348.
+
+17 _._ _Wickremaratne v. __Gunawardena_ ___S.C._ __ 5/95 S.C _._ Minutes of
+29.5.95.
+
+18 _._ _Ridge v._ _Baldwin_ __ (1964) AC 40,66.
+
+**410**
+
+**APPEAL** from judgment of the Court of Appeal.
+
+_R. K. W. Goonesekera_ for Plaintiff ‑Appellant ‑ Appellant.
+
+_Mohan Peiris, S.S.C._ for the Defendant ‑ Respondent ‑ Respondent.
+
+_Cur. adv. vult_ _._
+
+July 7, 1995.
+
+**FERNANDO, J.**
+
+This appeal involves the interpretation of sections 106 and 107 of the 1972
+Constitution.
+
+The facts are not in dispute. The Plaintiff‑Appellant‑Appellant ("the
+Plaintiff") was a "state officer" within the meaning of the 1972 Constitution,
+whose services were terminated on 30.6.78. He instituted action in the
+District Court of Colombo, averring that he was not holding office at
+pleasure, and that the termination was arbitrary and without lawful cause or
+reason, and sought a declaration that he continued to be a public servant. It
+was not contended at any stage that the termination was a nullity, because it
+was _ultra vires_ or _mala_ _fide._ In 1986, preliminary issues of
+jurisdiction were answered against the Plaintiff on the basis of section
+106(5) of the 1972 Constitution.
+
+On appeal both Counsel submitted that important questions of law, relevant to
+the public service, arose, and that these would ultimately have to be decided
+by this Court. Accordingly, on 4.7.94, acting under and in terms of Rule 4(12)
+of the Court of Appeal (Appellate Procedure) Rules, 1990, the Court of Appeal
+upheld the decision of the District Court that section 106(5) was a complete
+bar to the Plaintiff's action, dismissed the Plaintiff's appeal, and granted
+him leave to appeal to this Court upon the following question:
+
+"Whether the services of a public officer whose tenure is governed by the 1972
+or 1978 Constitutions could be summarily terminated on the basis that he holds
+office at the pleasure of the Executive."
+
+Although reference has been made to the 1978 Constitution as
+
+**411**
+
+well, the matter really involves the interpretation of only the 1972
+Constitution , because it was while that Constitution was in force that the
+Plaintiff was dismissed. Therefore, even if it is correct that under the 1978
+Constitution a public officer does not hold office at pleasure (namely, at the
+unfettered or absolute discretion) of the Executive, and hence cannot be
+summarily dismissed; yet it does not follow that the same position prevailed
+under the 1972 Constitution ‑ because there are differences in the relevant
+provisions. However, some consideration of the corresponding provisions of the
+1978 Constitution is useful in order to determine the true meaning and effect
+of the 1972 provisions.
+
+Both Counsel dealt with the question under two heads:
+
+1) Does the "pleasure principle " in section 107(1) confer an unfettered
+discretion on the Executive?
+
+2) Does section 106(5) completely oust the jurisdiction of the Courts in
+respect of orders and decisions of the Cabinet of Ministers, Ministers, etc;
+regarding appointments, transfers and dismissals of "state officers"?
+
+It was assumed, for the purpose of this appeal, that the ouster clause did not
+extend to an order or a decision which is a nullity because it was _ultra
+vires_ or _mala_ _fide._ That, however, was not the basis on which the
+Plaintiff contended that the District Court had jurisdiction.
+
+Sections 106 to 108 of the 1972 Constitution and Articles 54 and 55 of the
+1978 Constitution provide as follows:
+
+106\. (1) The Cabinet of Ministers shall be responsible for the appointment,
+transfer, dismissal and disciplinary control of state officers and shall be
+answerable therefor to the National State Assembly.
+
+106\. (2) Subject to the provisions of the Constitution, the Cabinet of
+Ministers shall have the power of appointment, transfer, dismissal and
+disciplinary control of all state officers.
+
+**412**
+
+106\. (3) Subject to the provisions of the Constitution, the Cabinet of
+Ministers shall provide for and determine all matters relating to state
+officers including the constitution of state services, the formulation of
+schemes of recruitment and codes of conduct for state officers, the procedure
+for the exercise and the delegation of the powers of appointment, transfer,
+dismissal and disciplinary control of state officers.
+
+106\. (5) No institution administering justice shall have the power of
+jurisdiction to inquire into, pronounce upon or in any manner call in question
+any recommendation, order or decision of the Cabinet of Ministers, a Minister,
+the State Services Advisory Board, the State Services Disciplinary Board, or a
+state officer, regarding any matter concerning appointments, transfers,
+dismissals or disciplinary matters of state officers.
+
+107\. (1) Save as otherwise expressly provided by the Constitution, every
+state officer shall hold office during the pleasure of the President. The
+National State Assembly may however in respect of a state officer holding
+office during the pleasure of the President provide otherwise by a law passed
+by a majority of those present and voting.
+
+108\. The following state officers shall be appointed by the President:‑
+
+(a) state officers required by the Constitution or by or under the authority
+of a written law to be appointed by the President;
+
+(b) the Attorney‑General; and
+
+(c) heads of the Army, Navy and Air Force and of the Police Force.
+
+54\. The President shall appoint all public officers required by the
+Constitution or other written law to be appointed by the President, as well as
+the Attorney‑General and the Heads of the Army, the Navy, the Air Force and
+the Police Force.
+
+55\. (1) Subject to the provisions of the Constitution, the appointment,
+transfer, dismissal and disciplinary control of public officers is hereby
+vested in the Cabinet of Ministers, and all public officers shall hold office
+at pleasure.
+
+**413**
+
+55\. (4) Subject to the provisions of the Constitution, the Cabinet of
+Ministers shall provide for and determine all matters relating to public
+officers, including the formulation of schemes of recruitment and codes of
+conduct for public officers, the principles to be followed in making
+promotions and transfers, and the procedure for the exercise and the
+delegation of the powers of appointment, transfer, dismissal and disciplinary
+control of public officers.
+
+55\. (5) Subject to the jurisdiction conferred on the Supreme Court under
+paragraph (1) of Article 126 no court or tribunal shall have power or
+jurisdiction to inquire into, pronounce upon or in any manner call in
+question, any order or decision of the Cabinet of Ministers, a Minister, the
+Public Service Commission, a Committee of the Public Service Commission or of
+a public officer, in regard to any matter concerning the appointment,
+transfer, dismissal or disciplinary control of a public officer.
+
+Mr. Goonesekera's contentions can be summed up as follows. Im­mediately prior
+to 1972, the "pleasure principle" ‑ whether recognized constitutionally or
+otherwise ‑ did not give absolute and unfettered discretion to the Executive;
+over a period of time, the degree of discretion implicit in that principle had
+been gradually restricted or diluted by substantive and procedural safeguards
+contained in administrative rules and regulations governing the terms and
+conditions of service of public officers. The 1972 Constitution neither
+reversed nor halted that process of dilution of the "pleasure principle", but
+continued it. Sections 106 and 107 have to be "harmoniously interpreted", with
+due concern for civil liberties, with the result that the "pleasure principle"
+in section 107(1) was subject to safeguards contained in the rules made by the
+Cabinet under section 106(3); and so a "state officer" was not liable to
+summary termination if those rules had made contrary provision (e. g. as to
+cause for, or notice of, termination). To reinforce this submission,  Mr.
+Goonesekera referred to the 1978 provisions; he claimed that the "pleasure
+principle" and the administrative rules made by the Cabinet were similar in
+status and effect, under both Constitutions; and the rules diluted the
+"pleasure principle". In that setting, although the ouster clause in Article
+55(5) appeared to be narrower in scope ‑ because it expressly preserved the
+fundamental rights jurisdiction of this Court ‑ nevertheless, both section
+106(5) and Article
+
+**414**
+
+55(5) must be liberally construed to permit judicial review by way of
+declaration in the District Court, even in cases not involving _ultra vires_
+or _mala_ _fide_ orders. These submissions required us to reconsider the
+decisions in _Abeywickrema_ _v. Pathirana,_ (1) __ and _Chandrasiri_ _v. A.
+G.,_ (2)
+
+**1\. THE POSITION BEFORE 1972**
+
+Mr. Goonesekera referred to a series of decisions prior to 1972: _Vallipuram_
+_v. Postmaster ‑General,_(3) _Santia_ _Pillai v. A.G.,_ (4) _de Silva
+Wijesundera v. P. S. C.,_(5) _Silva v. A.G.,_ (6) _de Zoysa v. P. S.
+C.,_(7)(8) _Herat v. Nugawela,_ (9) _A.G. v. Kodeswaran,_ (10) _Pillai v.
+Fonseka ,_(11) __ and _de Alwis v. de Silva,_ (12) None of these decisions
+support his contention that the safeguards provided in administrative
+regulations governing the public service did displace or dilute the "pleasure
+principle". It seems to me that Gratiaen, J. stated the position, with clarity
+and precision, in _Vallipuram_ _v. Postmaster ‑ General,_(3) __ that the Royal
+Instructions regulating the procedure for dismissal, were only directions for
+the guidance of the Governor, and did not constitute a contract between the
+Crown and its servants; that, although intended to assure that tenure of
+office, though at pleasure, will not be subject to capricious or arbi­trary
+action, yet they did not give rights enforceable by action, so that an officer
+could be dismissed notwithstanding the failure to observe the prescribed
+procedures; and that public servants held office during the pleasure of the
+Crown, subject to any specific law to the contrary. Gratiaen, J. further
+observed that the "pleasure principle" previously laid down in the Royal
+Instructions was thereafter expressly laid down in section 57 of the Soulbury
+Constitution. Silva v. A.G. _,_ (6) __ dealt with rights flowing from a
+Constitutional provision (namely, section 61 of the Soulbury Constitution),
+which derogated from section 57 ; this is no authority for the proposition
+that rights conferred by administrative rules could likewise derogate from
+section 57.
+
+**2\. THE "PLEASURE PRINCIPLE" UNDER THE 1972 CONSTITUTION**
+
+But even if I were to assume that Mr. Goonesekera was right in contending that
+administrative rules could derogate from the "pleasure principle" under the
+Soulbury Constitution, I cannot accept his further assumption that the 1972
+Constitution intended to maintain that posi-.
+
+**415**
+
+tion. There is no doubt whatever that the 1972 Constitution did intend to make
+drastic changes in respect of vital features of the Soulbury Constitution ‑
+such as an independent Public Service Commission, judicial review of executive
+action, judicial review of legislation, the constitutional entrenchment of the
+Supreme Court, and an independent Judicial Service Commission. The separation
+of powers which was perceived to exist under the Soulbury Constitution was
+replaced by a very different concept, of the Legislature being the supreme
+instrument of state power. The public service was brought under the direct
+control of the political Executive; and an ouster clause introduced. It is in
+that context that the "pleasure principle" and the ouster clause have to be
+considered.
+
+In _Abeywickrema_ _v. Pathirana,_ (1) __ Wanasundera, J. lucidly explained
+what was intended:
+
+"Every person acquainted with the post‑independence period of our history,
+especially the constitutional and legal issues that cropped up during the
+period, would know how the actions of the Government and the Public Service
+Commission dealing with practically every aspect of their control over public
+officers were challenged and taken to the courts. A stage came when the
+Government found itself practically hamstrung by injunctions and court orders
+and not given a free hand to run the public service and thereby the
+administration as efficiently as it would wish. The 1972 reforms came
+undoubtedly as a reaction to this. The thinking behind the framers of the
+Constitution was that the public service must be made the exclusive domain of
+the Executive without interference from the courts."
+
+I therefore propose to examine the relevant provisions free of the pressures
+of any pre ‑ conceived notion, either way. "Pleasure" implies discretion, and
+the question is whether sections 106 and 107 were intended to give the
+Executive an unfettered discretion unrestrained by judicial review.
+
+(a) **Constitutional restraints on the "pleasure principle". **Section 107(1)
+provides for only two restraints ‑ the "pleasure principle" will not apply
+where the Constitution itself **expressly** provides other-
+
+**416**
+
+wise, and where the Legislature **by law** provides otherwise. It follows that
+exceptions to the "pleasure principle" cannot be created by **implication**
+from Constitutional provisions (such as the fundamental rights) or by
+subordinate legislation (such as rules made under section 106(3), which are
+not "legislative" in character, for the reasons I have explained below, and so
+cannot be treated as being "laws" within the meaning of section 107(1)).
+
+However, the "pleasure principle" in Article 55(1) is "subject to the
+provisions of the Constitution", and not only to express contrary provisions;
+accordingly, it may be diluted by implications arising from other provisions
+of the Constitution such as Chapter III (and possibly even Article 55(4)).
+Thus the "pleasure principle" would not sanction dismissal contrary to the
+fundamental rights, and may also be subject to other limitations found
+elsewhere in the Constitution: _Bandara_ _v. Premachandra._ (13) __
+
+Further section 107(1) makes the "pleasure principle" applicable to "state
+officers" appointed by the Cabinet (under section 107(1)) as well as
+Presidential appointees (under section 108). It is arguable, however, that
+under the 1978 provisions the "pleasure principle" contained in Article 55(1)
+applies only to officers appointed under that Article, and not to Presidential
+appointees under Article 54.
+
+(b) **The nature of the discretion.** Section 107(1) provides that office is
+held at the pleasure **of the President.** The President has no independent
+discretion, as he must act on advice (section 27); and if he has no real
+discretion, there can be no criteria by reference to which his exercise of
+discretion can be reviewed. There appears to be some anomaly in office being
+held at the pleasure **of the President,** although appointment and dismissal
+is **by the Cabinet,** but the fact remains that there are no criteria by
+which the exercize of discretion may be reviewed; even compliance with the
+fundamental rights is not required. That is suggestive of an unfettered
+discretion, not subject to review.
+
+On the other hand, as already observed, Article 55(1) provides criteria for
+review, and this points to a limited discretion.
+
+**417**
+
+(c) **The rules made by the Cabinet.** Mr. Goonesekera is right in contending
+that the rules made under section 106(3) have statutory force, to the same
+extent as those made under Article 55(4). However, this rule‑making power is
+not a "legislative" power, as stated by Sharvananda, C.J. in _Abeywickrema_
+_v. Pathirana,_ (13) __ cited with approval by Wanasundera, J. in _**P**_ _
+**. S. U. N. ****U.** v. Jayawickrema._(14) but "executive or administrative"
+(as held by a bench of seven Judges in _Ramupillai_ _v. Perera,_ (15)), __ and
+is therefore subject to the fundamental rights jurisdiction, like other
+subordinate legislation (such as Emergency Regulations: _Wickr amabandu_ _v.
+Herath,_ (16)) _._ The recent decision in _Wickremaratne_ _v. Gunawardena,_
+(17) __ that the making of a regulation by the Minister is _per se_ the
+exercise of legislative power delegated to him by Parliament, and therefore
+not subject to the fundamental rights jurisdiction, is inconsistent with
+_Ramupillai_ _and Wickr amabandu,  _which do not appear to have been cited.
+
+I am therefore of the view that rules made under section 106(3) are
+subordinate legislation, and cannot be regarded as legislation within the
+meaning of section 107(1). Subordinate legislation, even where authorised by
+the Constitution, cannot prevail over (and thereby amend) the Constitution,
+unless the Constitution clearly authorises such a result.
+
+Mr. Goonesekera's contention was that the rules made under section 106(3)
+prevail over the "pleasure principle" contained in section 107(1). He urged
+that the two provisions should be harmoniously construed, so as to give effect
+to both, and submitted that justice and fairplay for the public service was
+paramount consideration. Upon such an approach, he said, the Court must
+conclude that the "pleasure principle" was diluted by the rules.
+
+This contention can only succeed if we ignore the plain and unambiguous
+language of the Constitution. The power conferred by section 106(3) is
+expressly stated to be "subject to the provisions of the Constitution" ‑ and
+therefore subordinate to the "pleasure principle" in section 107(1).
+Additionally, section 107(1) is not subject to any quali­fication, which in
+any way suggests that it is subject to section 106. That section is, as I have
+already observed, subject only to express
+
+**418**
+
+contrary (Constitutional or legislative) provision. Accordingly, the authority
+to make rules is subject to the "pleasure principle".
+
+The 1978 position is quite different. The "pleasure principle" in Article
+55(1) is not unqualified: Article 55(1) is subject to the provisions of the
+Constitution, and therefore to the fundamental rights Chapter. If rules are
+made under Article 55(4) in order to give effect to the fundamental rights,
+that is authorised by Article 55(1), and not repugnant to it; and such rules
+will prevail over the "pleasure principle". Article 55(4) is also "subject to
+the provisions of the Constitution", and hence there may well be restrictions
+as to the extent to which rules made under Article 55(4) can override Article
+55(1). __ The question of harmonious construction of those two provisions of
+the Constitution, may certainly arise, although it does not have to be decided
+in this case. (It may be noted in passing, that it has been observed that
+rules made under Article 55(4) __ must not be inconsistent with the" pleasure
+principle": per Sharvananda, C.J. in _Abeywickrema_ _v. Pathirana,_ (1) __
+cited with approval by Wanasundera, J. in _P. S. U. N. U. v.
+Jayewickrema_.(14) What is important, and sufficient, for present purposes, is
+that Article 55(4) __ is not wholly subordinate to Article 55(1), unlike
+section 106(3) _vis ‑a‑vis_ section 107(1).
+
+Learned Senior State Counsel submitted that the unrestricted "pleasure
+principle" in the 1972 Constitution was intended to give the Executive full
+discretion to replace an unsatisfactory officer with one who was efficient;
+and even a good officer, with one who was better (citing _Ridge v. Baldwin._
+(18)) __ Whatever the intention, the effect of the words used was also to
+permit‑ without risk of judicial review ‑ the substitution of an officer who
+was less efficient, subservient, or corrupt, in place of one who was not.
+Judgments of this Court show that, for that mischief, the fundamental rights
+jurisdiction is an antidote of growing efficacy, though not a preventive.
+
+To sum up the position, then, although the rules made by the Cabinet are
+comparable in status under the two Constitutions, section 106 (3) does not
+authorise the making of rules which would in any way override section 107(1);
+however, Article 55(4) authorises rules which would dilute the "pleasure
+principle" in Article 55(1), at least to the
+
+**419**
+
+extent necessary to give effect to fundamental rights and other Constitutional
+provisions to which Article 55(1) may be subject. Under the 1972 Constitution,
+"state officers" held office at pleasure; there was no exception (save as
+otherwise expressly provided by the Constitution OR BY statute law); and the
+restrictions on the "pleasure principle" in the 1978 Constitution are not
+applicable to the 1972 Constitution. The Plaintiff therefore held office at
+pleasure.
+
+**3\. THE OUSTER CLAUSE**
+
+Mr. Goonesekera's contention on this aspect must fail for several reasons. The
+comparison with Article 55 (5) is not valid, because that Article expressly
+preserves a significant area of judicial review, through the fundamental
+rights jurisdiction. From the fact that Article 55(5) __ permits review, in
+the exercise of that jurisdiction by the highest Court, it does not follow
+that section 106(5) permits review by way of declaration in the District
+Court. Secondly, the ouster clause in the 1972 Constitution is consistent with
+a general intention to exclude judicial review, whereas the 1978 Constitution
+does not manifest a general intention of that kind. It must be borne in mind
+that the Interpretation (Amendment) Act, No 18 of 1972, was enacted just
+eleven days before the 1972 Constitution was adopted. Finally, the contention
+that ouster clauses in the Constitution should be strictly interpreted,
+restricting the ambit of the ouster, can be far more readily accepted where
+the Constitution itself contains other indications of an intention to permit
+review: such as the entrenchment of the fundamental rights and other
+jurisdictions of this Court, and the writ jurisdiction of the Court of Appeal.
+It is difficult, however, to read an implied exception into an ouster clause
+in the Constitution by reference to general provisions in ordinary laws
+governing the jurisdictions of the courts; the maxim, _generalia_ _specialibus
+non derogant , _would apply with much greater force when the special
+provisions are found in the Constitution itself.
+
+I therefore hold that the ouster clause in section 106(3) was a bar to the
+Plaintiff's action for a declaration.
+
+The Plaintiff's appeal is dismissed, but‑as his termination is up-
+
+**420**
+
+held  otherwise than on the ground of fault, and as important questions of law
+were involved ‑ without costs.
+
+**DHEERARATNE, J. ‑** I agree.
+
+**PEREIRA, J.** ‑ I agree.
+
+Appeal dismissed.
+
+* * *
+
+**CommonLII:** [Copyright Policy](/commonlii/copyright.html) **|**
+[Disclaimers](/commonlii/disclaimers.html) **|** [Privacy
+Policy](/commonlii/privacy.html) **|** [Feedback](/commonlii/feedback.html)  
+URL: _http://www.commonlii.org/lk/cases/LKSC/1995/44.html_  
+

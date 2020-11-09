@@ -1,0 +1,196 @@
+##  Wigneswaramoorthy and Another v. Singham - SLR - 339, Vol 1 of 1995 [1995]
+LKSC 55; (1995) 1 Sri LR 339 (25 January 1995)
+
+**339**
+
+**WIGNESWARAMOORTHY AND ANOTHER**
+
+**v.**
+
+**SINGHAM**
+
+  
+SUPREME COURT  
+G. P. S .DE SILVA, C.J.
+
+KULATUNGA, J.  
+RAMANATHAN, J.  
+S.C. APPEAL NO. 12/59  
+C.A. 54/85(F) COLOMBO 5931/RE  
+D.C. COLOMBO 5931/RE  
+JANUARY 25, 1995.
+
+_Landlord and Tenant - Notice to quit - Sections 22(2) (bb) (ii) and 22(6) of
+the Rent Act - Test of validity of notice "ut res magis valeat quam pereat" \-
+Construction._
+
+Under Section 22(6) of the Rent Act six months notice, in writing of the
+termination of the tenancy had to be given prior to institution of the action
+for ejectment. Notice of termination of tenancy was given by letter dated 27
+August 1983 requiring the tenant to vacate the premises on or before 28
+February 1984. This notice was received by the tenant on, 30 August 1983 The
+tenancy had commenced on the 1st of the month. Therefore the period of 6
+months has to be computed from 01 September 1983. The period of six months
+ends on 29 February 1984 as 1984 was a leap year. As the notice required the
+tenant to vacate on 28 February 1984 there was a shortfall in the notice by
+one day.
+
+340
+
+**Held:**
+
+The proper approach to the question of the validity of the notice is to
+consider the intention of the person giving the notice. A reasonable tenant
+reading. the notice in a reasonable way could not arrive at any other
+conclusion than that the intention was to terminate the tenancy by the end of
+February 1984. The clear intention of the landlord was to terminate the
+tenancy at the end of February 1984; the fact that February had 29 days was
+overlooked. This is a fit and proper case to construe the notice "ut res magis
+valeat quam pereat". The notice was valid in law.
+
+**Cases referred to:**
+
+_1\. Warwick Major v. Fernando IV CWR 221._  
+_2\. Loku Menike v Charles Sinno V CWR 281._  
+_3\. Hankey v. Clavering (1942) 2 All ER 311._  
+_4\. Haniffa v. Sellamuthu 70 NLR 200._  
+_5\. Sidebotham v. Holland (1895)1 QB 378,383._  
+_6\. Carradine Properties Ltd. v Aslam (1976) 1 All ER 573._
+
+**APPEAL** from judgment of the Court of Appeal.
+
+_S. Mahenthiran for the plaintiff-appellants._  
+
+_P. A. D. Samarasekera, P.C. with Palitha Kumarasinghe for the defendant
+respondent._
+
+_Cur. adv. vult._
+
+April 28, 1995.  
+**G. P S. DE SILVA, C.J.**
+
+The plaintiffs instituted these proceedings on 6th April 1984 for the
+ejectment of the defendant (tenant) from the premises in suit under the
+provisions of section 22(2) (bb) (ii) of the Rent Act, as amended. After
+trial, the District Court entered judgment for the plaintiffs. The defendant
+successfully appealed to the Court of Appeal and the judgment of the District
+Court was set aside and the plaintiffs' action dismissed. Hence the appeal by
+the plaintiffs to this court.
+
+Special Leave to Appeal to this court was granted only on the following
+question:-
+
+341
+
+"Is the notice to quit marked P1 valid in law?"
+
+The Court of Appeal held against the plaintiffs solely on the ground that "the
+notice to quit is bad in law and it has no force or effect and validity."
+
+It is a peremptory requirement postulated in the proviso to section 22(6) of
+the Rent Act, as amended, that the landlord should give the tenant "six months
+notice in writing of the termination of the tenancy" prior to the institution
+of the action. Mr. Samarasekera for the defendant-respondent rightly submitted
+that such notice was a condition precedent to the institution of the action
+for ejectment.
+
+The notice P1 was dated 27th August 1983 and it required the defendant to
+vacate the premises on or before "the 28th day of February 1984." The notice
+was in fact received by the defendant on 30th August 1983. It is common ground
+that the tenancy commenced on the 1st of the month. Therefore the period of 6
+months has to be computed from 1st September 1983 ( _Warwick Major v. Fernando
+Loku Menike v Charles Sinno_ (2)).
+
+The period of 6 months expires at the end of February 1984. The point to be
+noted is that 1984 is a **leap year** and there are 29 days in the month of
+February. The notice P1 calls upon the defendant to vacate the premises by
+28th February and thus there is a shortfall by one day. The defendant was
+entitled to occupy the premises till the expiry of 29th February 1984.
+
+Citing _Hankey v. Clavering_ (3) Mr. Samarasekera stressed that notices to
+determine a tenancy are "documents of a technical nature,.... They are not
+consensual documents;" Counsel strongly urged that if there is any defect in
+the notice of termination of tenancy the action for ejectment must fail; a
+valid notice of termination of tenancy is a condition precedent to the
+institution of the action. Mr. Samarasekera further pointed out that the
+witness (an Attorney-at-Law) called on behalf of the plaintiffs admitted that
+6 months notice of termination of tenancy has not been given to the defendant
+in this case.
+
+It is clear that the notice of termination of tenancy (P1) falls short of the
+requisite period of 6 months by one day. On a careful consideration of the
+facts, it would appear that the writer of the notice P1 overlooked the fact
+that 1984 was a leap year and accordingly there were 29 days in the month of
+February. The defendant did not give evidence at the trial nor were any
+witnesses called on her behalf. There was no evidence whatsoever to suggest
+that she was in anyway misled by the requirement that she should vacate the
+premises by the 28th and not by the 29th of February. The opinion expressed by
+the witness called by the plaintiff is not relevant, as the construction of P1
+raises a question of law. The fact that the witness for the plaintiff
+maintained in his evidence that there was no mistake in P1 does not advance
+the case for the defendant.
+
+In my view, the proper approach to the question of the validity of P1 is to
+consider the intention of the person giving the notice. This was the principle
+laid down by T S. Fernando, A.C.J. (with whom _Siva Supremaniam, J. agreed) in
+Haniffa v. Sellamuthu_ (4). The learned Judge expressed himself in the
+following terms: "The substantial question in all cases of this kind is the
+intention of the person giving the notice as expressed therein." The judgment
+cites with approval the following dictum of Lindley, L.J. in _Sidebotham v.
+Holland_ (5). "The validity of a notice to quit ought not to turn on the
+splitting of a straw". if I may be permitted to say so, the reasoning in
+Haniffa's case (supra) is refreshingly free of undue technicality and is in
+consonance with a common sense point of view.
+
+_Carradine Properties Ltd. v. Aslam_ (6) cited by Mr. Mahenthiran for the
+plaintiffs respondents is another case where a somewhat similar view was taken
+in regard to the validity of a notice to quit. Goulding, J. having referred to
+Several cases stated thus: "I would put the test generally. applicable as
+being this: is the notice quite clear to a reasonable tenant reading it? Is it
+plain that he cannot be misled by it?"
+
+In the appeal before us, could a reasonable tenant reading P1 in a reasonable
+way arrive at any other conclusion than that the intention
+
+343
+
+was to terminate the tenancy by the end of February 1984? I think not. There
+was no evidence whatever to the contrary. As stated earlier, the tenant
+neither gave evidence nor called any witnesses on her behalf. Viewed
+realistically, the insertion of the date February 28 in P1 was an obvious
+mistake; the fact that 1984 was a leap year was overlooked. I venture to think
+that the law relating to the termination of tenancy by a notice as
+contemplated by the proviso to section 22(6) of the Rent Act does not compel a
+court to completely shut its eyes to reality.
+
+I accordingly hold that the clear intention of the landlord was to terminate
+the tenancy at the end of February, 1984; the fact that February had 29 days
+was overlooked. In my view this is a fit and proper case to construe the
+notice P1 "ut res magis valeat quam pereat ". I reverse the finding of the
+Court of Appeal and hold that P1 is valid in law.
+
+Finally, Mr. Samarasekera submitted that in any event the plaintiffs are not
+entitled to a decree in ejectment as they have failed to establish that the
+standard rent of the premises in suit exceeds Rs. 100/- per month. Special
+Leave to Appeal has been granted only on the question of the validity of P1,
+and it not now open to the defendant to raise any other issue.
+
+In the result, the appeal is allowed with costs, the judgment of the Court of
+Appeal is set aside and the judgment of the District Court is restored.
+However, I direct writ of ejectment not to issue till 30th April 1996. The
+plaintiffs are entitled to takeout writ of ejectment and to be placed in
+possession of the premises in suit after 30th April, 1996.
+
+**KULATUNGA, J.** \- I agree.  
+  
+**RAMANATHAN, J.** \- I agree.  
+  
+_Appeal allowed._
+
+* * *
+
+**CommonLII:** [Copyright Policy](/commonlii/copyright.html) **|**
+[Disclaimers](/commonlii/disclaimers.html) **|** [Privacy
+Policy](/commonlii/privacy.html) **|** [Feedback](/commonlii/feedback.html)  
+URL: _http://www.commonlii.org/lk/cases/LKSC/1995/55.html_  
+

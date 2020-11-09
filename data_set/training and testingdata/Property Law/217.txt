@@ -1,0 +1,246 @@
+[![CommonLII](/images/logos/CommonLII_small.jpg)](/) |  [Home](/) |
+[Databases](/databases.html) | [WorldLII](http://www.worldlii.org) |
+[Search](/forms/search1.html) | [Feedback](/commonlii/feedback.html)
+
+# Supreme Court of Sri Lanka  
+  
+---|---  
+**You are here:**   [CommonLII](/) >> [Databases](/databases.html) >> [Supreme
+Court of Sri Lanka](../) >> [1998](./) >> **[1998] LKSC 16**
+
+[Database Search](/form/search1.html?mask=lk/cases/LKSC) | [Name
+Search](/form/search1.html?mask=lk/cases/LKSC&title=1) | [Recent
+Decisions](../recent.html) |
+[Noteup](/form/search/?method=boolean&query=LKSC+1998+16 or 1998+LKSC+16) |
+[LawCite](/cgi-bin/LawCite/?cit=1998+LKSC+16) |
+[Help](/commonlii/help/cases.html "Help")
+
+* * *
+
+##  Vaidyanathan v. Board of Review of Ceiling On Housing Property Law and
+Others - SLR - 275, Vol 1 of 1998 [1998] LKSC 16; (1998) 1 Sri LR 275 (16
+February 1998)
+
+**275**
+
+**VAIDYANATHAN  
+v.  
+BOARD OF REVIEW CEILING ON HOUSING PROPERTY LAW  
+AND OTHERS**
+
+SUPREME COURT  
+AMERASINGHE, J.,  
+DHEERARATNE, J. AND  
+ANANDACOOMARASWAMY, J.  
+S.C. APPEAL NO. 164/96  
+CA. NO. 328/92  
+CHP APPEAL NO. 2080  
+17TH, DECEMBER 1997.  
+  
+_Writ of certiorari - Application by the tenant for purchase of house let to
+him - Section 13 of the Ceiling on Housing Property Law, No. 1 of 1973 -
+Definition of "house" \- Section 47 of the Law.  
+_  
+Late Mohanam, the tenant of the premises in suit and the appellant her husband
+who succeeded her as tenant sought to purchase the house occupied by them on
+an application made under section 13 of the Ceiling on Housing Property Law,
+No. 1 of 1973.
+
+**276**
+
+**Held:  
+**  
+The premises in suit was used mainly for a purpose other than a residential
+purpose during the relevant period and the occupation of the appellant and
+Mohanam of the premises as a residence was incidental. Consequently, the
+premises in suit was not a "house" within the meaning of Section 47 of the
+Ceiling on Housing Property Law which the tenant could apply to purchase in
+terms of section 13 of the Law.  
+  
+**APPEAL** from the judgment of the Court of Appeal.  
+  
+_P. Nagendran, PC with N. Singarawela_ for appellant.  
+  
+_S. Mahenthiran_ for 9th respondent.  
+  
+_M. S. Indika Demuni de Silva_ , SC for 8th respondent.
+
+_Cur. adv. Vult_
+
+February 16, 1998.  
+  
+**DHEERARATNE, J.  
+**  
+On 26.6.75, the late Mohanam Vaidianathan (Mohanam) the tenant of premises No.
+252, Sea Street, Colombo 11, made an application in terms of section 13 of the
+Ceiling on Housing Property Law, No. 1 of 1973 (CHP Law), to purchase the
+premises. The 9th respondent, the landlord of the premises, resisted the
+application to purchase, on the basis that the premises was not a "house"
+within the meaning of the CHP Law. Mohanam died on 27.6.83 and the appellant,
+who claimed to have succeeded to the tenancy as deceased person's husband,
+participated at the inquiry before the 8th respondent Commissioner of National
+Housing. The 8th respondent held that the premises was not a "house"; and an
+appeal made to the Board of Review on that question too failed. The appellant
+then moved the Court of Appeal by way of a Writ to quash the order of Board of
+Review. The appellant was unsuccessful there too and has now appealed from the
+judgement of the Court of Appeal to this Court, having obtained leave on the
+following questions:  
+  
+(1) Was there a failure to comply with Rule 3A (1) (a) of the Supreme Court
+Rules? (2) Did the petitioner (appellant) have no locus standii and (3) Were
+the premises business premises to which section 13 of the Ceiling on Housing
+Property Law did not apply?
+
+**277**
+
+I shall consider the pivotal last question first, because, if the appellant
+fails on that, it will be unnecessary for us to determine the rest. Section 47
+of the CHP Law gives the following definition of a "house" :  
+  
+House means an independent living unit, whether assessed or not for the
+purpose of levying rates, constructed mainly or solely for residential
+purposes, and having a separate access, and through which unit access cannot
+be had to any other living accommodation, and includes a flat or tenement, but
+shall not include-  
+  
+(1) sub-division of, or extensions to, a house which was first occupied as a
+single unit of residence; and
+
+(2) a house used mainly or solely for a purpose other than a residential
+purpose for an uninterrupted period of ten years to March 1, 1972.  
+  
+The precise matter for determination in this case is whether or not the
+premises in question fall within the exclusionary provision (2) of the section
+mentioned above. The decision of the matter could not have been free from
+difficulty if it was not compounded by the fact that the appellant and his
+wife Mohanam on the one hand and the contesting 9th respondent on the other,
+have taken somewhat different stances from what they now take, in certain
+other proceedings. Some of those proceedings were related to the repealed Rent
+Restriction Act, No. 29 of 1948, where (like in the Act, No. 7 of 1972) the
+term business premises" was defined as meaning any premises other than
+residential premises; and the term "residential premises" was defined as
+meaning any premises for the time being occupied wholly or mainly for the
+purpose of residence. One can hardly discern any difference between the two
+terms "mainly or solely" and "wholly or mainly" and it would be correct to say
+that both expressions mean "predominantly".  
+  
+Let me endeavour to find the evidence tending to show the predominant purpose
+for which the premises were used for an uninterrupted period of ten years
+prior to March 1, 1972, which period for the sake of convenience, I shall
+refer to as "the relevant period". The premises in suit are situated in Sea
+Street which is admittedly a commercial area; but that fact by itself is of
+little value to determine the nature of the predominant user the premises were
+engaged for.
+
+**278**
+
+The assessment register maintained at the Municipal Council, Colombo,
+described the premises for the relevant period, as a house, except for the
+year of assessment 1966 when it was described as a store. Therefore it is no
+wonder that in the case No. DC Colombo 53744/M filed by the 9th respondent
+against Mohanam, seeking recovery of arrears of rent and her ejectment under
+the former Rent Restriction Act, the premises were described as a residential
+premises and that is not a decisive factor in determining the predominant
+purpose to which the premises were used. That action was pending when the Rent
+Act, No. 7 of 1972 came into operation and by virtue of section 47 of that Act
+(except for the recovery of arrears of rent) the proceedings for ejectment
+became null and void.  
+  
+Mohanam as the tenant of the premises made an application to the Rent Board to
+determine the authorized rent, probably in 1962, on the basis that the
+premises were not residential premises. That application was made because in
+1961 and 1962, the annual value of the premises was assessed at Rs. 2,385 and
+if they were residential premises, the annual value being over Rs. 2,000 for
+the time being, they became excepted premises, as the law stood at that time;
+and the tenant could not have sought the protection of the Rent Restriction
+Act from the jeopardy of being evicted under the common law. The decision of
+the Rent Board of Review 9R10 dated 17.6.63 clearly indicates that it was
+contended for Mohanam that the premises were business premises while it was
+contended on behalf of the 9th respondent that they were excepted premises and
+therefore inferentially residential premises. In my view those proceedings too
+are not decisive of the question in hand. The tenant was maneuvering to seek
+cover under the Rent Act inasmuch as the landlord was manoeuvring to get her
+out of that protection.  
+  
+There is no doubt that part of the premises were used for the running of money
+lending business in the name of "Lakshmi Nilayam" continuously from the year
+1949\. The evidence reveals that appellant and his wife were not destitute
+tenants but between them were owners of several residential premises. In the
+year 1965, apparently, the 9th respondent wrote to Mohanam that she was
+violating the contract of tenancy by using the premises for the money lending
+business. Although that letter was not produced, the letter dated 1st March,
+1965 sent by Mohanam in reply was produced marked 9R4. Relevant parts of that
+letter read as follows: "It is absurd to suggest to me that
+
+**279**
+
+there was any agreement regarding the purpose for which these premises to be
+used when they were let to me by the Trustee of the new Kathiresan Temple or
+at any subsequent stage. I emphatically deny that the premises were or are
+residential premises within the meaning of the Rent Restriction Act. The
+premises are protected premises and I am entitled to the protection of the
+Rent Restriction Act It is idle for you to state that I am endeavouring to use
+the said premises for the purposes of business. A money lending business has
+been carried on in the said premises from 1947 to your knowledge. Messrs.
+Sankara Iyer were also using the said premises for business . . . These
+premises are situated in a commercial area and are business premises and have
+always been assessed to your knowledge as such. The municipality and its
+witnesses admitted this fact in Court  
+  
+That reference to the admission made by witnesses in Court in that letter
+pertains to the proceedings in the action No. DC Colombo 57107/M. That action
+was filed by Mohanam against the Municipal Council. Colombo, complaining that
+the assessment of the annual value of the premises for the year 1962 was
+excessive and unrea­sonable. The proceedings of that case to my mind,
+unequivocally suggests to what predominant purpose to which the premises were
+used.  
+  
+According to the Licensed Surveyor who gave evidence in those proceedings, the
+ground floor area of the premises was 1,864 square feet while the area
+upstairs was 605 square feet. The present appellant gave evidence on behalf of
+his wife in those proceedings. He stated that the premises in question which
+is situated in the commercial zone has been designed for business purposes and
+not for habitation. The entire premises had one tap and one water closet. It
+was his testimony that the premises were chiefly used as business premises and
+that it was necessary for business purposes for him to remain in that area.  
+  
+The money lending section and the office room occupy the entire downstairs
+area except the kitchen and the water closet. He categori­cally stated that
+two-thirds of the premises was used for business purposes. The surveyor's
+evidence too corroborated that fact.  
+  
+The case No. DC Colombo 57107/M was settled as evidenced by the document
+marked 9R2 in January, 1965 and the first two points of settlement read as
+follows:
+
+**280**
+
+(1) It is agreed between the plaintiff and the defendant that the premises in
+question are situated in an area used mainly for commercial purposes.  
+  
+(2) From and before 1941 the defendant found that the said premises was (sic)
+used as a money lending business place and residence and the premises in
+question have been assessed on the footing that it was a house used for
+business purposes.  
+  
+For the above reasons I hold that there was ample evidence to justify that the
+premises in suit was used mainly for a purpose other than a residential
+purpose during the relevant period and the occupation of the appellant and
+Mohanam of the premises as a residence was incidental. In view of this finding
+that the premises in suit is not a house within the meaning of the CHP Law, it
+would be futile to decide the other two matters on which leave to appeal was
+granted. The appeal is dismissed with costs fixed at Rs. 10,000.  
+  
+**AMERASINGHE, J. - I agree.  
+  
+ANANDACOOMARASWAMY, J. - I agree.  
+  
+_Appeal dismissed._**
+
+* * *
+
+**CommonLII:** [Copyright Policy](/commonlii/copyright.html) **|**
+[Disclaimers](/commonlii/disclaimers.html) **|** [Privacy
+Policy](/commonlii/privacy.html) **|** [Feedback](/commonlii/feedback.html)  
+URL: _http://www.commonlii.org/lk/cases/LKSC/1998/16.html_  
+

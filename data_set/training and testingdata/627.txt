@@ -1,0 +1,440 @@
+##  Alexander v. Chandrananda De Silva, Commissioner of Elections and Others -
+SLR - 301, Vol 2 of 1996 [1994] LKSC 32; (1996) 2 Sri LR 301 (16 August 1994)
+
+**301**
+
+**ALEXANDER  
+v.  
+****CHANDRANANDA DE SILVA, COMMISSIONER OF ELECTIONS**  
+**AND OTHERS**
+
+SUPREME COURT.  
+DHEERARATNE. J.  
+WADUGODAPITIYA, J, AND  
+WIJETUNGA, J.  
+S.C. APPEAL NO. 1/95.  
+C.A. ELECTION PETITION NO. 2/94.  
+1ST NOVEMBER, 1995.  
+14TH AND 21ST DECEMBER 1995.
+
+_Election Petition ‑ Parliamentary Elections Act ‑ Sections 91 and 92 ‑ Non
+compliances relating to counting of preference_ ****_votes ‑ whether such non
+compliance is a ground for avoiding the election of an_ _individual candidate
+as a member ‑ Interpretation of statutes._
+
+The Appellant was a candidate of the Podujana Eksath Peramuna (PA) at the
+Parliamentary Elections in 1994 for the electoral district No.9 Hambantota.
+P.A. won four seats. On the basis of the preference votes for PA. candidates
+the Returning Officer declared elected as members the 20th, 19th, 17th, and
+13th Respondents in that order. The Appellant obtained 388 preferences less
+than the 13th Respondent and was unsuccessful. In his Petition the Appellant
+alleged non‑compliance with the provisions of the Act in the counting of
+preferences which is a ground set out in section 91(1) (b) of the
+Parliamentary Elections Act No. 1 of 1981 for challenging an election in
+respect of any electoral district. The Petitioner sought inter alia, for a
+declaration that the return of the 13th Respondent as elected was undue and
+for a declaration after a re‑scrutiny of preference votes for the PA., that
+the Appellant is duly elected as a member of Parliament.
+
+**Held:**
+
+(1) The Petitioner ought, on the ground alleged by him, have prayed for
+avoidance of the election in respect of the electoral district and not the
+election of a member.
+
+(2) The Court cannot by giving a purposive interpretation to section 92(1) of
+the Parliamentary Elections Act permit a partial avoidance of the election.
+Such an attempt would cross the boundary between construction and legislation.
+
+**302**
+
+**Cases referred to :**
+
+1\. _Munasinghe v. Corea_ **(** 1953) 55 N.L.R. 265.
+
+2\. _Bandaranaike v. Premadasa_ (1989) 1 Sri L.R. 240. ****
+
+3\. _Conga nige Emmanuel Wallman Anthony v. S. H. M. Chandrasena S.C.  _Appeal
+No. 1/94 S.C. Minutes of 14th July 1994.
+
+4\. _Weerasinghe v. Chandrananda de Silva, Commissioner of Elections_ 1922 ‑ 1
+Sri L.R. 76.
+
+5 **.** _Cramas Properties Ltd., v. _ _Connaught_ _Fur Trimmings_ (1965) 1 W.
+L. R. 892. ****
+
+6\. _Regina_ _v. Broadcasting Complaints Commission Ex ‑parte Owen _ (1985) 1
+Q. B. 1153 **.**
+
+7\. _Johnson v. Moreton_ (1980) A.C. 37.
+
+8\. _Federal Steam Navigation Co., Ltd., v. Department of Trade & Industry
+_(1974) 2 All E.R. 97. ****
+
+9\. _In Re Lockwood (deceased) Atherton v. Brook_ (1957) 3 All E.R. 520 **.**
+
+10. _Jones v._ _Wrotham_ ___Park_ _Settled Estate_ (1979) 1 All E.R. 286, 289.
+
+**AN APPEAL** under Section 102 of the Parliamentary Elections Act No. 1 of
+1981 read with Article 130(b) of the Constitution against an order of an
+election Judge **.**
+
+_Faisz Musthapha, P.C._ with _Mahanama de Silva, N.M. Saheed and Gaston
+Jayakody_ for Appellant **.**
+
+_K.C. Kamalasabayson, D.S.G._ with _Chanaka de Silva_ _,_ _S.C **.**_ ** __**
+for 1st and 2nd **** Respondents.
+
+_Cur. adv. vult._
+
+26th January, 1996.
+
+**DHEERARATNE J.**
+
+This is an appeal from an order of the Election Judge dismissing a Petition
+filed in terms of section 92 of the Parliamentary Elections Act No. 1 of 1981
+on a preliminary objection taken on behalf of the 1st and 2nd Respondents. The
+objection relates to a pure question of law, and in order to appreciate the
+nature of that objection and the content of arguments adduced for and against,
+it would be convenient initially to set out the legislative background in
+which the Petition was filed.
+
+Article 101(1) of the Constitution enabled the Parliament, by law to make
+provision inter alia for the procedure for election of Members of
+
+**303 __**
+
+Parliament (e); creation of offences relating to such elections (f); the
+grounds for avoiding such elections (g); and the manner of determination of
+disputed elections and such other matters as are necessary or incidental to
+the election of Members of Parliament (i). Article 102 (2) provided that until
+Parliament by law makes provision for such matters, the Ceylon (Parliamentary
+Elections) Order in Council as amended from time to time, shall subject to the
+provisions of the Constitution, _mutatis mutandis_ , apply. By the
+Parliamentary Elections Act, No.1 of 1981, among some other matters, provision
+was made for what was contemplated in subsections (e) (f) (g) and (i) of
+Article 101(1) mentioned above; parts dealing with those matters in the Order
+in Council were repealed.
+
+By the 14th Amendment to the Constitution which came into operation on
+24.5.1988, Article 99(2) was amended to enable every elector, in addition to
+his vote, to indicate his preferences for not more than three candidates
+nominated by the same recognized political party or independent group in whose
+favour he was exercising his vote. This was an important departure from the
+original Article 99(2) which provided for a recognized political party or an
+independent group contesting elections to set out in the nomination paper the
+names of candidates in order of priority ‑ the order of priority being that
+determined by such party or group. The novel concept of preferential vote,
+necessitated amendments to be made to the Parliamentary Elections Act, in
+several directions. Primarily, the priority list had to give way to a list of
+names submitted in the alphabetical order in the nomination paper; each
+candidate had to be assigned a serial number so that preferences of electors
+could be conveniently indicated; counting of votes had to be done preference ‑
+wise too; declaration of results and filling of vacancies in accordance with
+the number of preference votes obtained by each candidate had to be provided
+for. These, the legislature sought to accomplish by enacting the Amendment Act
+No. 15 of 1988 which came into operation on the same day as the 14th
+Amendment. Thus, subsections of the principal enactment 15(1) (Nomination
+papers), 20(1) (Uncontested elections), 24(1)(b) (Notice of the poll),
+30(1)(b) (Notices to be exhibited at polling stations), 32(1)(a) (Ballot
+papers), 53(7) (Counting officer's written statement), 55(h) (Counting
+officer's sealed packet of documents to be sent to the returning officer), and
+60(1) (Declaration of the result), were repealed and suitable substitutions
+
+**304**
+
+made. Appropriate amendments to the principal enactment were also made in Form
+A of the first schedule (Form of the nomination paper), Form C of the same
+schedule (Form of the Ballot paper), Form B of the second schedule (Form of
+declaration of identity), and in the third schedule (Form of directions for
+the guidance of a voter in voting to be exhibited outside every polling
+station and in every compartment of every polling station), in order to
+accommodate preferential voting.
+
+However, the legislature chose to make no amendments to part VII of the
+principal enactment titled "Election Petitions". I shall set down in full
+sections 91 and 92 appearing in that part which are relevant to the present
+case. It may be noted that the emphasis placed on some words in those sections
+are my own.
+
+91\. **The election of a candidate as a Member** is avoided by his conviction
+for any corrupt or illegal practice.
+
+92(1). **The election in respect of any electoral district** shall be declared
+to be void on an election Petition on any of the following grounds which may
+be proved to the satisfaction of the Election Judge, namely ‑
+
+(a) that by reason of general bribery, general treating or general
+intimidating or other misconduct or other circumstances whether similar to
+those enumerated before or not a section of electors was prevented from voting
+for the recognized political party or independent group which it preferred and
+thereby materially affected the result of the election;
+
+(b) non‑compliance with the provisions of this Act relating to elections, if
+it appears that the election was not conducted with the principles laid down
+in such provisions and that such non‑compliance materially affected the result
+of the election.
+
+(2) **The election of a candidate as a Member** shall be declared to be void
+on an election Petition on any of the following grounds which may be proved to
+the satisfaction of the Election Judge namely‑
+
+(a) that a corrupt or illegal practice was committed in connection with the
+election by the candidate or with his knowledge or consent or by any agent of
+the candidate;
+
+**305**
+
+(b) that the candidate personally engaged a person as a canvasser or agent or
+to speak on his behalf knowing that such person had within seven years
+previous to such engagement been found guilty of a corrupt practice under the
+law relating to the election of the President or the law relating to Referenda
+or under the Ceylon (Parliamentary Elections) Order in Council, 1946, or under
+this Act, by a court of competent jurisdiction or by the report of an Election
+Judge;
+
+(c) that the candidate personally engaged a person as a canvasser or agent or
+to speak on his behalf knowing that such person had been a person on whom
+civic disability had been imposed by a resolution passed by Parliament in
+terms of Article 81 of the Constitution, and the period of such civic
+disability specified in such resolution had not expired;
+
+(d) that the candidate was at the time of his election a person disqualified
+for election as a Member.
+
+The Interpretation section 131 of the Act defines an 'election' (unless the
+context otherwise requires) as meaning an election for the purpose of electing
+a Member of Parliament.
+
+It is seen that the ground (b) of avoidance of **the election in respect of
+any electoral district** consists of three ingredients, which are:‑
+
+(1) non‑compliance with the provisions of the Act:
+
+(2) appearance that the election was not conducted with the principles laid
+down in such provisions; and
+
+(3) such non‑compliance materially affecting the results of the elec­tion. (
+_See_ _‑ Munasinghe v. Corea_(1) _and Bandaranaike v. Premadasa_ (2)] __
+
+The Petitioner unsuccessfully contested as a candidate of the Podujana Eaksath
+Peramuna (PA) at the parliamentary elections held on 16th August 1994 for the
+Electoral District No. 9 Hambantota. The 1st and 2nd Respondents are the
+Commissioner of Elections and the Returning Officer of the Electoral District
+Hambantota respectively, while the 3rd to 81st Respondents are all other
+candidates who contested the said election in that Electoral District. Out of
+the total number of seven seats allotted to the Electoral District the PA won
+four seats. According to the official results determined in terms of
+
+**306**
+
+preferential votes following candidates of the PA were elected with the
+indicated number of preferences:‑
+
+20th Respondent   78977
+
+19th Respondent   63698
+
+17th Respondent   46034
+
+13th Respondent   39376
+
+The Petitioner had obtained according to the official results, 38988
+preferences, which is 388 less than the number secured by the 13th Respondent.
+The Petitioner made several allegations relating to counting of preferences
+cast in his favour and non‑compliance with the provisions of the Parliamentary
+Elections Act in the process of counting of preferences, the details of which
+I need not elaborate here. The reliefs the Petitioner prayed for in his
+Petition are briefly:‑
+
+(a) A declaration that the election for the Electoral District of Hambantota
+was void to the extent that counting and/or recording of preference votes
+relating to candidates nominated by the PA was not in compliance with the
+Parliamentary Elections Act.
+
+(b) A declaration that the return of the 13th Respondent as elected was undue.
+(emphasis added)
+
+(c) A declaration that the petitioner was duly elected and/or ought to have
+been returned as a Member of Parliament at the election.
+
+(d) A declaration that such of the candidates of the PA have been duly elected
+at the election after a recount.
+
+(e) To make an order permitting the Petitioner or his agents to inspect all
+ballot papers and other documents relating to the counting of preference votes
+of the candidates of the PA at the said election in terms of section 63(2) of
+the Parliamentary Elections Act.
+
+(f) To make an order for a recount and/or scrutiny of the preference votes
+obtained by the candidates of the PA at the said election.
+
+The preliminary objection raised on behalf of the 1st and 2nd Respondents was
+that the Election Court had no power to grant reliefs prayed for as
+non‑compliance with the provisions of the Parliamentary Elections Act in the
+conduct of the election alleged by the Petitioner is a ground for avoidance of
+**the election in respect of any Electoral**
+
+**307**
+
+**District** in terms of subsection 92 (1) and not a ground for avoidance of
+**the election of a Candidate as a Member** as specified in subsection 92 (2)
+; therefore it was contended that the declaration sought for partial avoidance
+of the election for the Electoral District was bad in law. In support of the
+objection reliance was placed on the decision of this Court in _Canganige
+Emmanuel Wallman Anthony v._ _S. H. M. Chandrasena._(3) __ That is a decision
+on section 92 of the Provincial Councils Elections Act, No.2 of 1988. which is
+couched in almost identical language as the provision under consideration and
+where the identical question was dealt with in detail. The Petitioner on the
+other hand relied on another decision of this Court in _Weerasinghe v_.
+_Chandrananda de Silva, Commissioner of_ _Elections,_ (4) where the contrary
+view was expressed, somewhat briefly, on the identical question now at hand
+relating to the Parliamentary Elections Act.
+
+Learned DSG for the 1st and 2nd Respondents drew the attention of Court to the
+scheme adopted by the legislature to provide for avoiding an election in
+respect of any Electoral District on the one hand and in respect of a Member
+on the other. He submits that in terms of section 91 an election of a member
+is avoided by his conviction for any corrupt or illegal practice and further
+intervention of a Court is unnecessary to unseat him. Section 92 on the whole
+deals with avoidance of elections through the machinery of an election
+Petition. Subsection 92 (1) deals exclusively with the avoidance of the
+election in respect of any Electoral District and the grounds of avoidance are
+set out in limbs (a) and (b) which are of a general nature likely to affect
+the whole election. Subsection (2) deals exclusively with avoidance of the
+election of a candidate as a Member and the grounds of avoidance specified in
+limbs (a) to (d) in that subsection are of a personal nature relevant to a
+Member. It was further submitted by him that if non‑compliance with the
+provisions of the Act as complained of by the Petitioner is proved, that could
+not have materially affected the election of the 13th Respondent only, but the
+result of the entire election as no reliance could be placed on the official
+counting of all preference votes at the election in the Electoral District.
+
+Learned President's Counsel for the Appellant, probably in view of the
+provisions of Article 101 of the Constitution, did not urge that this Court
+has any jurisdiction under 'common law' to supply any supposed
+
+**308**
+
+omission in the Election Law, but he strenuously invited us to adopt a
+purposive and strained interpretation to section 92. We were rightly not
+invited to read limb (b) of subsection 92(1) as also appearing as a limb of
+subsection 92 (2); that would be tantamount to legislating and not
+interpreting. Learned Counsel however submitted that we should read the words
+**the Election in respect of any electoral district** as also meaning any part
+of the election in respect of any electoral district, so as to accommodate
+avoidance of an election of a Member on the ground of non‑compliance with the
+provisions of the Act ; he contended that the "whole" includes a "part" and we
+are therefore amply justified in giving the construction he advanced by
+adopting a purposive interpretation. It was contended that one of the purposes
+of the Act was to ensure purity of elections, which is the foundation of a
+democratic system of government.
+
+Learned Counsel for the Appellant cited several decisions where purposive
+interpretation was resorted to or discussed and some of the important cases
+cited by him were ‑ C _ramas Properties Ltd v. Connaught Fur Trimmings,_ (5)
+_Regina v. Broadcasting Complaints Commission, Exparte Owen;_ (6) _Johnson v.
+Moreton;_ (7) _Federal Steam Navigation Co Ltd v. Department of Trade &
+Industry_(8) __ and _In Re Lockwood (deceased) Atherton v. Brook._ (9) __ One
+can hardly dispute the principles so well enunciated in those decisions.
+
+But, the primary question we have to decide is whether or not conditions
+necessary for the application of a **purposive interpretation for the words
+the election in respect of any electoral district** have arisen in this case.
+There must exist a compelling reason for us to give a strained interpretation.
+Looking at the scheme of the Act, I am not convinced that any absurdity, or
+repugnancy, or inconsistency or frustration of the purposes of the Act or the
+like has arisen in the application of the ordinary sense of those words and I
+am unable to say that they attract any secondary meaning capable of advancing
+the Appellant's case. If I understood the submission of Learned President's
+Counsel correctly, his position was that the legislature by some inadvertence
+overlooked to provide for avoidance of an election of a candidate as a Member
+on the ground of non‑compliance of the provisions of the Act. Perhaps, it was
+so supposed in _Weerasinghe's_ case (supra). Assuming there was such
+inadvertence, I think it is
+
+**309** __
+
+relevant in that connection to remind ourselves the words of Lord Diplock in
+_Jones v. Wrotham Park Settled Estates_ (10) __ where he said;
+
+........... I am not reluctant to adopt a purposive construction where to
+apply the literal meaning of the legislative language used would lead to
+results which would clearly defeat the purposes of the Act. But in doing so
+the task on which a court of justice is engaged remains one of construction,
+even where this involves reading into the Act words which are not expressly
+included in it. _Kammins Ballrooms Co Ltd v. Zenith Investments (Torquay)
+Ltd.*_ provide an instance of this; but in that case the three conditions that
+must be fulfilled in order to justify this course were satisfied. First, it
+was possible to determine from a consideration of the provisions of the Act
+read as a whole precisely what the mischief was that it was the purpose of the
+Act to remedy; secondly, it was apparent that the draftsman and Parliament had
+by inadvertence overlooked, and so omitted to deal with, an eventuality that
+required to be dealt with if the purpose of the Act was to be achieved; and
+thirdly, it was possible to state with certainty what were the additional
+words that would have been inserted by the draftsman and approved by
+Parliament had their attention been drawn to the omission before the Bill was
+passed into law . Unless this third condition is fulfilled any attempt by a
+court of justice to repair the omission in the Act cannot be justified as an
+exercise of its jurisdiction to determine what is the meaning of a written law
+which Parliament has passed. Such an attempt crosses the boundary between
+construction and legislation. It becomes a usurpation of a function which
+under the constitution of this country is vested in the legislature to the
+exclusion of the courts.
+
+Considering the purpose which the enactment sought to achieve, could it ever
+be said that "it was apparent that the draftsman and Parliament had by
+inadvertence overlooked, and so omitted to deal with, an eventuality that
+required to be dealt with if the purpose of the Act was to be achieved"? I
+should think not. This apart, the fact that this very purpose to be achieved
+after the new system of voting was decided upon, was to bring the existing
+provisions into line with the new concept of preferential voting, and to this
+and several amendments were made to the principal enactment. The indication,
+therefore, clearly
+
+**310**
+
+is that the attention of the legislature was specifically directed to this,
+very end. In these circumstances I find it impossible to accept the suggestion
+of the Appellant that there was inadvertence on the part of the draftsman or
+Parliament. Thus the only interpretation possible is that what was enacted did
+in fact give effect to the intention of the legislature. Then again, if, as
+invited to do so by learned President's Counsel, we were to interpret the
+words "election in respect of any electoral district" to mean and include "any
+part of it", and therefore to mean "election of a member" by a process of
+judicial activism or purposive interpretation, we will then run into certain
+other difficulties. First, we would have to totally disregard the sharp
+distinction so neatly drawn by the legislature between subsections 92(1) and
+92(2). Secondly, we have to permit parties to seek partial avoidance of an
+election in respect of an electoral district even on the several grounds
+mentioned in subsection 92(1)(a) as well, **a situation the legislature seems
+to have never contemplated.** In my view, therefore what learned President's
+Counsel for the Appellant is asking this Court to do is to cross the boundary
+between construction and legislation and usurp the function of Parliament.
+Such a thing this Court cannot do.
+
+If the allegations made by the Petitioner regarding counting of preference
+votes are correct, I am in agreement with the observations of my brother
+Kulatunga, J. in _Anthony's_ case ( _supra_ ) that the several acts of
+non‑compliance with the provisions of the Act, having regard to their
+magnitude or implications must logically affect the result of the election of
+the entire district, and therefore, in terms of the Act, the Petitioner ought
+to have prayed for avoidance of the election of the electoral district.
+
+For the above reasons, the order of the Election Judge is affirmed and the
+appeal is dismissed with costs payable to the 1st and 2nd Respondents fixed at
+Rs.10,000/‑.
+
+**WADUGODAPITIYA, J**. ‑ I agree.
+
+**WIJETUNGA, J. ‑** I agree.
+
+_Appeal dismissed._
+
+* * *
+
+**CommonLII:** [Copyright Policy](/commonlii/copyright.html) **|**
+[Disclaimers](/commonlii/disclaimers.html) **|** [Privacy
+Policy](/commonlii/privacy.html) **|** [Feedback](/commonlii/feedback.html)  
+URL: _http://www.commonlii.org/lk/cases/LKSC/1994/32.html_  
+

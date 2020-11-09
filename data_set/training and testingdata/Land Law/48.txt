@@ -1,0 +1,416 @@
+[![CommonLII](/images/logos/CommonLII_small.jpg)](/) |  [Home](/) |
+[Databases](/databases.html) | [WorldLII](http://www.worldlii.org) |
+[Search](/forms/search1.html) | [Feedback](/commonlii/feedback.html)
+
+# Supreme Court of Sri Lanka  
+  
+---|---  
+**You are here:**   [CommonLII](/) >> [Databases](/databases.html) >> [Supreme
+Court of Sri Lanka](../) >> [1982](./) >> **[1982] LKSC 10**
+
+[Database Search](/form/search1.html?mask=lk/cases/LKSC) | [Name
+Search](/form/search1.html?mask=lk/cases/LKSC&title=1) | [Recent
+Decisions](../recent.html) |
+[Noteup](/form/search/?method=boolean&query=LKSC+1982+10 or 1982+LKSC+10) |
+[LawCite](/cgi-bin/LawCite/?cit=1982+LKSC+10) |
+[Help](/commonlii/help/cases.html "Help")
+
+* * *
+
+##  Aloysius v. Pillaipody - SLR - 762, Vol 2 of 1982 [1982] LKSC 10; (1982) 2
+Sri LR 762 (2 December 1982)
+
+# 762
+
+**  ALOYSIUS**
+
+**v.**
+
+**PILLAIPODY**
+
+SUPREME COURT
+
+WIMALARATNE, J., RATWATTE, J., AND COLIN‑THOME, J.
+
+S.C. 4/82;
+
+C.A. 72/77;
+
+M. C. (CIVIL) JAFFNA 167/L
+
+NOVEMBER 16, 1982
+
+
+
+    Landlord and tenant ‑ Rent Act, No. 7 of 1972, sections 4, 22(2) (ii) (b) and 22(7) Calculation of standard rent.
+
+
+
+The plaintiff was the landlord of premises No. 49, Grand Bazaar Road, Jaffna
+having acquired it in 1948. The defendant was the tenant of the said premises
+having come into occupation of the premises long before 1948.
+
+
+
+The plaintiff sued the defendant for ejectment from the premises on the ground
+of reasonable requirement. In order to succeed under 22(2) (ii) (b) and 22(7)
+of the Rent Act he had to prove that the standard rent of the premises
+exceeded Rs. 100/‑ p.m.
+
+
+
+**  763**
+
+
+
+No. 49, Grand Bazaar Road, Jaffna was described as a tiled house in 1941 and
+as a tiled boutique in 1956 in the Assessment Register. The question that
+arose was whether the annual value of the tiled house in 1941 or whether the
+annual value of the tiled boutique in 1956 was relevant to determine the
+standard rent.
+
+
+
+The District Court and the Court of Appeal held that the standard rent
+exceeded Rs. 100/‑ on the basis of the annual value of 1956. The defendant
+appealed to the Supreme Court on the question of the calculation of standard
+rent.
+
+
+
+# Held -
+
+
+
+The mere registration by the tenant of a business under the Business Names
+Registration Ordinance in 1954 will not have the effect of converting
+residential premises into business premises.
+
+
+
+The description of the property as entered in the Assessment Register affords
+prima facie evidence as to whether the property has been assessed as
+residential premises or business premises. It is not necessary to call an
+officer from the Municipal Council to prove the fact. The standard rent of the
+premises should be calculated on the 1956 annual value as that was the first
+time that the premises were assessed as a business premises:
+
+
+
+**APPEAL** from judgment of the Court of Appeal reported at (1982) 1 Sri L.R.
+p.106.
+
+
+
+_H.L. de Silva, S.A.,_ with _S.C. Crosette Tainbiah_ and _K. Thevarajah_ for
+defendant‑appellant.
+
+
+
+_K.N. Choksy, S.A.,_ with _S. Mahathevan, Harsha Soza, Miss. I.R. Rajapakse,
+N. Fernando and R. Selvaskandan_ for plaintiff‑respondent.
+
+
+
+_Cur. adv. vult._
+
+
+
+December 2, 1982
+
+
+
+**WIMALARATNE, J.**
+
+
+
+This is an action instituted by the landlord, who is the
+plaintiff-­respondent, for the ejectment of the tenant, who is the
+de­fendant‑appellant, from premises No. 49, Grand Bazzar Road, Jaffna, on the
+ground that the premises are reasonably required by the plaintiff for the
+purposes of his business. Admittedly the premises were, on the date of action,
+business premises to which the Rent Act, No. 7 of 1972 applied, and the annual
+value of which was less than the "relevant amount" (Rs. 1500/‑). Admittedly
+also, the plaintiff had acquired ownership of the premises on a date
+(September 1973) subsequent to the date on which the defendant came into
+occupation (in 1948). The combined effect of sections 22(2) (ii) (b) and 22(7)
+of the Rent Act, is that the landlord could succeed in an action for the
+ejectment of a tenant from business premises on the ground of reasonable
+requirement only if he establishes that the standard rent for a month
+(determined under section 4 of the Act) exceeds Rs. 100/‑, besides proving
+reasonable requirement.
+
+
+
+#  764
+
+
+
+The trial Judge as well as the Court of Appeal have held with the plaintiff on
+both matters, and the Court of Appeal has ex mero motu granted leave to appeal
+to this Court on the question of the calculation of the standard rent.
+
+
+
+For the determination of the standard rent of business premises the formula
+laid down in section 4(1) is as follows:‑
+
+
+
+"4(l) The standard rent per annum .... of any business premises the annual
+value of which does not exceed the relevant amount, means ‑
+
+
+
+(a) the amount of the annual value of such premises as specified in the
+assessment in force during the month of November 1941, or if the assessment of
+the annual value of such premises is made for the first time after that month,
+the amount of such annual value as specified in such assessment, or
+
+
+
+(b) if the rates levied in respect of such premises are, under the terms of
+the tenancy, payable by the landlord, the aggregate of the amount determined
+under paragraph
+
+
+
+(a) and of the amount payable per annum by way of rates in respect of such
+premises for the year 1941 or, as the case may be, for the year in which such
+first assessment is made".
+
+
+
+The burden was on the plaintiff to establish that the standard rent exceeded
+Rs. 100/‑ per month. In order to discharge that burden the plaintiff relied
+upon two documents ‑ P1 & P13. P1 is a decision of the Rent Control Board of
+Jaffna made on 28.8.75 fixing the authorised rent at Rs. 126.69 p.m. On the
+basis that the standard rent was Rs. 1319.64 p.a. This fixation was a a result
+of an application to the Board by the tenant, apparently under section 34 of
+the Act. An appeal by the tenant to the Board of Review, had not been
+concluded when the trial reached a finality in the Magistrate's Court.
+Therefore the fixation by the Rent Board of the authorised rent (and hence of
+the standard rent) was not final and conclusive. Besides as the fixation had
+not been made under section 4(5) of the Act: the amount determined cannot be
+deemed to be the standard rent for the purposes of the Act. So the standard
+rent has to be determined under section 4(1).
+
+
+
+P13 is a copy of the Assessment Register produced at the trial without
+objection. This is a Register required to be maintained under
+
+
+
+# 765
+
+
+
+section 235 of the Municipal Councils Ordinance (Cap. 252), The plaintiff
+relied upon the change in the entries made in 1956. In 1941 these premises
+bore assessement number 32 and were assessed for the purposes of rates at an
+annual value of Rs. 720/‑. The premises were described as "tiled house". In
+1956 a new assessment number 49 was given; the annual value was increased from
+Rs. 960/‑ to Rs. 1173/‑ and the premises were for the first time described as
+"'tiled botique". The Court of Appeal has accepted the contention on behalf of
+the plaintiff that the premises were for the first time assessed as business
+premises in 1956 and that the base annual value for the purpose of calculating
+the standard rent in terms of section 4(1) is the 1956 annual value, and not
+the annual value for any previous year, even though the premises may have been
+used for purposes of business.
+
+
+
+Mr. de Silva for the appellant has argued before us that -
+
+
+
+(a) the definition of "premises" in the Rent Act as meaning "a building or
+part of a building together with the land appertaining thereto" has no
+relation to any purpose for which the premises is used; therefore the
+expression "of such premises" in section 4(1) means "of the building in
+question", and as the building in question was assessed in 1941 for the
+purposes of rates, it is the 1941 annual value which should be taken as the
+base value;
+
+
+
+(b) the entries in the Assessment Register, other than those in relation to
+annual value and rates are, in the absence of provision in any written law,
+not conclusive proof, nor even _prima facie_ evidence of what they represent;
+
+
+
+(c) the fact that the premises are situated in the grand bazzar of Jaffna and
+were occupied by "Adam Bhai Stores" in 1941 rebuts any inference that the
+premises were assessed as residential premises that year.
+
+
+
+Mr. Choksy for the respondent has contended that ‑
+
+
+
+(1) when an assessment is made of the annual value of any premises that
+assessment has necessarily to be based on the character of the premises, that
+is whether it is residential or business premises. The description of the
+property as residential or business premises in the Assessment Register is
+therefore intimately linked with the assessment of the annual value;
+
+
+
+(2) if a description of the property assessed is not entered in the Assessment
+Register, then it would not be possible to work the Rent Act. The provisions
+in the Rent Act such as those relating
+
+
+
+# 766
+
+
+
+to standard rent, relevant amount and excepted premises cannot be construed
+apart from the written laws under which the annual value as assessed for the
+purpose of levying rates;
+
+
+
+(3) the description "tiled house" is not equivocal. It could have only one
+meaning, namely, a residential house, as contrasted with business premises;
+
+
+
+(4) the change in the description of the premises in the Assessment Register
+from "tiled house" in 1941 to "tiled botique" in' 1956 is significant, and has
+to be given a meaning.
+
+
+
+Section 48 of the Rent Act defines "annual value" as follows:‑.
+
+
+
+"Annual value of any premises means the annual value of such premises _"
+assessed as residential or business premises,_ as the case may be, for the
+purpose of any rates levied by any local authorities under any written law,
+and as specified in the assessment under such‑written law ....' (The emphasis
+is mine).
+
+
+
+The written laws under which local authorities are authorised to assess the
+annual value of premises for the purpose of any rates levied by such local
+authorities are the Municipal Councils Ordinance (Cap. 252) the Urban Councils
+Ordinance (Cap. 255) and the Town Councils Ordinance (Cap. 256). The
+provisions relating to assessment of annual value of property in the Municipal
+Councils Ordinance apply to Urban Councils and Town Councils as well. Now
+"annual value" is defined in section 327 of the Municipal Councils Ordinance
+as meaning "the annual rent which a tenant might reasonably be expected,
+taking one year with another, to pay for any house, building, land or
+tenement..."  It is common knowledge that the rent of business premises are
+generally higher than those of residential premises. Section 234 of the
+Municipal Councils Ordinance empowers the Council to require the owner and
+occupier of each house, building, land and tenement to furnish returns of the
+rent and annual value thereof, and empowers also an authorised officer to
+enter, inspect and survey such premises for a like purpose. The entries in the
+Assessment Register required to be maintained under section 235 are made only
+upon receipt of information obtained under section 234\. On such information
+the Council is able to assess the premises as business or residential
+premises, and prior to assessment of the annual value the character of the
+premises is known to the Municipal Council. When the assessment register is
+compiled the description of the premises as well as its annual value assessed
+for the purpose of rates are entered. Therefore the annual value entered in
+the
+
+
+
+# 767
+
+
+
+register is necessarily linked with the description of the property. The
+description of the property as entered in the register thus affords _prima
+facie_ evidence as to whether the property has been _assessed as residential
+premises or as business premises_. It is not necessary, as contended by Mr. de
+Silva,. to call as a witness an officer from the Municipal Council to prove
+that fact.
+
+
+
+As section 48 of the Rent Act defines annual value as the value of the
+premises assessed as residential or business premises for the purpose of the
+rates levied by the local authority, and as such rates are levied and
+assessment made under the authority of the Municipal Councils Ordinance, the
+Urban Councils Ordinance and the Town Councils Ordinance, the Rent Act cannot
+be construed without reference to these laws. As the standard rent under the
+Rent Act is based upon the annual value, and as the annual value is determined
+under the written laws relating to local authorities, the standard rent cannot
+be determined without reference to those laws. Therefore not only the annual
+value and the rates, but also the description of the property as entered in
+the assessment register afford proof of the matters represented therein. The
+entries also afford material for determining the 'relevant amount" and also
+whether premises are or are not "excepted premises".
+
+
+
+The next question is whether the description of the property in 1941 as "tiled
+house" is evidence that the premises were assessed as residential premises
+that year. Mr. de Silva contends that the term tiled house is equivocal
+because it could mean either a 'tiled residential house or a tiled business
+house. Mr. Choksy invites us to give a meaning to the change in description to
+'tiled botique' in 1956, along with the increase in the annual value. The
+change, in my view, is significant. It means that the premises were first
+assessed by the Municipal Council as business premises in 1956. Prior to that
+the premises has been assessed as residential premises.
+
+
+
+The inference to be drawn, if at all, from the description of the premises as
+"tiled house" in 1941, has been rebutted according to Mr. de Silva, by the
+fact that the premises are situated in the grand bazzar of Jaffna and that the
+name of occupier appears in the Register as "Adam Bhai Stores". It seems to me
+that these two factors by themselves do not rebut the inference, in the
+absence of evidence that there were no residential houses in Grand Bazzar
+Road, and that the premises were not used wholly or mainly for purposes of
+residence.
+
+
+
+# 768
+
+
+
+Then there is evidence (D1) that the defendant registered his business as a
+dealer in textiles and toilet requisites in 1954. Mr. de Silva invites us to
+treat the year 1954 as the year in which the premises were first assessed, as
+business premises, in which event the standard rent would still be less than
+Rs. 100/‑ p.m. The mere registration by a tenant of a business under the
+Business Names Registration Ordinance (Cap. 149) will not have the effect of
+converting residential premises into business premises. If the tenant desired
+to have the premises described in the Assessment Register as business premises
+and assessed as business premises in 1954, then there was ample provision in
+sections 235 to 239 of the Municipal Councils Ordinance for him to have taken
+the necessary steps. He had not done so.
+
+
+
+The landlord has therefore discharged the burden of establishing that the
+premises in question were assessed as business, premises for the first time in
+1956, and that the standard rent on the date of institution of action exceeded
+Rs. 100/‑ per month. This appeal is accordingly dismissed with costs.
+
+
+
+**RATWATTE, J.** ‑ I agree.
+
+
+
+**COLIN ‑THOME, J.** ‑ I agree.
+
+* * *
+
+**CommonLII:** [Copyright Policy](/commonlii/copyright.html) **|**
+[Disclaimers](/commonlii/disclaimers.html) **|** [Privacy
+Policy](/commonlii/privacy.html) **|** [Feedback](/commonlii/feedback.html)  
+URL: _http://www.commonlii.org/lk/cases/LKSC/1982/10.html_  
+

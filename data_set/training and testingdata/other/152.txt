@@ -1,0 +1,289 @@
+[![CommonLII](/images/logos/CommonLII_small.jpg)](/) |  [Home](/) |
+[Databases](/databases.html) | [WorldLII](http://www.worldlii.org) |
+[Search](/forms/search1.html) | [Feedback](/commonlii/feedback.html)
+
+# Supreme Court of Sri Lanka  
+  
+---|---  
+**You are here:**   [CommonLII](/) >> [Databases](/databases.html) >> [Supreme
+Court of Sri Lanka](../) >> [1986](./) >> **[1986] LKSC 14**
+
+[Database Search](/form/search1.html?mask=lk/cases/LKSC) | [Name
+Search](/form/search1.html?mask=lk/cases/LKSC&title=1) | [Recent
+Decisions](../recent.html) |
+[Noteup](/form/search/?method=boolean&query=LKSC+1986+14 or 1986+LKSC+14) |
+[LawCite](/cgi-bin/LawCite/?cit=1986+LKSC+14) |
+[Help](/commonlii/help/cases.html "Help")
+
+* * *
+
+##  Fernando v. Bernie De Silva - SLR - 406, Vol 1 of 1986 [1986] LKSC 14;
+(1986) 1 Sri LR 406 (5 February 1986)
+
+**
+
+406
+
+FERNANDO  
+v.  
+BERNIE DE SILVA
+
+**
+
+SUPREME COURT.  
+WANASUNDERA, J., RANASINGHE, J. AND L. H. DE ALWIS, J.  
+S.C. APPEAL No. 76/85. C.A. (L.A. No 29/82).  
+D.C. PANADURA No. 16657.  
+FEBRUARY 5, 1986.
+
+_
+
+Landlord and tenant - S. 22(3)(c) Rent Act No. 7 of 1972 - Tender of arrears
+of rent by deposit in Court to the credit of the case \- Issues - Judgment -
+Ss. 146(2), 184(l) and 187 Civil Procedure Code.
+
+_
+
+Where the only issue in the case was whether because of the fact that the
+defendant had deposited the arrears of rent to the credit of the case before
+the service of summons, the plaintiff could proceed with the action in view of
+section 22 (3) ( _c_ ) of the Rent Act of 1972 and the court was of the
+opinion that the deposit of the arrears in Court did not amount to tender of
+arrears to the landlord within the meaning of the provisions of the said
+section 22 (3) ( _c_ ) the District Judge should have entered judgment
+dismissing the action in final disposal of the action and not enter as he did
+an interlocutory order-
+
+There was no need to have raised a consequential issue asking for judgment as
+it had been prayed for in the plaint and in the written submissions of
+plaintiff. If the District Judge thought such an issue was necessary he could
+have framed it under section 146(2) of the Civil Procedure Code and answered
+it in favour of the plaintiff .
+
+The District Judge was bound to enter a proper judgment in terms of s. 184(1)
+and 187 of the Civil Procedure Code dismissing the action.
+
+**
+
+APPEAL** from judgment of the Court of Appeal.
+
+_
+
+Nimal Senanayake, P.C._ with _Kithsiri Gunaratne_ and _Miss S.M. Senaratne
+_for plaintiff-appellant.
+
+_
+
+E. D. Wikramanayake_ for defendant-respondent.
+
+_
+
+Cur. adv. vult.
+
+_
+
+March, 4, 1986. **  
+L. H. DE ALWIS, J.
+
+**
+
+This is an appeal, with the Special Leave of this Court, from the judgment of
+the Court of Appeal, dismissing the appeal and affirming the order of the
+District Judge of Mt. Lavinia and remitting the case to
+
+**407**
+
+the District Court for determination. The District Court had answered the only
+issue raised in the trial against the defendant, holding that the action could
+be maintained.
+
+This was an action instituted by the plaintiff on 27.1.1980 against the
+defendants for arrears of rent in a sum of Rs. 825 from March 1977 up to April
+1978 at the rate of Rs. 75 per month and ejectment from the premises in suit.
+
+The defendant filed answer on 9.1.80 and at the commencement of the trial the
+following admissions were recorded :-
+
+1. Tenancy under the plaintiff.
+
+2. Rent at Rs. 75 per month.
+
+3. Notice to quit.
+
+4. Receipt by the plaintiff of a deposit note dated 7.5.80 that the defendant had deposited the money.
+
+5. A sum of Rs. 825 has been deposited. 
+
+6. The sum of Rs. 825 has been deposited in Court as arrears of rent .
+
+7. The monthly rental of Rs. 75 was deposited with the Commissioner of National Housing from March 1977 up to January, 1978.
+
+8. Further rent was deposited with the Commissioner of National Housing in view of his letter dated 25.9.77.
+
+9. Acceptance of letter dated 21.4. 78 (D2).
+
+It is then recorded that parties state that since arrears of rent is a
+question of law, they wish to tender written submissions, (that is, without
+leading oral evidence)
+
+The defendant then raised the single issue in the trial, which has erroneously
+been recorded as admission No. 10. It runs as follows:
+
+1\. Since the sum of Rs. 825 which the plaintiff states is arrears of rent,
+has been deposited to the credit of the case prior to 20.5.80, can the
+plaintiff proceed with this action in view of section 22 (3) ( _c_ ) of the
+Rent Act of 1972?
+
+** **
+
+**408**
+
+The relevant portion of section 22(3) of the Rent Act No. 7 of 1972, reads as
+follows:-
+
+"The landlord of any premises referred to in subsection (1) ......... shall
+not be entitled to ......... proceed with, any action ........... for the
+ejectment of the tenant of such premises on the ground that the rent of such
+premises **** has been in arrears for three months or more ........... after
+it has become due-
+
+( _c_ ) if the tenant has, on or before the date fixed, in such summons as is
+served on him, as the date on which he shall appear in court, in respect of
+such action .... _tendered_ to __ the landlord all arrears of rent. "(The
+emphasis is mine).
+
+The decision of the District Judge related to the interpretation of the word
+"tender" in the context of the section. Subsection (1) referred to above
+relates to premises the standard rent of which for a month does not exceed one
+hundred rupees. It is applicable to these premises, the admitted rent of which
+is Rs. 75 per month. Under this subsection, one of the grounds, viz ( _a_ )
+provides for instituting an action for ejectment of the tenant where rent has
+been in arrears for three Months or more, after it has become due.
+
+Under section 22 (3) ( _c_ ) a tenant against whom an action for arrears of
+rent and ejectment has been instituted, is afforded an opportunity of
+tendering all ** _**_ he arrears of rent to the landlord on or before the
+summons returnable date. In the present case summons was returnable on 20.5.80
+and the defendant deposited the arrears to the credit of the case on 5.5.80.
+The tenancy, arrears of rent, notice to quit and the deposit of the arrears
+are admitted by the parties. The defendant then raised the issue as set out
+above as to whether the plaintiff could proceed with the action in view of the
+deposit of the arrears, in terms of section 22 (3) ( _c_ ) of the Rent Act of
+1972.
+
+The learned District Judge took the view that the deposit of the arrears of
+rent in court did not amount to a tender of the arrears to the landlord and
+answered the issue to the effect that the plaintiff "can proceed with the
+action". This is the English version of the judgment which is in Sinhala. He
+was obviously quoting the language of section 22 (3) of the Rent Act when he
+used the above, words within inverted commas.
+
+**409**
+
+Learned counsel for the appellant contended that having come to the conclusion
+that there was no tender of all the arrears of rent to the plaintiff by the
+defendant in terms of section 22 (3) ( _c_ ) of the Rent Act, the learned
+District Judge should have entered judgment for the plaintiff as prayed for.
+He also argued that the Court of Appeal erred in upholding the judgment of the
+District Judge because no consequential issue asking for judgment had been
+raised, and that if judgment was entered it would have deprived the defendant
+of raising any further issues, or as counsel for the respondent submitted
+before us, of even amending his answer thereafter.
+
+Counsel for the appellant contended that once the District Judge had come to a
+finding that the defendant was in arrears of rent there was no alternative
+left for him but to enter judgment for the plaintiff. There was nothing more
+left for the plaintiff to prove in his case, in view of the recorded
+admissions, which supplied the necessary proof of the matters entitling her to
+judgment. I agree with the learned Counsel for the appellant.
+
+The judgment that the District Judge entered was regarded as an interlocutory
+order because it did not give finality to the matter in issue between the
+parties. This was due to the District Judge employing the same language as
+section 22 (3), in entering judgment. The finding of the District Judge under
+this section in this case should have resulted in a conclusion of the action,
+one way or another. If, for instance, the defendant succeeded in establishing
+that he paid the plaintiff the arrears of rent in terms of section 22(3) ( _c_
+), the judge would have been bound to enter judgment dismissing the
+plaintiff's action. Similarly, if the defendant failed to establish the
+payment of all arrears of rent in terms of the section, and no other matters
+had been raised in issue between the parties, the District Judge was obliged
+to enter judgment for the plaintiff. In this case there were no other matters
+in issue between the parties that had to be resolved, in view of the
+admissions recorded before commencement of the trial. The only matter put in
+issue was the question of arrears of rent, and that was answered in the
+plaintiff's favour. The learned District Judge should accordingly have entered
+judgment for the plaintiff. There was no need to have raised a consequential
+issue asking for judgment as it had been prayed for in the plaint and also in
+the written submissions
+
+**410**
+
+tendered by plaintiff's counsel in the District Court. If, however, the
+District Judge thought that such an issue was necessary it was his duty to
+have framed such an issue under section 146(2) of the Civil Procedure Code and
+then answered it in favour of the plaintiff.
+
+As the learned counsel for the appellant contended, the learned District Judge
+was bound to enter a proper judgment in terms of sections 184(1) **** and 187
+of the Civil Procedure Code after he answered the only issue raised in the
+case in the plaintiff's favour. It should have been a judgment which gave
+finality to the action and on which a decree under section 188 could have been
+entered. The judgment on the other hand that the District Judge pronounced,
+took the form of an interlocutory order on which a decree could not have been
+entered. The learned District Judge appears to have been led into this error
+by endeavouring to follow the language of section 22 (3) of the Rent Act of
+1972.
+
+A submission was made that on the judgment entered by the District Judge, the
+trial would have continued and the defendant would have been entitled to
+satisfy the court under section 22 (5) that the rent was in arrears on account
+of "other sufficient cause," namely that he had erroneously deposited it in
+court .
+
+But this was a 'defence' on which the defendant could have raised an issue at
+the trial but chose not to do so. In fact he raised it in his written
+submissions tendered in the District Court and has not been given the relief
+he sought.
+
+In my __ view no prejudice will be caused to the defendant if the District
+Judge is directed to enter a final judgment in the action on the proceedings
+held by him. When such a judgment is entered it will be open to the defendant,
+if he so wishes, to canvass the correctness of the District Judge's finding on
+the question that the deposit of the arrears of rent to the credit of the case
+does not amount to a tender of the arrears to the plaintiff landlord in
+compliance with section 22(3) ( _c_ ) of the Rent Act.
+
+I therefore set aside the judgment of the District Court and of the Court of
+Appeal and direct that the record be remitted to the District Court to enable
+the District Judge to pronounce a proper judgment on the findings he had
+reached in the proceedings held before him, after notice to the parties, and
+then to enter decree in accordance with the judgment:
+
+**411**
+
+The plaintiff-appellant will be entitled to costs in this court and in the
+other two courts below.
+
+**
+
+WANASUNDERA, J.** \- I agree.
+
+**
+
+RANASINGHIE, J.** \- I agree.
+
+_
+
+Judgment set aside. Record remitted to District Judge to pronounce judgment,
+after notice, on his findings.
+
+_
+
+* * *
+
+**CommonLII:** [Copyright Policy](/commonlii/copyright.html) **|**
+[Disclaimers](/commonlii/disclaimers.html) **|** [Privacy
+Policy](/commonlii/privacy.html) **|** [Feedback](/commonlii/feedback.html)  
+URL: _http://www.commonlii.org/lk/cases/LKSC/1986/14.html_  
+

@@ -1,0 +1,399 @@
+[![CommonLII](/images/logos/CommonLII_small.jpg)](/) |  [Home](/) |
+[Databases](/databases.html) | [WorldLII](http://www.worldlii.org) |
+[Search](/forms/search1.html) | [Feedback](/commonlii/feedback.html)
+
+# Supreme Court of Sri Lanka  
+  
+---|---  
+**You are here:**   [CommonLII](/) >> [Databases](/databases.html) >> [Supreme
+Court of Sri Lanka](../) >> [1992](./) >> **[1992] LKSC 11**
+
+[Database Search](/form/search1.html?mask=lk/cases/LKSC) | [Name
+Search](/form/search1.html?mask=lk/cases/LKSC&title=1) | [Recent
+Decisions](../recent.html) |
+[Noteup](/form/search/?method=boolean&query=LKSC+1992+11 or 1992+LKSC+11) |
+[LawCite](/cgi-bin/LawCite/?cit=1992+LKSC+11) |
+[Help](/commonlii/help/cases.html "Help")
+
+* * *
+
+##  Dawson Silva v. Monetary Board of the Central Bank of Sri Lanka and
+Another - SLR - 344, Vol 1 of 1995 [1992] LKSC 11; (1995) 1 Sri LR 344 (30
+June 1992)
+
+**344**
+
+**DAWSON SILVA** **  
+v.** **  
+MONETARY BOARD OF THE CENTRAL BANK  
+OF SRI LANKA AND ANOTHER**
+
+SUPREME COURT  
+G. P. S. DE SILVA, C.J.  
+KULATUNGA, J. AND  
+RAMANATHAN, J.  
+S.C. SPL. 6/93  
+DECEMBER 15 AND 17, 1993 AND  
+FEBRUARY 13, AND APRIL 6, 1995
+
+_Writ of Certiorari- Direction by Monetary Board of Central Bank of Sri Lanka
+directing the Director in charge of Finance Companies to apply for winding up
+of Mercantile Credit Ltd., a finance company - Sections 12, 18, 20(2) and
+43(2)(a) of the Finance Companies Act No. 78 of 1988._
+
+The Finance Companies Act, No. 78 of 1988 provides for the control and
+supervision of Finance Companies by the Central Bank. The main object of the
+Act appears to be to safeguard the interests of depositors.
+
+Faced with a lack of funds to carry on its current business Mr. N. U.
+Jayawardena, President of Mercantile Credit Ltd. ( 2nd respondent ) had
+applied on 28.11.90 for a re-financing facility through the Central Bank. On
+22.05.91 the Cabinet decide to provide financial assistance to the company
+subject to conditions. The Articles of Association were amended on 5.07.91
+after which six nominee directors representing. the funding Banks were
+included in the Board of Directors. On 23.07.91 the new Board decided that A.
+N. U. Jayawardena son of N. U. Jayawardena will continue. as Chairman of the
+Board but will cease to be Managing Director. This post was taken over by J.
+A. R. Felix who thus became . Chairman of the Management Committee. N. U.
+Jayawardena was to be present on the premises to advise Felix.
+
+Notwithstanding the above arrangements the relationship between the share
+owning Directors and the Management Committee deteriorated very early and on
+05.02.92 all the share owning Directors resigned. Consequently on 06.02.92 the
+Board took over the administration and management of the company under Section
+20 of the Act. On 30.06.92 there was a change of Governors and on 25.07.92 the
+Central Bank called for competitive offers from banking and financial
+institutions to take over the company on a management contract but no offers
+were forthcoming and the Bank decided to direct the Director to apply for a
+court winding-up of the company as it could not be made solvent and viable.
+
+345
+
+The petitioner does not seriously challenge the above state of affairs in the
+company but alleges that this was due to mismanagement by the 1st respondent.
+(monetary Board of the Central Bank in particular by its failure to invest
+monies recovered on loans in new revenue generating businesses.) The
+petitioner seeks to quash the impugned decision to apply for a winding-up on
+the basis -
+
+**firstly** it was male fide;
+
+**secondly** it was made for a collateral purpose namely to shield the
+situation created by the 1st respondent by mismanaging the affairs of the
+company;
+
+**thirdly** it was contrary to Section 12A of the Act which required the 1st
+Respondent to furnish to the company a copy of the report made under Section
+18 and to give the company an opportunity to state its position and therefore
+contrary to the principles of natural justice.
+
+**Held:**
+
+(1) The question of re-organisation of the Company was discussed at length
+with the share owning Directors before the decision to apply for winding-up
+was made. Hence the decision was intra vires and not vitiated by mala fides.
+
+(2) Action which may be taken by the Board is prescribed by Section (2) of the
+Act as there was no person or institution who was prepared to collaborate
+with: the Board in reviving the company. The decision was not unlawful.
+
+**APPLICATION** for a writ of certiorari.
+
+**Case referred to:**
+
+_(1) Durayappah v. Fernando 69 N.L.R. 265 (P.C.)_
+
+_E. D. Wickremanayake for petitioner._  
+_A. S. M. Perera D.S.G. for 1st respondent._
+
+_Cur. adv. vult._
+
+May 02, 1995.  
+**KULATUNGA, J.**
+
+This is an application in terms of Section 43(2) (a) of the Finance. Companies
+Act; No. 78 of 1988 for a writ of certiorari to quash a decision of the 1st
+respondent (Monetary Board of the Central Bank of Sri Lanka) directing the
+Director in charge of Finance Companies to apply to Court for a winding-up of
+the 2nd respondent (Mercantile Credit Ltd.). The 2nd respondent is a public
+company which is registered as a finance company under Section 2(5) of the Act
+The petitioner is a shareholder of the said company having 463 shares.
+
+346
+
+The Act provides for the control and supervision of finance companies. The
+main object of the Act appears to be to safeguard the interests of depositors.
+Thus, Section 4 provides-
+
+"A finance company shall of all times conduct its business in such manner so
+as to safeguard its deposits and shall take all such measures as are
+reasonably necessary to ensure that deposits and interest on deposits, are
+payable to depositors on the due dates"
+
+Section 27 of the Act provides for the establishment of schemes for insuring
+deposits held by finance companies and empowers the Central Bank to require
+finance companies to insure deposits held by them. Appreciation of the object
+of the Act as is evidenced by these provisions is of some relevance in
+resolving the dispute before us regarding which the contending parties have
+taken up diametrically opposite positions. It is also appropriate at this
+point to refer briefly to the provisions which contain the scheme., of the Act
+in terms of which the impugned decision was made.
+
+Sections 9 and 10 empowers the Monetary Board to give directions to finance
+companies on a wide range of matters. Sections 11 and 12 empowers the Director
+to examine books and accounts of a finance company. Sections 13 to 16 provide
+for the maintenance of accounts and the auditing of accounts of a finance
+company. Section 18(1) empowers the Board to take steps for the winding-up of
+a finance company where "it is insolvent or is likely to become unable to meet
+the demands of the depositors or that its continuance in business is likely to
+involve loss to its depositors or creditors".
+
+Where winding-up is contemplated, the Board may direct the finance company to
+suspend its business and order the Director to take over its books, records
+and assets. Next, the Board is required, as soon as practicable to notify the
+finance company that it intends to direct the Director to apply to a competent
+Court for the winding-up. In the absence of an application to the Supreme
+Court under Section 43, the Director shall apply to a competent Court for the
+winding-up. The Court may order the winding-up, in which event the provisions
+of the Companies Act relating to winding-up subject to the supervision of
+Court shall mutatis mutandis, apply. The Director or any person
+
+347
+
+authorised in that behalf by the Board shall be appointed to be the liquidator
+(S. 18 (4)(b), S. 18(5), S. 18(7), S. and 18(9).)
+
+If, after inquiry, the Court is of the opinion that the company is not
+insolvent, it may make a declaration permitting the finance company to resume
+business unconditionally or subject to such conditions as the Court may
+consider necessary in the public interest or in the interest of depositors and
+other creditors of the company (S.18(11) (b)).
+
+Every order made by a competent Court under Section 18 is subject to an appeal
+to the Supreme Court (S.18(12)).
+
+S. 20(1) empowers the Board to take over the administration and management of
+a finance company where the Board is of the opinion that the company may be
+made solvent and viable by action provided for therein. Some of the measures
+provided are -
+
+(a) entering into an agreement with any person or body of persons for the
+management of the finance company;
+
+(b) amalgamation of the finance company with any other finance company;
+
+(c) re-organisation of the finance company by increasing its capital and
+arranging for new shareholders.
+
+Where the Board takes over the administration and management of a finance
+company, the Board may exercise, perform and discharge the powers, duties and
+functions of the Board of Directors of such company; whereupon every Director,
+Manager and Secretary of such company shall, unless expressly authorised to do
+so by the Board, cease to exercise, perform and discharge any powers, duties
+and functions with respect to such company (S. 20(2) (a) And S.20(3)).
+
+However, if it appears to the Board that the company cannot be made viable and
+solvent within a reasonable period the Board may direct the Director to apply
+to a competent Court to wind-up the company in which event, the provisions of
+Section 18 shall apply (Proviso to S. 20 (4)).
+
+348
+
+Section 21 enables the Monetary Board to arrange for temporary financial
+accommodation to a finance company where it would be in the interest of
+depositors to provide such assistance on d the Board may grant a loan or
+advance to a Commercial. bank from the Fund established under Section 88(E) of
+the Monetary Law Act, for the purpose of lending to such finance company on
+such terms or conditions as may be determined by the Board.
+
+As regards the facts, the starting point is a letter dated 28.11 .90 addressed
+by N. U. Jayawardena President of the 2nd respondent company to the then
+President of the Republic (exhibit 'A'). The letter states that the company
+has a deposit base of Rs. 1,984 million with 31,700 depositors; that its
+business had broken down due to the insurgency; that there were also
+delinquent loans amounting to Rs. 1,232 million, that depositor confidence had
+also been affected by the collapse of the HPT Ltd. and an "episode at Sampath
+Bank" (an Associated Company); that in the result, deposits being redeemed
+exceeded new deposits; and hence there was a lack of funds to carry on its
+current business. In the circumstances N. U. Jayawardena applied for a re-
+financing facility through the Central Bank in a sum of Rs. 759 million
+"exclusively for encashment of maturing deposits".
+
+On 22.05.91 the Cabinet decided to provide financial assistance to the company
+subject to conditions including the following:
+
+(1) The funding banks to be given a majority number of Directors in the Boards
+of Company and its subsidiaries.
+
+(2) The management of the company should be irrevocably vested in a Management
+Committee to be nominated by the funding banks.
+
+(3) The entire sum of Rs. 750 million will be used only to pay off the
+depositors. (exhibit YB).
+
+The Articles of Association were accordingly amended after which, on 05.07.91
+six nominee directors representing the funding banks, namely the Bank of
+Ceylon and the People's Bank were included in the Board of Directors of the
+Company. On 23.07.91 the
+
+349
+
+ new Board decided that A. N. U. Jayawardena (son of N. U. Jayawardena) will
+continue as Chairman but will cease to be Managing Director, which post will
+be taken over by J. A. R. Felix, Chairman of the Management Committee. It was
+agreed that N. U. Jayawardena will be present in the premises so that he could
+guide and offer his advice to Felix as Managing Director who would however
+have the final decision making power subject to the control of the Board of
+Directors (exhibit Y17).
+
+Notwithstanding the above arrangements, the relationship between the share
+owning Directors and the Management Committee appears to have deteriorated
+very early. Thus on 24.12.91 the Director, Bank Supervision addressed a letter
+to the Chairman, Management Committee that the Management Committee will be
+given instructions from time to time by the Governor of the Central Bank and
+the Monetary Board; hence the Committee should "completely ignore instructions
+of any other party, given orally or in writing" (exhibit 'D'). This was
+followed by a letter dated 27.12.91 addressed to A. N. U. Jayawardena,
+Chairman, by the Managing Director requesting him to release the office area
+allocated to the Chairman as his functions were then limited to attending
+Board meetings and associated matters (exhibit 21).
+
+The petitioner alleges that the relationship between share-owning Directors
+and the Management Committee became strained due to ill Will on the part of
+the then Governor of the Central Bank towards N. U. Jayawardena. Learned
+Counsel for the petitioner submitted that the Governor by a series of press
+statements (some of which contained disparaging remarks against the original
+Directors) caused, further loss of depositor confidence, leading to the
+collapse of the company. The relevant newspaper reports which have been
+produced without contradiction show that there is substance in the allegation
+that the then Governor was motivated by ill will.
+
+The culmination of the above situation was that on 05.02.92 all; the share
+owning Directors resigned. Consequently, on 06.02.92 the Board took over the
+administration and management of the company under Section 20 of the Act
+(exhibit 'F'). This was not challenged before this Court by an application
+under Section 43. As at that date; the deposit liability of the company was
+Rs. 1331.1 million. On
+
+**350**
+
+30.06.92 the former Governor ceased to hold office and the present Governor
+was appointed.
+
+Next, we, find the progressive reduction of deposit" liability. By 31.12.92 it
+was reduced to: Rs. 627.8 million. On 31.10.93, it was Rs. 440 million. By
+06.01.94 it was further reduced to Rs. 425 million. In the process financial
+assistance provided to the company by the banks up to 15.09.93 totalled Rs.
+965.6 million.
+
+Although the deposit liability was so reduced, as at 31.03.92 unrecovered
+loans granted by the company to its subsidiaries was Rs. 348;022,153/-whilst
+its liability to the banking sector, as at 31.12.92 was Rs. 1647 million.
+
+According to a press statement by the new Governor on 25.07.92, the Central
+Bank intended to call for competitive offers from banking and financial
+institutions to take over the company on a management contract, as the Central
+Bank does not have the expertise to manage finance companies. He explained
+that Bank control of companies is a temporary phase intended to make them
+viable so that they will be able to settle their depositors and manage on
+their own (exhibit 'H'). However, there was no statutory body or institution
+prepared to take over the company; and the Bank, acting on a report of the
+Director was of the opinion that the company could not be made viable and
+solvent and hence decided to direct the Director to apply to a competent Court
+to wind-up the company. This was communicated to the company by letter dated
+28.10.93 (exhibit 'J').
+
+The petitioner does not seriously challenge the above state of affairs in the
+company but alleges that this was due to mismanagement on the part of the 1st
+respondent, in particular by its failure to invest monies recovered on loans
+in new revenue generating businesses. The petitioner seeks to quash the
+impugned decision on the basis that firstly, it was mala fide; secondly it was
+made for a collateral purpose, namely, to shield the situation created by the
+1st respondent by mismanaging the affairs of the company; thirdly it was
+contrary to Section 12A of the Act which required the 1st respondent to
+furnish to the company a copy of the report made u Section 18 and to give the
+company an opportunity to state its position; hence it was also contrary to
+the principles of Natural justice.
+
+351
+
+Learned, Counsel for the petitioner argued that if the 1st respondent has
+settled deposit liabilities winding-up is not justified. In any event, the 1st
+respondent's decision should be quashed mala fide. Counsel added that on the
+other hand, if winding-up is absolutely necessary, it is open to the Central
+Bank, the Bank of Ceylon or the People's Bank to apply for a winding-up by
+Court, in their capacity as creditors of the company.
+
+Learned Deputy Solicitor General for the 1st respondent submitted that even
+assuming that the former Governor of the Central Bank was actuated by mala
+fides it has no relevance to the decision to apply for a winding-up; that in
+making the said decision the 1st respondent acted within its statutory power;
+and that there is no nexus between the conduct of the former Governor and the
+impugned decision which was made long after he had ceased to hold office. He
+also submitted that as the evidence shows; the said decision was taken after
+long and protracted discussions with the share owning Directors led by N. U.
+Jayawardena regarding the affairs of the company. Hence, there is no breach of
+the principles of Natural Justice. He submitted that in all the circumstances,
+it should be left to the competent Court to make the decision on the winding-
+up of the company.
+
+The D.S.G. also made the point that the company which is the party most
+affected by the impugned decision has not challenged the proposed winding-up.
+Hence, this Court should not entertain the application of the petitioner who
+is only a minority share holder. This raises the question of the status of the
+petitioner as in the case of _Durayappah v. Fernando_ (1). However, I do not
+propose to consider this question particularly in view of the fact that by
+reason of the take over of the administration and management of the company by
+the Board, every Director, Manager and Secretary-of the company ceased to
+exercise, perform and discharge any powers, duties and functions in respect of
+the company.
+
+As regards the failure of the 1st respondent to furnish to the company a copy
+of the Director's report and to allow it to state its position, it is to be
+noted that in terms of Section 12A relied upon by the petitioner, the Board is
+permitted to act without allowing such
+
+352
+
+opportunity where it is necessary to take immediate action, in the interest of
+the depositors and the finance company. In any event, as the D.S.G. submitted,
+the evidence shows that the question of reorganisation of the company was
+discussed at length with the share owning Directors, before the decision to
+apply for winding-up was made. I therefore, hold that the said decision was
+intra vires. it is also not vitiated by mala fides.
+
+As regards the complaint that the 1st respondent mismanaged the affairs of the
+company by failing to invest monies recovered on loans in new businesses, I am
+of the view that action which may be taken by the Board is prescribed by
+Section 20(2), which is what the new Governor explained in his press statement
+(exhibit 'H'). That section does not appear to contemplate the kind of action
+contemplated by the petitioner. What is relevant here is the fact that there
+was no person; or institution who was prepared to collaborate with the Board
+in reviving the company. This is understandably due to the fact that the
+company which had a deposit base of Rs. 1,984 million had developed serious
+liquidity problems. Nobody in the business world would possibly agree to take
+over the management of such a company which had lost depositor confidence and
+was without funds to carry on its current business, as early as 28.11.90, as
+evidenced by N. U. Jayawardena's letter 'A'.
+
+I am of the view that in the circumstances it is not a matter for this Court
+to consider whether the company maybe wound up because that is essentially a
+decision for the competent Court, subject to an appeal to this Court. Suffice
+it to hold that the impugned decision was not unlawful. The petitioner has
+failed to establish sufficient cause for quashing that decision. I
+accordingly, dismiss the application. In all the circumstances, l make no
+order as to costs.
+
+**G. P. S. DE SILVA, C.J.** \- I agree
+
+**RAMANATHAN, J.** \- I agree  
+  
+_Application dismissed._
+
+* * *
+
+**CommonLII:** [Copyright Policy](/commonlii/copyright.html) **|**
+[Disclaimers](/commonlii/disclaimers.html) **|** [Privacy
+Policy](/commonlii/privacy.html) **|** [Feedback](/commonlii/feedback.html)  
+URL: _http://www.commonlii.org/lk/cases/LKSC/1992/11.html_  
+

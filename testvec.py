@@ -26,8 +26,8 @@ nlp = spacy.load("en_core_web_sm", disable=['parser', 'ner'])
 
 random_state = 0
 
-DATA_DIR = "D:/reserch/fortraining/latest"
-fname = "D:/reserch/dattoprotect/229.txt"
+DATA_DIR = "D:/reserch/law casess/training and testingdata"
+fname = "D:/reserch/dattoprotect/228.txt"
 
 data = load_files(DATA_DIR, encoding="utf-8", decode_error="replace")#, random_state=random_state
 df = pd.DataFrame(list(zip(data['data'], data['target'])), columns=['text', 'label'])
@@ -36,11 +36,16 @@ print(df)
 print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
 labels, counts = np.unique(data.target, return_counts=True)
 labels_str = np.array(data.target_names)[labels]
+#print(dict(zip(labels_str, counts)))
 print(dict(zip(labels_str, counts)))
 print(pd.DataFrame(list(DATA_DIR)))
 print("------------------")
 print(len(df.label))
 print(df.to_string)
+
+from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(data.data, data.target)
+list(t[:80] for t in X_train[:10])
 #test['tweet'].apply(lambda x: [item for item in x if item not in stop])     
 
 
@@ -57,10 +62,10 @@ def only_nouns(texts):
 df['text'] = only_nouns(df['text'])
 
 df.head(5000)
-n_topics = 12
+n_topics = 24
 
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
-vec = TfidfVectorizer(max_features=None, stop_words="english", max_df=0.5, min_df=1)
+vec = TfidfVectorizer(max_features=1000, stop_words="english", max_df=0.5, min_df=1)
 features = vec.fit_transform(df.text)
 
 from sklearn.decomposition import NMF
@@ -68,7 +73,8 @@ cls = NMF(n_components=n_topics, random_state=random_state)
 cls.fit(features)
 # list of unique words found by the vectorizer
 feature_names = vec.get_feature_names()
-#print(feature_names)
+#print(features)
+#print('ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff')
 
 # number of most influencing words to display per topic
 n_top_words = 20 #14
@@ -98,13 +104,13 @@ document = re.sub(r'\W', ' ', document)
 document = re.sub(r'\s+[a-zA-Z]\s+', ' ', document)
 
 # Remove single characters from the start
-document = re.sub(r'\^[a-zA-Z]\s+', ' ', document) 
+#document = re.sub(r'\^[a-zA-Z]\s+', ' ', document) 
 
 # Substituting multiple spaces with single space
 document = re.sub(r'\s+', ' ', document, flags=re.I)
 
 # Removing prefixed 'b'
-document = re.sub(r'^b\s+', '', document)
+#document = re.sub(r'^b\s+', '', document)
 pattern = re.compile(r'\b(' + r'|'.join(stopwords.words('english')) + r')\b\s*')
 text = pattern.sub('', document)
 
@@ -119,7 +125,7 @@ print(cleanup)
 print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
 new_articles = [document]
 
-#print(document)
+print(labels,labels_str)
 # and take the last one (with the highest score) for each row using `[:,-1]` indexing
 cls.transform(vec.transform(new_articles)).argsort(axis=1)[:,-1]
 print(cls.transform(vec.transform(new_articles)))
@@ -161,7 +167,7 @@ if(zzz == count):
 else:
     print("ccc")
 
-
+#-----------------------------------------------------------------------------------------------------------
 '''
 documents = []
 

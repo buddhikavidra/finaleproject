@@ -1,0 +1,416 @@
+[![CommonLII](/images/logos/CommonLII_small.jpg)](/) |  [Home](/) |
+[Databases](/databases.html) | [WorldLII](http://www.worldlii.org) |
+[Search](/forms/search1.html) | [Feedback](/commonlii/feedback.html)
+
+# Supreme Court of Sri Lanka  
+  
+---|---  
+**You are here:**   [CommonLII](/) >> [Databases](/databases.html) >> [Supreme
+Court of Sri Lanka](../) >> [1991](./) >> **[1991] LKSC 1**
+
+[Database Search](/form/search1.html?mask=lk/cases/LKSC) | [Name
+Search](/form/search1.html?mask=lk/cases/LKSC&title=1) | [Recent
+Decisions](../recent.html) |
+[Noteup](/form/search/?method=boolean&query=LKSC+1991+1 or 1991+LKSC+1) |
+[LawCite](/cgi-bin/LawCite/?cit=1991+LKSC+1) |
+[Help](/commonlii/help/cases.html "Help")
+
+* * *
+
+##  Gomez v. Bernard - SLR - 396, Vol 1 of 1993 [1991] LKSC 1; (1993) 1 Sri LR
+396 (30 May 1991)
+
+**396**
+
+**GOMEZ** **  
+vs.** **  
+BERNARD**
+
+SUPREME COURT.  
+BANDARANAYAKE, J., FERNANDO. J. AND  
+AMERASINGHE, J.
+
+S.C. APPEAL NO. 24/87.  
+C.A. APPEAL NO. 148/81 (F).  
+D.C. NEGOMBO 2352/RE.  
+MAY 30th, 1991.
+
+_     Landlord and tenant - Defendant coming into premises let to a doctor -
+Subtenant/employee/licensee of doctor? - Doctor's death in 1976 at which time
+deceased plaintiff was landlord, doctor tenant and defendant sub-tenant-
+Doctor's widow granted limited letters to sell cars - No evidence of grant
+without limitation or payment of rent - Abandonment \- Rei vindicatio suit -
+Rent Act, Section 36(2)(c) (iii) - Burden of proof._
+
+The deceased plaintiff let the premises in suit to the original tenant who
+however in September 1970 sub-let them to the defendant. The defendant then
+offered rent to the plaintiff who refused to accept it. She sued the defendant
+for declaration of title, ejectment and damages. It was contended for the
+defendant that when he proved he was a sub-tenant under the original tenant he
+thereby proved a right to possession until the tenant's right was terminated.
+
+**Held**
+
+1\. Per Fernando J. " while I am inclined to agree that a sub-letting created
+in violation of a statutory prohibition is not effective to confer on the sub-
+tenant rights as against the landlord ..... yet so long as the tenancy
+subsists, it is the tenant who is entitled to possess the premises and the
+landlord cannot obtain a decree for possession as against the sub - tenant in
+derogation of the tenants right.
+
+2\. The burden was on the defendant to establish that his occupation was
+lawful after 1976 and he had therefore to prove his allegation that the widow
+succeeded the deceased tenant. A person who obtained a limited grant to sell
+the cars of the deceased cannot properly be described as an administrator of
+the estate of the deceased. Section 36 (2)(iii) refers to a person who has
+obtained a grant of administration without any limitation expressed therein,
+and perhaps
+
+397
+
+even a limited grant which refers to the rented premises and confers the power
+of dealing therewith. The widow did not fall within section 36(2)(c) (iii).
+
+Further she did not assert or exercise any rights in relation to the premises,
+or in relation to the plaintiff as landlord or to the defendant as sub-tenant.
+Hence, even if she had been eligible to claim a right to succeed to the
+tenancy, she was in no better position than a tenant who repudiates or
+disclaims, or abandons, the tenancy; consequently her right to possession of
+the premises came to an end; she lost the protection of the Rent Act, and was
+liable to ejectment without notice in an action brought by the owner. The
+defendant's position ceases to be protected.
+
+3\. The language of sub-sections (3) and (4) of section 36 contemplates an
+application being made by the landlord to the Rent Board to determine whom he
+should accept as tenant when the original tenant has died where there are two
+or more persons who appear to satisfy the requirements of section 36(2)(c).
+The only exception might be where there is only one person who appears to be
+qualified, but some doubt exists as to his right. Where, however, there is no
+person prima facie eligible to succeed, there is no obligation on the landlord
+to make an application under section 36(3). Section 36(2)(c) provides for a
+number of possible successors when the tenant dies but they succeed only upon
+the fulfilment of specified conditions - thus the surviving spouse or child
+can succeed only if he carries on in the premises the business carried on by
+the deceased tenant; a partner or heir to the business only if he is a partner
+in the business or an heir to the business carried on by the deceased tenant;
+an administrator if he is the administrator of the estate of the deceased
+tenant.
+
+4\. Section 10 (2) of the Rent Act debars the plaintiff from obtaining relief
+based on unlawful sub-letting but does not affect his common law right to
+maintain an action for declaration of title, ejectment and damages against the
+defendant who has failed to establish a right of possession (based on sub-
+tenancy or otherwise).
+
+**Cases referred to**
+
+_1\. Ibrahim Saibo v. Mansoor (1953) 54 NLR 217._  
+_  
+2\. Zubair Kannu (1984) 2 Sri Kantha Rep. 87._  
+_  
+3\. Theivandran v. Ramanathan Chettiar [1986] 2 Sri LR 219._  
+_  
+4\. Hameed v. Weerasinghe S.C. 13/86 S.C. Minutes of 16th March 1986._  
+_  
+5\. Kalyoom v. Mansoor [1988] 1 Sri L.R. 361._  
+_  
+6\. Dharmawardena v. Walwattage [1987] 1 Sri L.R. 57._  
+_  
+7\. Allis Appu v. Endris Hamy (1984) 3 S.C.R. 87, 90._
+
+**APPEAL** from judgment of the Court of Appeal.
+
+_J. W. Subasinghe, P.C. with Harsha Soza_ for the appellant.
+
+398
+
+  
+  
+_A. K. Premadasa, P.C. with R. K. Suresh Chandra and J. Ratnayake_ for
+respondent.
+
+_Cur. adv. vult._
+
+September 05, 1991.  
+**FERNANDO, J.**
+
+A substantial building abutting Main Street, Negombo, had been let to a
+doctor. The premises were partitioned in 1966 into two allotments, and the
+doctor continued in occupation as the tenant of the two allottees. The larger
+portion of the building was allotted to the Plaintiff's sister, and was used
+by the doctor for his nursing home. The smaller portion (admittedly "business
+premises") was allotted to the Plaintiff, and was used by the doctor for other
+business purposes. In September 1970, the Defendant came into those premises,
+and the dispute is whether he was a sub-tenant, or an employee or licensee of
+the doctor. The Plaintiff had not given her prior written consent for any sub-
+letting. The Plaintiff's evidence was that she believed the doctor to be
+carrying on a business (connected with photography) on the premises, and that
+the doctor had brought the Defendant onto the premises. The doctor paid the
+rent to the Plaintiff. It was only after the doctor's death on 21.10.76 that
+she became aware that the Defendant was claiming rights of occupation; the
+Defendant tendered rent to her, but this she declined to accept.
+
+It was contended on behalf of the Substituted-Plaintiff-Appellant (the
+Plaintiff having died while this appeal was pending) that the Defendant was no
+more than a licensee. However, there was evidence that the Defendant paid rent
+to the doctor, and that the doctor had treated him as a sub-tenant; after the
+doctor's death the Plaintiff had instituted an action against him describing
+him as a sub-tenant, but this was withdrawn with liberty to bring a fresh
+action. On this question the District Court and the Court of Appeal have come
+to concurrent findings of fact, that the Defendant was a sub-tenant, which I
+see no reason to disturb. Accordingly, at the time of the doctor's death in
+1976, the Plaintiff was the landlord, the doctor was the tenant, and the
+Defendant was his sub-tenant, but without the knowledge or consent of the
+Plaintiff.
+
+399
+
+The doctor's widow applied for letters of administration; according to the
+document produced, what was granted to her was " Limited Letters of
+Administration ", whereby she was " fully empowered and authorised ........ to
+sell motor car bearing No 3 Sri 761 and to bring the proceeds of the sale to
+the credit of this case ". No other document was produced, and there is no
+evidence or admission that she obtained a grant without limitation. There was
+no evidence that she paid or tendered rent to the Plaintiff, or that she made
+any claim to be the tenant of the premises or acted as such; or that the
+Defendant paid or tendered rent to her, or that she accepted or acknowledged
+the Defendant as her tenant. The Defendant testified that he deposited rent
+with the Municipal Council, but there was no evidence as to whether this was
+in the name and to the credit of the deceased, his widow or the Plaintiff.
+
+The Plaintiff instituted action against the Defendant for declaration of
+title, ejectment and damages, without joining the widow (or any other legal
+representative or successor of the deceased tenant). The District Court
+dismissed the action, and that order was affirmed by the Court of Appeal. The
+reasoning in the judgments of the District Court and the Court of Appeal may
+be summarized as follows: The Defendant had been a sub-tenant; upon the death
+of the tenant the widow had been appointed Administratrix, and therefore
+became the tenant, by operation of law, namely section 36 (2) (c) (iii) of the
+Rent Act; the Defendant by continuing in occupation of the premises became the
+sub-tenant of the widow; even though the sub-letting was contrary to the
+provisions of the then prevailing law (section 9 of the Rent Restriction Act)
+section 10 (7) of the Rent Act " legalised the prior unlawful sub-letting,
+thereby creating a state of lawful subtenancy no action could be instituted,
+either against the tenant or the sub-tenant, on the ground of an unlawful sub-
+letting which commenced prior to the Rent Act; such sub-tenant could not be
+treated as a trespasser, and in any event no action could be instituted for
+the ejectment of the sub-tenant, without first obtaining a decree for
+ejectment against the tenant.
+
+A preliminary question in regard to the burden of proof arises. Learned
+President's Counsel for the Defendant contended that it was not enough for the
+Plaintiff to establish title to the premises; when the Defendant established
+that he was a sub-tenant under the original
+
+400
+
+tenant, he thereby proved a right to possession - a right derived from the
+tenant's right to possession; the burden then lay on the Plaintiff, he
+submitted, to prove that the tenancy had been terminated, thereby rendering
+the sub-tenant's possession unlawful (citing Ibrahim _Saibo v. Mansoor_ (1),
+_Zubair v. Kannu_ (2), and _Theivandran v. Ramanathan Chettiar_ (3). In
+Ibrahim Saibo it was laid down that the sub-tenant's right of occupation is
+fragile, being " essentially dependent on the lawful continuation of the main
+tenancy ":
+
+"........ a landlord has one distinct cause of action against the tenant
+(based on contract) for; the recovery of the property, and another (based on
+delict) for the ejectment of the sub-tenant who remains in occupation after
+the main tenancy has expired. "
+
+While it was recognised that a sub-tenant can shelter behind the protection
+afforded to the tenant if that protection had not ceased to exist, the burden
+of proof was not discussed.
+
+Theivandran dealt with a vindictory action; the defendant was in occupation
+under a partnership agreement with the tenant; the plaintiff admitted the
+tenancy; it was held that the burden shifted to the plaintiff to establish
+that the tenancy had been terminated by surrender of possession or that the
+defendant was claiming adversely to the tenant:
+
+"......... in the case of premises which have been let...... if the landlord
+qua owner....... chooses to sue for ejectment of a third party in occupation,
+the burden will be on him to show that the right of the tenant to be in
+possession has revested in him....... Had the tenant abandoned or surrendered
+possession of the premises ......... the plaintiff might then have treated the
+tenancy....... as determined and thus having become entitled to possession,
+sued for the ejectment of the defendant:"
+
+Zubair v. Kannu was similar; the defendant's claim to be a partner of the
+tenant was rejected, and it was held that the tenant continued to be entitled
+to possession; the landlord was therefore refused a decree for possession.-
+
+401
+
+The position here is entirely different. What has been proved is that the
+tenancy and sub-tenancy subsisted until the doctor's death in 1976. There was
+no automatic devolution or transmission of tenancy rights to a particular
+successor. Section 36 (2)(c) provides for a number of possible successors, but
+they succeed only upon the fulfilment of specified conditions; thus the
+surviving spouse or child can succeed only if he carries on in the premises
+the business carried on by the deceased tenant; a partner or heir, only if he
+was a partner in the business, or an heir to the business, carried on by the
+deceased tenant; an administrator, if he is the administrator " of the estate
+of the deceased tenant ". Thus there may be no qualified successor, and
+sometimes even no potential successor. It was therefore incumbent on the
+defendant to establish who became the new tenant, and to show by what right he
+continued to occupy the premises, after the death of the old tenant (cf.
+_Hameed v. Weerasinghe_ (4)). The burden was thus on the defendant to
+establish that the widow did become the tenant, and not on the plaintiff to
+prove the negative.
+
+Where the landlord is aware that there are two or more persons who satisfy, or
+appear to satisfy, the requirements of section 36(2)(c), he would be uncertain
+whom to accept as the tenant; section 36 (3) would oblige him to apply to the
+Rent Board for an order to determine that question, as held in _Kalyoom v.
+Mansoor_ (5). I find it difficult to agree with the observations of S. N.
+Silva, J., suggesting that even if there is only one qualified person, the
+landlord must make an application under section 36 (3) : if, for instance,
+there is an executor who has obtained probate, and there are no persons
+qualified under, clauses (i) and (ii) of section 36 (2) (c), there seems to be
+no good reason why the landlord should apply under section 36 (3). The
+language of sub-sections (3) and (4) contemplates an application being made,
+and notice being issued, where there are " persons " who may be deemed to be
+tenants. The only exception might be where there is only one person who
+appears to be qualified, but some doubt exists as to his right. Where,
+however, there is no person prima facie eligible to succeed, there is no
+obligation on the landlord to make an application under section 36 (3). It was
+not contended in the present case that. the Plaintiff was obliged to make an
+application under section 36 (3); probably because it was clear that she was
+unaware that there was any person prima facie eligible to succeed under
+section 36 (2) (c).
+
+402
+
+The Substituted-Plaintiff's contentions in appeal may be summarised as follows
+
+1\. The transaction whereby the premises had been sub-let by the doctor to the
+defendant was tainted with illegality, as it was entered into in violation of
+section .9 (1) of the Rent Restriction Act (corresponding to section 10 (2) of
+the Rent Act) which imperatively requires the prior consent in writing of the
+landlord; whatever rights the defendant might have had thereunder as against
+the original tenant, his occupation was unlawful as against the plaintiff,
+from September 1970.
+
+2.(a) Upon the death of the doctor, no one qualified to be deemed the tenant
+under section 36 (2) (c). There was no spouse or child carrying on the
+business in the rented premises, there was no partner in or heir to the
+deceased's business, and there was no ' executor or administrator of the
+estate of the deceased '. The limited grant obtained by the widow did not
+satisfy section 36 (2) (c) (iii).
+
+(b) Even if the widow did qualify under that section, she never asserted or
+exercised rights as tenant, and abandoned whatever rights she may have had in
+respect of a tenancy.
+
+(c) There being no tenancy after the death of the original tenant, the
+occupation of the defendant became unlawful as against the plaintiff at least
+in 1976.
+
+1\. While I am inclined to agree that a sub-letting created in violation of a
+statutory prohibition is not effective to confer on the sub-tenant rights as
+against the landlord (cf. _Dharmawardena v. Walwattage_ (6), yet so long as
+the tenancy subsists, it is the tenant - who is entitled to possess the
+premises, and the landlord cannot obtain a decree for possession as against
+the sub-tenant in derogation . of the tenant's right (Zubair v. Kannu). In
+Theivandran, Sharvananda, ' C.J., held the landlord to be entitled to a
+declaration of title as against a person in occupation with the tenant's
+consent. If a tenant unlawfully sublets part of the rented premises to a
+person who, for instance, later uses the premises for purposes connected with
+terrorism, narcotics or kasippu, is the landlord entitled to seek ejectment of
+the sub-tenant
+
+403
+
+only, perhaps expressly acknowledging and reserving the tenant's right of
+possession (as in _Allis Appu v. Endris Hamy_ (7). However, in view of my
+decision on the other matters, it is unnecessary to decide this question.
+
+2\. In regard to the second submission, the -burden was on the defendant to
+establish that his occupation was lawful after 1976, and he had therefore to
+prove his allegation that the widow succeeded the deceased tenant. It was not
+suggested that the widow was eligible under clauses (i) or (ii); she was not
+an executor (whether executor " includes a person named as executor in a last
+will, or means only a person who has obtained probate). " Administrator"
+clearly means a person who has obtained such status by virtue of the order of
+a competent court. Here the widow only obtained a limited grant to enable her
+to sell a specific asset. Can she be considered to be the " administrator of
+the estate of the deceased "? At the time section 36 was enacted, the relevant
+provisions of the Civil Procedure Code dealing with the grant of letters of
+administration were sections 539 and 540 (corresponding to sections 296 and
+290 of the Administration of Justice Law, No 44 of 1973). Section 539 provided
+for a grant of administration limited in respect of the property to be
+administered or the power of dealing with that property; i.e. limited to a
+particular property, and for a particular purpose, such as selling a specific
+asset for payment of estate duty. A person who obtained a limited grant of
+that nature cannot properly be described as an administrator of the estate of
+the deceased. I am of the view that section 36 (2) (c) (iii) refers to a
+person who has obtained a grant of administration without any limitation
+expressed therein, and perhaps even a limited grant which refers to the rented
+premises and confers the power of dealing therewith. The widow did not fall
+within section 36 (2) (c) (iii).
+
+Further, she did not assert or exercise any rights in relation to the
+premises, or in relation to the plaintiff as landlord or to the defendant as
+sub-tenant. Hence, even if she had been eligible to claim a right to succeed
+to the tenancy, she was in no better position than a tenant who repudiates or
+disclaims, or abandons, the tenancy:
+
+404
+
+ consequently her right to possession of the premises came to an end; she lost
+the protection of the Rent Act; and was liable to ejectment without notice in
+an action brought by the owner. The defendant's occupation ceased to be
+protected.
+
+Learned President's Counsel for the defendant contended that the plaintiff's
+right of action was barred by the provisions of section 10 (7)
+
+" Nothing in subsection 2, subsection 5 or subsection 6 shall apply to the
+subletting of any premises or part thereof without the prior consent in
+writing of the landlord where such premises or part have been sublet prior to
+the date of commencement of this Act to any person, so long as that person
+continues to be the subtenant of the premises or part thereof."
+
+Learned President's Counsel for the Plaintiff submitted that this provision
+applies only to a lawful sub-letting; that the sub-letting to the defendant
+was without the Plaintiffs consent, and section 10 (7) had no application. It
+is clear, however, that ' sub-letting " in section 10 (7), and indeed in the
+whole of section 10, refers to the physical act of sub-letting, namely parting
+with possession, or relinquishing control of the premises, and not to the
+conditions which make subletting lawful. However, section 10 (7) does not
+operate to bar all actions for recovery of possession; it is no more than an
+exception to some of the provisions of section 10. Looked at from the point of
+view of the owner of the premises, this provision merely precludes resort to
+the remedies provided by section 10 (2), (5) and (6), but does not affect his
+other proprietory remedies. In this instance section 10 (7) debars the
+Plaintiff from obtaining relief based on unlawful sub-letting, but does not
+affect his common law right to maintain an action for declaration of title,
+ejectment and damages against the defendant who has failed to establish a
+right of possession (based on sub-tenancy or otherwise):
+
+I therefore allow the appeal, and set aside the judgments and decrees of the
+District Court and the Court of Appeal. The substituted-plaintiff will be
+entitled to a declaration of title, to a decree for the ejectment of the
+defendant, and to damages, as prayed for in paragraphs (a), (b) and (c) of the
+prayer to the plaint, together
+
+405
+
+with costs in a sum of Rs. 3,000 in this Court, as well as costs in both
+Courts below.
+
+**BANDARANAYAKE, J.** \- I agree.
+
+  
+**AMERASINGHE, J.** \- I agree.  
+  
+_Appeal allowed._
+
+* * *
+
+**CommonLII:** [Copyright Policy](/commonlii/copyright.html) **|**
+[Disclaimers](/commonlii/disclaimers.html) **|** [Privacy
+Policy](/commonlii/privacy.html) **|** [Feedback](/commonlii/feedback.html)  
+URL: _http://www.commonlii.org/lk/cases/LKSC/1991/1.html_  
+

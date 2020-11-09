@@ -1,0 +1,186 @@
+[![CommonLII](/images/logos/CommonLII_small.jpg)](/) |  [Home](/) |
+[Databases](/databases.html) | [WorldLII](http://www.worldlii.org) |
+[Search](/forms/search1.html) | [Feedback](/commonlii/feedback.html)
+
+# Supreme Court of Sri Lanka  
+  
+---|---  
+**You are here:**   [CommonLII](/) >> [Databases](/databases.html) >> [Supreme
+Court of Sri Lanka](../) >> [1998](./) >> **[1998] LKSC 15**
+
+[Database Search](/form/search1.html?mask=lk/cases/LKSC) | [Name
+Search](/form/search1.html?mask=lk/cases/LKSC&title=1) | [Recent
+Decisions](../recent.html) |
+[Noteup](/form/search/?method=boolean&query=LKSC+1998+15 or 1998+LKSC+15) |
+[LawCite](/cgi-bin/LawCite/?cit=1998+LKSC+15) |
+[Help](/commonlii/help/cases.html "Help")
+
+* * *
+
+##  Sirisena v. Doreen De Silva and Others - SLR - 199, Vol 3 of 1998 [1998]
+LKSC 15; (1998) 3 Sri LR 199 (31 July 1998)
+
+**199**
+
+**SIRISENA  
+v.  
+DOREEN DE SILVA AND OTHERS**
+
+SUPREME COURT
+
+G.P.S. DE SILVA, CJ.,
+
+WADUGODAPITIYA, J., AND
+
+GUNASEKERA, J.
+
+S.C. APPEAL NO. 190/96
+
+C.A. NO. 563/88
+
+C. H./1/5/1423/26
+
+JULY 10, 1988
+
+_Writ of Certiorari - Ceiling on Housing Property Law - Tenant's application
+to purchase the house let to him - Sections 13 and 17 (1) of the Law - Invalid
+vesting order - Board of Review Order to implement the invalid order._
+
+Pursuant to an application by the 4th respondent tenant under S. 13 of the
+Ceiling on Housing Property Law against the then owner of the house let to him
+to purchase it and a recommendation by the Commissioner for National Housing,
+
+**200**
+
+the Minister signed an order on 10.09.1976 for vesting the house. However,
+that Order was not published in the Gazette as required by S. 17 (1). Hence
+there was no valid vesting Order. No steps were taken on that order when in
+November, 1982 the Commissioner summoned the appellant who was now the owner
+of the premises for an inquiry and decided to recommend the vesting of the
+house. The appellant who was informed of that decision by a communication
+dated 16.12.83 appealed against that decision to the Board of Review in terms
+of S. 39 of the law. The Board of Review dismissed the appeal, affirmed the
+Commissioner's decision made in 1976 and directed the Commissioner to take
+steps on the vesting made on 10.09.1976.
+
+**Held:**
+
+In making its decision the Board of Review acted without jurisdiction firstly,
+because the appeal was not against the Commissioner's decision made in 1976,
+but against the decision communicated to the appellant on 16.12.83; secondly,
+The Board had no jurisdiction to direct the Commissioner to act on the Vesting
+made in 10.9.76 for the reason that there was no valid vesting order made in
+terms of s. 17 (1) of the Law.
+
+**APPEAL** from the judgment of the Court of Appeal.
+
+_Sanjeewa Jayawardena_ for the appellant.
+
+_A. K. Premadasa, P.C, with C. E. de Silva_ for the 4th respondent.
+
+Cur. adv. vult.
+
+July 31, 1998.
+
+**G. P. S. DE SILVA, CJ.**
+
+The 4th respondent was the tenant of premises No. 473, Liyanage Mawatha,
+Nawala. She made an application to the 5th respondent (Commissioner of
+National Housing) in terms of section 9 and/or section 13 of the Ceiling on
+Housing Property Law (the law) to purchase the premises. The respondent to the
+application was one M. W. Perera who was the owner and landlord of the
+premises.
+
+The 5th respondent held an inquiry and recommended to the Minister on 10.9.76
+to vest the premises. The Minister signed the order on 12.10.76. However, it
+is very relevant and important to note that the order was NOT published in the
+Gazette as expressly required by the provisions of section 17 (1) of the law.
+Thus it is manifest that there was no valid order vesting the premises in the
+
+201
+
+5th respondent. No rights could therefore flow from the purported order signed
+by the Minister on 12.10.76. Moreover, the recommendation of the 5th
+respondent to the Minister to vest the premises was not communicated to the
+owner and landlord M. W. Perera. (Caderamanpulle v. Pieter Keuneman, SC Appeal
+No. 15/79, SCM of 19.9.80).
+
+The 5th respondent does not appear to have taken any steps in terms of the Law
+until November 1982 when the present petitioner, who was now the owner and
+landlord of the premises, received a notice stating that an inquiry will be
+held into the application made by the 4th respondent in terms of section 13 of
+the law to purchase the premises. Both the petitioner and the 4th respondent
+participated at the inquiry. At the conclusion of the inquiry, by a
+communication dated 16.12.83 (marked P5) the 5th respondent informed the
+petitioner of his decision to recommend to the Minister to vest the premises.
+
+The petitioner appealed to the Board of Review in terms of section 39 of the
+law against the decision of the 5th respondent communicated to him by P5. The
+Board of Review by its order dated 15.3.88 (marked P7) dismissed the appeal of
+the petitioner. The petitioner moved the Court of Appeal by way of certiorari
+to quash both P5 and P7. The Court of Appeal dismissed the petitioner's
+application and hence the present appeal to this court.
+
+This appeal turns on the legality of the order of the Board of Review (P7).
+The Board of Review having referred to the first inquiry held in 1976, the
+recommendation to vest made by the 5th respondent on 10.9.76, and the Order
+signed by the Minister on 12.10.76, expressed its findings in respect of the
+second inquiry in 1983 in the following terms: When a Commissioner makes a
+decision that decision stands until it is reversed in appeal by the Board of
+Review ... In this instance the Commissioner having made an Order to vest on
+8.9.76 (sic) and thereafter having obtained the Minister's approval for the
+vesting has held a second inquiry after which he has come to the same finding.
+In holding the second inquiry in the year 1983 the Commissioner has manifestly
+acted without jurisdiction. Therefore the decision made after the inquiry in
+1983 and conveyed by the Commissioner's letter dated 16.12.83 (i.e. P5) has
+also been made without jurisdiction. On this finding, as submitted by Mr.
+Jayawardena for the petitioner-appellant, the Board of Review should have set
+aside
+
+**202**
+
+P5 and allowed the appeal. Instead, the Board of Review proceeded to hold that
+the Commissioner's decision made on 10.9.76 is the decision in respect of this
+application. As the Minister has signed the Vesting Order the Commissioner is
+directed to take the necessary steps on the basis of the vesting made on
+10.9.76. The appeal is dismissed and the Commissioner's decision made on
+10.9.76 is affirmed.
+
+In so holding the Board of Review acted without jurisdiction for two reasons.
+First, the petitioner's appeal was not against the Commissioner's decision
+made on 10.9.76 but against the decision of the Commissioner communicated to
+the petitioner on 16.12.83, by P5. The validity of the decision made on
+10.9.76 was never a matter in issue before the Board of Review at any time.
+Secondly, the Board of Review, had no jurisdiction to direct the Commissioner
+to act on the basis of the vesting made on 10.9.76 for the reason that there
+was no valid vesting Order made in terms of section 17 (1) of the law in 1976.
+It is also to be noted that a period of 12 years had passed since the Minister
+signed the purported Order.
+
+The Court of Appeal fell into the same error as the Board of Review when it
+took the view that. . . the Board could not ignore the earlier recommendation
+of the 5th respondent to vest the premises and the follow-up action of the
+Minister in signing the vesting order. The Board was acting within its
+jurisdiction in directing what action the 5th respondent was to take on the
+earlier order. As I have pointed out above, no rights could flow from the
+earlier order which had no force or avail in law. The Court of Appeal too was
+in grave error when it held that the Board of Review was acting within its
+jurisdiction.
+
+For these reasons, the appeal is allowed, the judgment of the Court of Appeal
+is set aside and I direct that a writ of certiorari do issue to quash P5 and
+P7. I make no order as to costs of appeal.
+
+**WADUGODAPITIYA, J.** \- I agree.
+
+**GUNASEKERA, J.** \- I agree.
+
+Appeal allowed.
+
+* * *
+
+**CommonLII:** [Copyright Policy](/commonlii/copyright.html) **|**
+[Disclaimers](/commonlii/disclaimers.html) **|** [Privacy
+Policy](/commonlii/privacy.html) **|** [Feedback](/commonlii/feedback.html)  
+URL: _http://www.commonlii.org/lk/cases/LKSC/1998/15.html_  
+

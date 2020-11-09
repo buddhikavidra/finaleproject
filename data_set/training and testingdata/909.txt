@@ -1,0 +1,361 @@
+##  Ismath v. Selladurai - SLR - 353, Vol 1 of 1995 [1995] LKSC 54; (1995) 1
+Sri LR 353 (28 September 1995)
+
+**353**
+
+**ISMATH** **  
+v.**  
+**SELLADURAI**
+
+SUPREME COURT.  
+FERNANDO, J  
+DHEERARATNE, J. AND  
+WADUGODAPITIYA, J.  
+S.C. 26/94  
+CA 502/91  
+D.C. COLOMBO 7336/RE  
+AUG UST 25, 1995.
+
+_     Landlord Ten n(- Rent Act, No. 7 of 1972 - Sections 22(i) (b), 22(i)
+(bb) and 18 - Meaning of the words "premises which have been let to the tenant
+on or after commencement of this Act" \- Attornment - When the premises have
+been let._
+
+In 1941 the plaintiff's mother let the premises in suit to the defendant's
+father. The Premises Were gifted to the plaintiff by her mother in 1986.
+Defendants father, the original tenant, did in 1965 and her mother succeeded
+to the tenancy. Upon her death in 1982, the defendant succeeded. After the
+premises were gifted to the plaintiff the defendant attorned to her on
+1.9.1986. The plaintiff filed action to eject the defendant on the ground of
+reasonable requirement in terms of subsection 22(1) (b) on the basis that the
+premises were let to the defendant after the commencement of the Rent Act
+(1.3.1972). The question arose as to the applicability of that subsection. The
+District Court held that the subsection applied but the Court of Appeal held
+that it did not.
+
+**Held:**
+
+1\. The wording of the subsection 22(1) (b) unequivocally suggests that the
+tenant whose ejectment is sought and the tenant to whom the premises have been
+let, is one and the same person.
+
+2\. Words "which have been let to the tenant" are descriptive of the
+premises". This description is made in relation to the tenant and not in
+relation to the landlord; therefore the attornment of the tenant to the
+landlord in 1986 has no relevance.
+
+3\. The ordinary meaning of the word "let" is "to grant to a tenant or hirer".
+That word cannot mean anything other than creation of the tenancy in respect
+of the premises with the tenant whose ejectment is sought; it is rather
+artificial to colour the meaning of that word with reference to a contract of
+letting which subsisted with the original tenant.
+
+354
+
+4\. The premises have been let to the defendant-tenant in 1982, that is after
+the commencement of the Rent Act and the plaintiff-appellant is therefore
+entitled to succeed.
+
+**Cases referred to:**
+
+_1\. Weerasuriya v. Manamperi (1992) 1 Sri LR 31  
+_  
+_2\. Sriyani Peris v. Mohamed (1986) 2 Sri LR 384  
+_  
+_3\. Fernando v. Wijesekera (1969) 73 NLR 10  
+_  
+_4\. Justin Fernando v. Abdul Rahaman (1951) 52 NLR 463.  
+_  
+_5\. Miriam Lawrence v. A. V. Arnolda; 1984 Bar Association Law Journal Vol. 1
+Part IV 136, (1981) 1 Sri LR 232.  
+_  
+_6\. Chinnamma v. Dewan Harish AIR 1972 (Delhi) 182 at 189._
+
+**APPEAL** from judgment of the Court of Appeal.
+
+_A. A. M. Marleen With Ms. R. Lamahewa and M. Fawzin for appellant.  
+_  
+_S. Mahenthiran for respondent._
+
+_Cur. adv. vult._
+
+September 28, 1995.  
+**DHEERARATNE J.**
+
+In 1941 the plaintiff's mother let the premises which is the subject matter of
+this action to the defendant's father. The plaintiff became owner of the
+premises in 1986 by virtue of a deed of gift from her mother. Defendant's
+father, the original tenant, died in 1965 and her mother succeeded to the
+tenancy upon her death in 1982, the defendant succeeded as the tenant of the
+premises. After the premises were gifted to the plaintiff, the defendant
+attorned to her as her tenant. In 1989 the plaintiff filed this action against
+the defendant in terms of subsection 22(1) (b) of the Rent Act, No. 7 of 1972,
+on the ground of reasonable requirement of the premises for her occupation as
+a residence. At the trial it was recorded as an admission that the defendant
+became a tenant of the plaintiff from 1.9.1986 (that being the date of
+attornment).
+
+The learned trial judge gave judgment: in favour of the plaintiff, but the
+Court of Appeal reversed that judgment and made order
+
+355
+
+ dismissing the plaintiff's action. The plaintiff h s now appealed, to this
+court.
+
+The only question canvassed before us is the applicability or otherwise of the
+wording of subsection 22(1) (b) to the facts of the present case and there is
+no doubt that if the words are inapplicable, the plaintiff's action was
+rightly dismissed. The words of that subsection relevant to the facts are as
+follows:-
+
+Not withstanding anything in any other law, no action or proceeding for the
+ejectment **of the tenant** of any premises... shall be instituted in or
+entertained by any court, unless where - such premises, being premises which
+have been **let to the** tenant on or after the date of commencement, of this
+Act, are... reasonably required for the occupation as a residence for the
+landlord...
+
+Subsection 22(1) (bb), similarly worded, refers to premises let to the tenant
+prior to the commencement of the Act. The date of the commencement of the Act
+is 1.3.1972. The contention on behalf of the defendant, which found,
+acceptance with the Court of Appeal, was that inasmuch as the premises were
+**not let to the tenant** on or after the commencement of the Act, the
+plaintiff's action cannot be founded on subsection 22(1) (b). This contention
+is based on the hypothesis that there was only one contract of letting of the
+premises and that was between the plaintiff's mother on the one hand as the
+landlord and the defendant's father on the other as the tenant; the
+defendant's mother and later the defendant merely succeeded to the tenancy
+rights of the original tenant of the premises; the premises were not let
+either to the defendant or to her mother; they succeeded to the tenancy by
+operation of law.
+
+Support for this view principally came from the judgment-of the Court of
+Appeal in _Weerasuriya v. Manamperi_ (1) where the Court was called upon to
+interpret the words "Premises **let to the tenant** prior to the commencement
+of the Act" in the subsection 22(1) (bb). In that case the original tenant
+took the premises on rent in 1968 and his son, the defendant, succeeded to the
+tenancy on his father's death in 1980 by operation of law. The Court of Appeal
+held that there was no
+
+356
+
+fresh contract-of the tenancy and it could not be said that the premises were
+let after the commencement of the Act; therefore the action was properly
+brought under subsection 22(1) (bb). I Shall advert to this case again later
+in this judgment.
+
+In a case decided by the Court of Appeal earlier viz. _Sriyani Peris v.
+Mohamed_ (2), the Court held that subsection 22(1) (bb) refers to the current
+landlord and a fresh tenancy was created under the current landlord to whom
+the tenant had attorned [See Fernando v. Wijesekara (3) & Justin _Fernando v.
+Abdul Rahaman_ (4)] and on that basis the premises have been let after the Act
+came into operation. In Fernando v. Wijesekera (Supra) Weeramantry ,J. summed
+up,
+
+"We see that the notion of attornment contains no element which points to the
+continued existence of the prior contract - a meaning which is often
+mistakenly supposed to be in the term."
+
+Learned counsel for the plaintiff-appellant in the instant case too advocated
+the same line of reasoning. The Court of Appeal failed to consider this aspect
+of the case because It was under the misapprehension that the plaintiff
+succeeded as the landlord at the death, of her mother, whereas her mother was
+still alive when the District Court action was proceeding according to the
+evidence led. Learned counsel contended that the question whether a fresh
+letting took place after the date of commencement of the Act in on sequence of
+the attornment should haven" been answered in the affirmative and the
+plaintiff was entitled to succeed on that ground.
+
+It would seem that in Weerasuriya's case (supra) the Court of Appeal accepted
+the submission of learned counsel for the respondent that the case of Sriyani
+Penis (supra) could be distinguished on the basis that there is no statutory
+provision in the Rent Act for succession of a tenant where specific provision
+is made But the decision in Weerasuriys's case (supra) was primarily based on
+the dicta of Ismail, J. in the case of _Miriam Lawrence v. A.V. Arnolda_ (3);
+the Court of Appeal said that the dicta, which it quoted, were binding on it,
+being a pronouncement of the Supreme Court . Ismail, J. stated
+
+357
+
+in that case (with Samarawickrama, J. and Wanasundara, J. agreeing)-
+
+"Section 22(1) (bb) of Act, No. 7 of 1972 clearly indicates that, an action
+under this law can only be maintained if the premises had been let to the
+tenant prior to the date of commencement of the Act. The Act had come into
+operation on 1.3.1972. Therefore, it was the duty of the trial judge to have
+determined whether the premises had been let prior to 1.3.1972 or, subsequent
+to that date. If the premises had been let after that date clearly the
+provisions of the Act would not apply.
+
+It is also in evidence that the defendant's father was the original tenant of
+the premises since 1941 and the defendant had become the tenant of this
+premises only after the father's death in August 1972. Therefore, it was
+necessary for the Court to have considered whether the defendant became a
+statutory tenant of the premises in suit on the death of the father under the
+provisions of the Rent Restriction Ordinance (sic) or he became a tenant on a
+fresh contract of tenancy".
+
+It does not appear to me that Ismail, J. ventured to express an opinion that
+the concept of continuation of a contract of letting under a deceased tenant
+by his successor should be used as an aid to interpret the word "let" in that
+subsection. If he did so it was only inferentially, for, the case was remitted
+to the District Court for further trial on additional issues indicated by
+Court, one being - "Did the defendant become the tenant of the plaintiff as
+from 1.9.1972 on a fresh contract of tenancy?" It is correct to say then, with
+great respect to Ismail, J. that his observations made are clearly obiter.
+
+Learned counsel for the plaintiff-appellant contends that upon attornment in
+1986, a new contract of tenancy came into being [citing Fernando v. Wijesekera
+(supra)] between the new landlord and the present tenant; that the letting
+under that contract took place in 1986, and was thus after 1.3.72; that it is
+the letting by the current landlord that is relevant [ _Sriyani Peiris v.
+Mohamed_ (supra)] and hence section 22(1) (b) applied. But it seems to me that
+this is not the real issue,
+
+358
+
+because even though the letting under the present contract occurred in 1986,
+what is relevant under the statutory provision is when the premises were let
+to the tenant, whether by the present landlord, or under the subsisting
+contract of tenancy, or otherwise.
+
+It was submitted on behalf of the defendant-respondent, on the other hand,
+that attornment does not create a new contract; that admittedly there was a
+contract of tenancy between landlord and tenant in 1941: that despite
+subsequent devolution of rights and/or succession to the interests of the
+original parties to the contract, these did not give rise to a new contract,
+and that the successors merely stepped into the shoes of their respective
+predecessors; and that, therefore, the same contract continued to operate, so
+that for the purposes of section 22(1) (b) the premises had been let to the
+present tenant, the defendant-respondent, in 1941. It was pointed out to him
+that this interpretation could result in an obvious absurdity that premises
+may then have to be regarded as having been let to a person at a date even
+prior to his birth.
+
+Neither of these contentions afford a satisfactory basis for interpreting
+section 22(1) (b). We have to determine the meaning of the phrase "premises
+which have been let to the tenant on or after the date of commencement of this
+Act.",
+
+It is clear that "tenant" means the present tenant, namely the particular
+individual whom the landlord wishes to eject from the premises, and does not
+mean or include any former tenant, even if the present tenant is the successor
+to such tenant. Section 22(1) (b) contemplates an action for the ejectment of
+**the tenant of any premises** and the, premises are described as being
+premises which **have been let to the tenant.** The wording therefore,
+unequivocally suggests that the tenant whose ejectment is sought and the
+tenant to whom the premises: have, been let is one and the same person.
+Reasonable requirement cannot involve the need of any former occupant of the
+premises.
+
+This phrase gives rise to no difficulty where subsequent to the contract of
+tenancy between a landlord and a tenant, there has been
+
+359
+
+ neither a change of landlord occurring upon an attornment consequent upon a
+transfer or devolution of title of the landlord, nor a change of tenancy
+occurring by reason of succession upon the death of the tenant. In such cases,
+if the contract created a tenancy on or after 1:3.72, this necessarily meant
+that the premises were "let" to the tenant on or after 1.3.72.
+
+Difficulties do arise, however, where such changes have taken place. The
+question then is whether this phrase means-
+
+(a) premises let-to the present tenant, under a contract of tenancy entered
+into on or after 1.3.72; and if so, whether in cases of attornment and/or
+succession to tenancy, the contract of tenancy between the present landlord
+and the present tenant is the identical contract which subsisted between the
+original landlord and the original tenant (and not a different contract though
+in terms similar to the original contract); or
+
+(b) premises which the present tenant had commenced to occupy, qua tenant, on
+or after 1.3.72
+
+The phrase in question refers only to the nexus between the tenant and the
+premises; the relevant issue thus is whether the premises in suit were let to
+the present tenant on or after 1.3.72. This phrase makes no reference to the
+nexus between the tenant and the landlord, and hence the question whether such
+letting was by the present landlord or by a former landlord does not arise.
+
+If the construction sought to be given by learned counsel for the defendant-
+respondent for the word "let" is correct, no premises referred in subsections
+22(1) (b) or 22(1) (bb) could ever be recovered by a landlord on the ground of
+reasonable requirement once the original tenant dies and he is succeeded by a
+person specified in terms of the Act, as such person will not be the person to
+whom the premises have been let. If the legislature ever contemplated imposing
+such a drastic fetter on the landlord's rights of recovering premises on the
+grounds of reasonable requirement, it could have been done not indirectly as
+suggested, but directly, as
+
+360
+
+ done with reference to the date of acquisition of ownership of the premises
+by the landlord, by enacting subsection 22(7).
+
+Let me demonstrate the mischief likely to be caused to a tenant if the
+interpretation advanced by the defendant to the word. "let" is applied to
+another section of the Rent Act. Section 18 of the Act reads -
+
+"Where any building used for residential purposes which is **let to a tenant**
+is demolished on an order made under the provisions of the House and Town-
+Improvement Ordinance, the owner of the land on which the demolished building
+stood shall not construct any building or buildings on such land except with
+the permission of the board. The board in granting such permission may by
+order fix the number of residential units that shall be constructed in such
+land. Such owner shall let one of the residential units so constructed to
+**the tenant** of the demolished building, if **such tenant** makes a request
+therefor"
+
+Can the owner of the residential units so constructed be heard to say that a
+particular tenant is disentitled to make a request for a new unit, because the
+demolished building was not let to him, but to his dead ancestor, whose
+successor the tenant became by operation of law? The absurdity is obvious.
+
+It seems to me that in the context in which the word "let" appears in the
+subsection, it cannot mean anything other than creation of the tenancy in
+respect of the premises with the tenant whose ejectment is sought. If the
+question is asked, "to whom are the premises let", the obvious answer is they
+are let to the defendant tenant; and if it is asked "from when have they been
+let to the defendant tenant"?, the answer is equall obvibus from 1982. The
+ordinary meaning of the word "let" as given in the Chambers 20t Century
+Dictionery is grant to tenant or hires. "It would be rather artificial to
+colour the meaning of the world "let" with reference to a contract of letting
+which subsisted with the original tenant. AS expressed by Deshpande, J. in,
+the of _Chinnamma v. Dewan Harsh_ (6). "the word let is an ordinary word and
+is not a term of art. It has, therefore, to be
+
+361
+
+construed in its ordinary sense. It simply means creation of a tenancy, On
+this group the plaintiff is entitled to succeed.
+
+After reaching the decision of this case, I have had the occasion to refer to
+the published official Sinhala version of the Rent Act No. 7 of 1972. The
+subsection 22(i) (b) reads as follows:-
+
+The Sinhala version accords with the construction I have given to the
+subsection.
+
+For the above reasons the appeal is allowed, the judgment of the Court of
+Appeal is so aside and the judgment of the District Court is affirmed. The
+plaintiff-appellant is entitled to recover costs of the Court of Appeal and of
+this Court fixed at Rs. 5000. The defendant is given time till 1.03.1996 to
+quit the premises and deliver possession to the plaintiff. The-plaintiff will
+be entitled to take out writ of ejectment without notice to the defendant
+after 1.03.1996.
+
+**FERNANDO, J.** \- I agree.
+
+**WADUGODAPITIYA, J.** \- I agree.  
+  
+_Appeal allowed._
+
+* * *
+
+**CommonLII:** [Copyright Policy](/commonlii/copyright.html) **|**
+[Disclaimers](/commonlii/disclaimers.html) **|** [Privacy
+Policy](/commonlii/privacy.html) **|** [Feedback](/commonlii/feedback.html)  
+URL: _http://www.commonlii.org/lk/cases/LKSC/1995/54.html_  
+

@@ -1,0 +1,462 @@
+[![CommonLII](/images/logos/CommonLII_small.jpg)](/) |  [Home](/) |
+[Databases](/databases.html) | [WorldLII](http://www.worldlii.org) |
+[Search](/forms/search1.html) | [Feedback](/commonlii/feedback.html)
+
+# Supreme Court of Sri Lanka  
+  
+---|---  
+**You are here:**   [CommonLII](/) >> [Databases](/databases.html) >> [Supreme
+Court of Sri Lanka](../) >> [1994](./) >> **[1994] LKSC 16**
+
+[Database Search](/form/search1.html?mask=lk/cases/LKSC) | [Name
+Search](/form/search1.html?mask=lk/cases/LKSC&title=1) | [Recent
+Decisions](../recent.html) |
+[Noteup](/form/search/?method=boolean&query=LKSC+1994+16 or 1994+LKSC+16) |
+[LawCite](/cgi-bin/LawCite/?cit=1994+LKSC+16) |
+[Help](/commonlii/help/cases.html "Help")
+
+* * *
+
+##  Weragama v. Eksath Lanka Wathu Kamkaru Samithiya and Others - SLR - 293,
+Vol 1 of 1994 [1994] LKSC 16; (1994) 1 Sri LR 293 (1 January 1994)
+
+**293**
+
+**WERAGAMA** ****
+
+**v** ****
+
+**EKSATH LANKA WATHU KAMKARU SAMITHIYA AND OTHERS**  
+
+
+
+SUPREME COURT
+
+FERNANDO, J.
+
+DHEERARATNE, J. AND
+
+WADUGODAPITIYA, J.
+
+S.C. APPEAL NO. 45/94
+
+H.C. (WP) NO. 21/92
+
+OCTOBER 28TH, 1994.
+
+
+
+Certiorari and Mandamus - High Court of a Province - Jurisdiction to issue
+writs of Certiorari and Mandamus against the President of a Labour Tribunal -
+Constitution Article 154 P(3) and (4) - High Court of the Provinces (Special
+Provisions) Act No. 19 of 1990, s. 3.
+
+_ _
+
+Article 154P introduced by the Thirteenth Amendment did not confer on High
+Courts writ jurisdiction in respect of Presidents of Labour Tribunals.
+
+
+
+Nor did Parliament by Law confer such a jurisdiction on High Courts under and
+in terms of Article 154 P(3) (C).
+
+
+
+If a law or a statute is covered by a matter in the (exclusive) Provincial
+Council List, but not otherwise, the exercise of powers thereunder are subject
+to the writ jurisdiction of the High Court.
+
+**294**
+
+
+
+Apart from an error in punctuation (semicolon to be ignored or replaced by a
+comma) the meaning of Article 154P(4) is perfectly clear; and there is no
+ambiguity, absurdity or injustice justifying modification of language. In the
+Thirteenth Amendment there was no intention to devolve power. There was
+nothing more than a re-arrangement of the jurisdictions of the judiciary.
+
+
+
+The Jurisdiction of the Court of Appeal is not an entrenched jurisdiction
+because Article 138 provides that it is subject to the provisions "of any
+law", "Hence it was always constitutionally permissible for that jurisdiction
+to be reduced or transferred by ordinary law. (of course, to a body entitled
+to exercise judicial power). It was the absence of such a provision that made
+Parliament unable to reduce or affect the jurisdiction of the Court of Appeal
+under Article 140; because its jurisdiction under Article 140 and 141 are
+entrenched; but for the proviso inserted by the First Amendment, its
+jurisdiction under Article 140 cannot be transferred even to the Supreme
+Court.
+
+
+
+Article 154P(3) did not authorise Parliament, by ordinary law, to confer the
+writ jurisdiction of the Court of Appeal under Article 140 (either exclusively
+or concurrently) on the High Courts.
+
+
+
+Section 3 of the High Court of the Provinces (Special Provisions) Act No. 19
+of 1990, conferred on the High Courts, appellate and revisionary jurisdiction
+in respect of Labour Tribunals; the phrase "appellate and revisionary
+jurisdiction" has been used in Article 154P(3) in contradistinction to the
+writ jurisdiction and hence the same phrase in Section 3 cannot be interpreted
+to include the writ jurisdiction.
+
+** **
+
+**Cases referred to:**
+
+_ _
+
+1 _. Swastika Textile Industries Ltd. v. Dayaratne, _ SC No. 7/92, SC Minutes
+of 27.10.92.
+
+_ _
+
+2 _.In re the Thirteenth Amendment,_ [1987] 2 Sri LR 312.
+
+_ _
+
+3 _.In re the Agrarian Services (Amendment) Bill SC Special Determinations_
+Nos. 2 & 4 of 1991 - Decided on 7.02.1991.
+
+
+
+**APPEAL** from order of High Court (W P).
+
+_ _
+
+_L C. Seneviratne P.C._ with _Lakshman Perera_ and _Shayamal Jayasinghe_ for
+respondent-respondent-appellant.
+
+_ _
+
+_A. A. de Silva_ with _Nimal Punchihewa_ for applicant-petitioner-respondent.
+
+
+
+
+
+_Cur .adv. vult_.
+
+
+
+**295**
+
+
+
+November, 04th, 1994.  
+
+
+**FERNANDO, J.**
+
+** **
+
+In this appeal we have to decide whether the High Court of a Province has
+jurisdiction to issue writs of Certiorari and Mandamus against the President
+of a Labour Tribunal.
+
+
+
+The President of the Labour Tribunal Avissawella refused his application to
+order the production for inspection of a document from which a witness giving
+evidence was apparently refreshing his memory, and then granted the Applicant-
+Petitioner-Respondent ("the Respondent") a postponement subject to payment of
+costs. Being dissatisfied with those two orders, the Respondent applied to the
+High Court of the Western Province (sitting at Avissawella) for Certiorari and
+Mandamus. A preliminary objection by the Respondent-Respondent Appellant ("the
+Appellant") that the High Court had no writ jurisdiction in respect of a
+President of a Labour Tribunal was overruled by the High Court, relying on
+Swastika Textile Industries Ltd. v Dayaratne (1), which is contrary to this
+view of the writ jurisdiction, as I will show later in this judgment - and an
+article written by Justice Sarath Silva, of which neither the reference nor a
+copy is in the brief. The Appellant appealed to this Court with special leave.
+
+
+
+Prior to the Thirteenth Amendment to the Constitution, the jurisdictions of
+the Court of Appeal included exclusive appellate and revisionary jurisdiction
+(under Article 138), and exclusive "writ jurisdiction" (namely, to grant
+habeas corpus under Article 141, and the other prerogative writs under Article
+140). These jurisdictions applied inter alia, to High Courts, District Courts,
+Magistrate's Courts, Primary Courts and Labour Tribunals.
+
+
+
+The relevant provisions introduced by the Thirteenth Amendment are as follows:
+
+
+
+"154P (3) Every ... High Court (of a Province) shall -
+
+
+
+(a) exercise according to law, the original criminal jurisdiction of the High
+Court of Sri Lanka in respect of offences committed within the Province;
+
+**296**
+
+
+
+(b) notwithstanding anything in Article 138 and subject to any law, exercise
+appellate and revisionary jurisdiction in respect of convictions, sentences
+and orders entered or imposed by Magistrate's Courts and Primary Courts within
+the Province;
+
+
+
+(c) exercise such other jurisdiction and powers as Parliament may, by law,
+provide.  
+
+
+154P (4) Every such High Court shall have jurisdiction to issue, according to
+law,
+
+
+
+(a) orders in the nature of habeas corpus in respect of persons illegally
+detained within the Province; and
+
+
+
+(b) orders in the nature of writs of certiorari, prohibition, procedendo,
+mandamus, and quo warranto, against any person exercising within the Province,
+any power under
+
+
+
+(i) any law; or
+
+
+
+(ii) any statutes made by a Provincial Council established for that Province,
+in respect of any matter set out in the Provincial Council List."
+
+
+
+These amendments affected the appellate, revisionary and writ jurisdiction of
+the Court of Appeal only in two respects. Firstly, Article 154P (3) (b)
+conferred appellate and revisionary jurisdiction (but not writ jurisdiction)
+in respect of Magistrate's Courts and Primary Courts (but not Labour
+Tribunals, or other courts and tribunals); this was "notwithstanding anything
+in Article 138" (and that Article was in any event "subject to the provisions
+of the Constitution"), and so either the jurisdiction of the Court of Appeal
+was protanto transferred to the High Courts or the Court of Appeal and the
+High Courts had concurrent jurisdiction. Secondly, Article 154P (4) conferred
+writ jurisdiction over any person exercising, within the Province, any power
+under any law or statute specified therein; this was not stated to be
+"exclusive", or "notwithstanding anything in Articles 140 and 141 ", and hence
+the High Courts had concurrent jurisdiction with the
+
+**297**
+
+
+
+court of Appeal. The Respondent says that "any law" included the enactments
+under which Presidents of Labour Tribunals exercised their powers, and that
+therefore High Courts had writ jurisdiction over Labour Tribunals. Apart from
+that, the Respondent has an alternative submission: he refers to Article 154P
+(3) (c) - which empowered Parliament, by ordinary law, to confer other
+jurisdictions on High Courts - and says that Parliament did by law confer on
+High Courts writ jurisdiction in respect of Presidents of Labour Tribunals;
+this, he claims, was done by section 3 and/or section 7 of the High Court of
+the Provinces (Special Provisions) Act, No. 19 of 1990, and/or sections 31 D
+(4) (b) and 31 DDD of the Industrial Disputes Act (Cap. 131) as amended by Act
+No. 32 of 1990.
+
+
+
+Thus the appeal involves two questions:
+
+
+
+1\. Did Article 154P, introduced by the Thirteenth Amendment, confer on High
+Courts writ jurisdiction in respect of Presidents of Labour Tribunals?
+
+
+
+2\. Alternatively, did Parliament by law confer such a jurisdiction on High
+Courts, under and in terms of Article 154P (3) (c)?
+
+
+
+1.It is accepted that the Industrial Disputes Act and any other enactments
+which may confer powers on Labour Tribunals are not within- the scope of any
+item or matter in the Provincial Council List; and also that it is only the
+Reserved List which contains any item or matter which would cover those
+enactments and Labour Tribunals - "Justice in so far as it relates to the
+judiciary and the courts structure (including] ... jurisdiction and powers of
+all courts ...". Accordingly, those enactments would not fall within "any law
+... in respect of any matter set out in the Provincial Council List", and High
+Courts would not have writ jurisdiction over Labour Tribunals.
+
+
+
+However, learned Counsel for the Respondent contends that the final clause of
+Article 154P (4) does not qualify "any law", but only sub-paragraph (ii). The
+semicolon appearing after "any law" is an obvious error, because the preceding
+word "under" must govern both sub-paragraphs (i) and (ii), if sub-paragraph
+(ii) is to make any sense. Learned Counsel says it should be a full stop, but
+even then
+
+298  
+
+
+sub-paragraph (ii) would be meaningless. Accordingly, that semicolon must be
+ignored, or a comma substituted. In that event the final clause qualifies both
+sub-paragraphs which then make perfect sense: if a law or a statute is covered
+by a matter in the (exclusive) Provincial Council List, but not otherwise, the
+exercise of powers thereunder are subject to the writ jurisdiction of the High
+Court. Despite this, learned Counsel invites us to interpret this provision
+"liberally", and to hold that the final clause qualified only "any statutes".
+He advanced two reasons for doing so. He referred to the well-known principles
+of interpretation justifying modification of language in cases of ambiguity,
+absurdity, injustice, patent error, and the like; and he also urged that the
+intention of the Thirteenth Amendment was to "devolve" judicial power to the
+Provinces, which he said had been recognised in the Determination of this
+Court In re the Thirteenth Amendment (2). On that basis he urged that this
+Court should adopt a broad interpretation so as to allow writ jurisdiction to
+the High Courts in respect of powers exercised under any law whatsoever.
+
+
+
+Apart from the error in punctuation, the meaning of Article 154P (4) is
+perfectly clear; and there is no ambiguity, absurdity, or injustice justifying
+modification of language.
+
+
+
+As to the intention of Parliament in adopting the Thirteenth Amendment, this
+Court cannot attribute an intention except that which appears from the words
+used by Parliament. I find nothing suggesting a general intention of devolving
+power to the Provinces; insofar as the three Lists are concerned, only what
+was specifically mentioned was devolved, and "all subjects and functions not
+specified in List I or List II" were reserved - thus contradicting any such
+general intention. As for the Determination of this Court regarding the
+Thirteenth Amendment, the majority held that it did not effect any change in
+the structure of the Courts or the judicial power of the People; that vesting
+additional jurisdiction in the High Courts only brought justice nearer home to
+the citizen, reducing delay and expense; and that the Provincial Council had
+no control over the judiciary functioning in the Province (per Sharvananda,
+C.J. at R. 323). Of the three dissenting judgments, only the principal dissent
+referred to the judiciary. That judgment dealt exhaustively with the
+
+**299**
+
+
+
+provisions of the Thirteenth Amendment, and its background terrorism and the
+secessionist problem, the reasonable governmental efforts made to solve it
+politically without seeking a military solution, the various negotiations,
+etc. Although taking the narrow view that there was excessive devolution in
+respect of legislative and executive power, yet, significantly, it did not
+find in the Bill, or even in its legislative and executive history, any
+intention of devolution in regard to the judiciary - and it went no further
+than observations that the conferment of concurrent writ jurisdiction on the
+High Court was interference with, and devaluation of, the writ jurisdiction of
+the Court of Appeal (per Wanasundera, J., at p. 380). None of the five
+judgments support-the Respondent's contention that there was in the Thirteenth
+Amendment an intention to devolve judicial power. There was nothing more than
+a re-arrangement of the jurisdictions of the judiciary. To accede to Counsel's
+invitation to adopt a liberal interpretation would be, in this instance, a
+clear trespass into the legislative domain.
+
+
+
+The first question must therefore be answered in the negative.
+
+
+
+2.By the Thirteenth Amendment, Parliament could have taken away (or
+diminished) even an entrenched jurisdiction of the Court of Appeal, because a
+constitutional provision can be amended by a later constitutional amendment.
+But Parliament cannot, by a constitutional amendment, give itself a blanket
+authorisation to affect an entrenched jurisdiction by means of a subsequent
+ordinary law. For example, Parliament cannot confer an entrenched jurisdiction
+of this Court (e.g. under Articles 125 to 127) on High Courts, by an Act
+passed under and in terms of Article 154P (3). However, the jurisdiction of
+the Court of Appeal under Article 138 is not an entrenched jurisdiction,
+because Article 138 provides that it is subject to the provisions. "of any
+law"; hence it was always constitutionally permissible for that jurisdiction
+to be reduced or transferred by ordinary law (of course, to a body entitled to
+exercise judicial power). That is the reason why I held (in -Swastika Textile
+Industries Ltd. v. Dayaratne, (1) that section 3 of the High Court of the
+Provinces (Special Provisions) Act, No. 19 of 1990, conferred concurrent,
+appellate and revisionary jurisdiction on the High Courts
+
+**300**
+
+
+
+in respect of Labour Tribunals, and that thereafter section 31 D3 of the
+Industrial Disputes Act, as amended by Act No. 32 of 1990, made that
+jurisdiction exclusive, thereby taking away the jurisdiction of the Court of
+Appeal in that respect). And it was the absence of such a provision that made
+Parliament unable to reduce or affect the jurisdiction of the Court of Appeal
+under Article 140: because "its jurisdictions under Articles 140 and 141 are
+entrenched; but for the proviso inserted by the First Amendment, its
+jurisdiction under Article 140 cannot be transferred even to the Supreme
+Court" (Determination in re the Agrarian Services (Amendment) Bill (3)). It
+had first to remove the entrenchment, thereby giving Parliament the power, by
+subsequent ordinary law, to transfer part of that jurisdiction to this Court.
+If a constitutional amendment was necessary in order to transfer part of an
+entrenched jurisdiction from the Court of Appeal to a higher Court, it would
+be anomalous indeed if a transfer to an inferior court was possible without
+such an amendment.
+
+
+
+Had the power conferred by Article 154P (3) (c) been enlarged by the inclusion
+in sub-paragraph (c) of words such as "notwithstanding anything to the
+contrary in Article 141 of the Constitution", the position might have been
+different. But in the absence of any removal of the entrenchment of that
+Article, I hold that Article 154P (3) did not authorise Parliament, by
+ordinary law, to confer the writ jurisdiction of the Court of Appeal under
+Article 140 (either exclusively or concurrently) on the High Courts.
+
+
+
+While this makes it unnecessary to consider the Respondent's submissions on
+the second question, I must mention that there is no doubt whatever that
+Parliament did not even attempt to affect the writ jurisdiction of the Court
+of Appeal. Section 3 of the High Court of the Provinces (Special Provisions)
+Act, No. 19 of 1990, conferred on the High Court appellate and revisionary
+jurisdiction in respect of Labour Tribunals; the phrase "appellate and
+revisionary jurisdiction" has been used in Article 154P (3) in
+contradistinction to the writ jurisdiction, and hence the same phrase in
+section 3 cannot be interpreted to include the writ jurisdiction. None of the
+other provisions relied on by the Respondent purport to confer jurisdiction.
+
+**301**
+
+
+
+I therefore answer the second question in the negative.
+
+
+
+The order of the High Court is set aside, and appeal is allowed, with costs in
+a sum of Rs. 2,000.
+
+
+
+**DHEERARATNE, J**. - I agree.
+
+
+
+**WADUGODAPITIYA, J.** \- I  agree
+
+
+
+_Order of High Court set aside._
+
+* * *
+
+**CommonLII:** [Copyright Policy](/commonlii/copyright.html) **|**
+[Disclaimers](/commonlii/disclaimers.html) **|** [Privacy
+Policy](/commonlii/privacy.html) **|** [Feedback](/commonlii/feedback.html)  
+URL: _http://www.commonlii.org/lk/cases/LKSC/1994/16.html_  
+

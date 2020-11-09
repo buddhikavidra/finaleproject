@@ -1,0 +1,371 @@
+##  Ramasamy v. British Ceylon Corporation - SLR - 231, Vol 1 of 1991 [1991]
+LKSC 2; (1991) 1 Sri LR 231 (21 March 1991)
+
+**231**
+
+**RAMASAMY  
+V.  
+BRITISH CEYLON CORPORATION**
+
+SUPREME COURT  
+AMERASINGHE, J.,  
+DHEERARATNE, J., AND  
+GOONEWARDENE, J.  
+S.C. APPEAL 60/87; CA 138/75; LT 2/1132/79.  
+December 6 and 7, 1990.  
+  
+_Labour Tribunal proceedings - Business Undertaking (Acquisition) Act No. 35
+of 1971, Sections 4 and 17 - Vesting of business undertaking \- Liability of
+the undertaking.  
+_  
+The workman, the Managing Director of B.C.C. Ltd., sued the Respondent Company
+for wrongful termination of his services in 1969.  
+  
+The Business Undertaking of the Respondent Company was vested in the
+Government of Sri Lanka on 25.02.72. The Respondent Company moved that it be
+discharged from the proceedings as the liabilities of the Company were that of
+the Business Undertaking.  
+  
+The Labour Tribunal discharged the Company and the Court of Appeal affirmed
+that order.  
+  
+**Held:**  
+  
+(i) The liability of a business undertaking which vests in the Government in
+terms of Section 4(1) are under a contract when that contract subsists.
+Section 4(1) does not enable the Respondent-Company to be discharged from the
+Labour Tribunal proceedings.  
+  
+(ii) All other liabilities not covered by section 4(1) will vest with the
+Government.  
+  
+(iii) The phrase "all the liabilities" used in Section 17 is wide enough to
+cover potential liabilities which will include liabilities flowing from the
+order of the Labour Tribunal in the future.  
+  
+**Cases referred to:  
+**  
+_(1) B.C.C. vs. Weerasekera_ (1982) 1 Sri L.R. 180  
+  
+_(2) Thileris Perera v. Eliza Nona_ (1948) 50 N.L.R. 176  
+  
+_(3) Deem Wall S.A. v. marketing Ltd._ W.L.R. (March 19, 1971)  
+  
+_(4) Weerakoon v. Hewanallika_ (1978 - 79) 2 SLR 97  
+  
+_(5) United Engineering Union v. Devanayagam_ (1967) 69 N.L.R. 289  
+  
+_(6) Walters v. Barbergh District Court_ (1982) QBD 82 LGR 235  
+  
+_(7) Bormelow Edwards Ltd. v. Inland Revenue Commissioner_ (1969) All E.R.
+536.
+
+**232**
+
+**APPEAL** from Judgement of the Court of Appeal.  
+  
+_H. L. De Silva, P.C. with L. C. Senevirathna P.C. and T. Keenwinna_ for
+applicant -appellant.  
+  
+_Lakshman Kadiragamar with Lalitha Senaratna_ for respondent - respondent.
+
+_Cur. adv. vult._
+
+MARCH 21, 1991  
+  
+**DHEERARATNE, J.  
+**  
+  
+This appeal relates to some interesting questions of law which have arisen in
+the interpretation of certain provisions of the Business Undertakings
+(Acquisition) Act No. 35 of 1971, in the process of considering the impact of
+that Act on a proceeding pending before the Labour Tribunal.  
+  
+The appellant (Employee) sought relief from the Labour Tribunal by an
+application made on 18.06.1969 for termination of his services on 11.04.1969
+by the respondent - a limited liability company, the primary relief claimed
+being reinstatement with back wages. The various defences taken up by the
+respondent-company are immaterial for the decision of this appeal but it is
+sufficient to say that the respondent - company did admit that the appellant
+was removed from the office of Managing Director.  
+  
+When the matter was pending before the Labour Tribunal, the business
+undertaking of the respondent - company vested in the government of Sri Lanka,
+by primary vesting order dated 25.2.1972, made by the Minister of Finance in
+terms of section 2(1)(b) of the Business Undertakings (Acquisition) Act No. 35
+of 1971. Consequent to this vesting, the respondent - company moved the Labour
+Tribunal to have it discharged from the proceedings, on the basis that the
+liabilities of the respondent-company in respect of the matter pending before
+the Labour Tribunal were liabilities of the business undertaking, which vested
+in the Government of Sri Lanka with effect from 25.02.1972. The Labour
+Tribunal made order discharging the respondent-company and the Court of Appeal
+affirmed that order, the present appeal made by the employee is the sequel. If
+such liabilities did vest with the Government, it was common ground before us
+that the respondent-company should have been discharged from the proceedings.
+
+**233**
+
+For the proper appreciation of the points of law involved, it would be
+convenient at this stage to set out the relevant provisions of the Business
+Undertakings (Acquisition) Act.  
+  
+Section 2(1)  
+  
+The Minister of Finance on his own motion or at the request of any other
+Minister;  
+  
+(a) .................................................  
+  
+(b) may, by order published in the Gazette, vest in the Government with effect
+from such date as shall be specified in the vesting order any such business
+undertaking as shall be so specified.  
+  
+Section 4(1) subject to the provisions of sub section (2) where any business
+undertaking is acquired by or vested in the Government, all the rights and
+liabilities under any contract or agreement which relates to the purposes of
+that undertaking and which subsists on the date of transfer or on the primary
+vesting date of that undertaking shall vest in the Government.  
+  
+4(2) The Minister of Finance may at any time repudiate the liabilities under
+any contract or agreement referred to in subsection (1) if he is of opinion
+that such liabilities were incurred mala fide, dishonestly or fraudulently.
+Notice of the repudiation may be given by the competent authority to the
+parties to the contract or agreement.  
+  
+4(3) Where the Minister of Finance under subsection (2) repudiates the
+liabilities under any contract or agreement such liabilities shall be deemed
+never to have vested in the Government.  
+  
+4(4) For the purpose of this section "liabilities" shall not include any loan
+repayable to a director of any business undertaking which is acquired by or
+vested in the Government or to any member of the family of such director.
+
+**234**
+
+That portion of section 17 which defines what a business undertaking is,
+reads:-  
+  
+"business undertaking" means any undertaking of a commercial, industrial,
+agricultural or professional nature and includes -  
+  
+(i) all property, movable or immovable which was used for the purposes of the
+undertaking on the day immediately preceding the date of transfer or the
+primary vesting date and which may be specified by the Minister of Finance in
+the primary vesting order;  
+  
+(ii) subject to the provisions of this Act all rights, powers, privileges and
+interests arising in or out of the property or business and all the
+liabilities of that undertaking;  
+  
+(iii) all books, accounts and documents relating to or appertaining to the
+business undertaking or any property of that undertaking;  
+  
+It may be useful at this point, for the sake of clarity, to refer to the
+description of "liability" appearing in The Oxford Companion to Law by David
+M. Walker (1980) pages 765 and 766, leaving out the reference to the criminal
+law aspect.  
+  
+"Liability. The legal concept of being subject to the power of another, to a
+rule of law requiring something to be done or not done. Thus, a person who
+contracts to sell goods is liable to deliver them and the buyer is liable to
+pay the price. Each is required by |aw to do something and can be compelled by
+legal process at the other's instance to do it; the other is empowered to
+exact the performance or payment. It is sometimes called subjection. The
+correlative concept is power.  
+  
+A person is said to be under a liability when he is, or at least may be,
+legally obliged to do or suffer something. Thus, one may be said to be liable
+to perform, to pay, to be sued, to be imprisoned or otherwise to be subject to
+some legal duty or legal consequence.
+
+**235**
+
+In general, liability attaches only to persons who are legally responsible; an
+insane person does not generally incur any liability.  
+  
+Liability may arise either from a voluntary act or by force of some rule of
+law. Thus, a person who enters into a contract thereby becomes liable to
+perform what he has undertaken, or to pay for the counterpart performance, or
+otherwise to implement his part of the contract. If he acts in breach of
+contract, he becomes liable by law to pay damages in compensation for the
+breach. Similarly, if a man acts in breach of any of the general duties made
+incumbent on him by statute or common law such as to refrain from injuring his
+neighbour, or to maintain his tenant's house in reasonable repair, or to
+exercise diligence in administering property of which he is trustee, he incurs
+legal liability to make good his omission or default . . . civil liability may
+arise from many grounds, from the natural relations of the family, from
+undertaking or contract, the commission of a harm, from trust, statute, or
+decree of court...  
+  
+The term liability is sometimes used of the sanction or penalty itself. Thus a
+debt is spoken of as a liability.  
+  
+The term is also used in the analysis of rights and duties (q.v) as a synonym
+for 'subjection' and the correlative of 'power'.  
+  
+From the foregoing description, it would be noticed that the liabilities of
+the respondent-company as an employer, in relation to the appellant as an
+employee, consequent upon the termination of the tatter's services, could
+spring from four different sources, namely:-  
+  
+(i) under the contract of employment (unquantified).  
+  
+(ii) by a judgment of a competent civil court exercising its ordinary
+jurisdiction in relation to the contract, (quantified); but this situation
+does not arise here.  
+  
+(iii) by operation of the statute - the Industrial Disputes Act which empowers
+the Labour Tribunal in the exercise of its just and equitable jurisdiction to
+grant relief, (unquantified)  
+  
+(iv) by the order of the Labour Tribunal (quantified).
+
+**236**
+
+The liabilities of the business undertaking which qualify for vesting in the
+Government in terms of section 4(1), are those under a contract when that
+contract subsists. The operation of section 4(1) in similar circumstances came
+up for consideration before this court in the case of British Ceylon
+Corporation V. Weerasekera (1). In that case Victor Perera J. stated at page 1
+& 6 as follows:  
+  
+"In this case the employees were dismissed in 1963 and there was a termination
+of their contracts of employment. The company itself had repudiated the
+contract of employment and the employees were entitled to claim contractual
+damages if they had gone to the courts. Therefore at the date of the vesting
+there was no subsisting contract but there remained only a right or liability
+to be determined. By resorting to arbitation under the Industrial Disputes Act
+they could have obtained reliefs on equitable grounds outside the contract
+such as reinstatement if the termination was held to be unjustified . . .  
+  
+With respect to Victor Perera J. the conclusion reached that there was no
+subsisting contract in those (so indeed in the present) circumstances, does
+not appear to me to be based on a correct legal foundation.  
+  
+A contract cannot come to an end by a unilateral act of an employer and it
+cannot be generally extinguished otherwise than by performance, payment or
+reparation, mutual agreement, operation of law or being set aside by a
+competent court, and so long as the bond that unites the parties - vinculum
+juris' remains, the contract subsists. See Thideris Perera v. Eliza Nona (2);
+Decro - Wall S.A. v. Marketing Ltd. (CA.) (3) and Weerakoon v. Hewamallika (4)
+page 108.  
+  
+However, the difficulty of the application of section 4(1) to the facts of the
+present case, appears to come from the word 'under1 in that section. The
+proceedings in the Labour Tribunal, no doubt stem from the relationship of
+master and servant established by the contract of employment between the
+appellant and the respondent - company but it could not be said that those
+proceedings, are concerned with liabilities arising 'under* the contract,
+particularly because section 31(5) (4) of the Industrial Disputes Act states
+as follows:-
+
+**237**
+
+Any relief or redress may be granted by a Labour Tribunal to a workman upon an
+application made under subsection (1) notwithstanding anything to the contrary
+in any contract of service between him and his employee,  
+  
+For the above reasons I-hold that section 4(1) does not enable the respondent
+- company to get itself discharged from the pending proceedings of the Labour
+Tribunal.  
+  
+I shall now proceed to consider the applicability of the provisions of section
+17\. If one looks at the scheme of the Business Undertakings (Acquisition)
+Act, in relation to the vesting of liabilities of a business undertaking with
+the Government, such liabilities intended by the legislature to be vested
+could conveniently be grouped into two categories; namely:-  
+  
+those liabilities under a subsisting contract or agreement in terms of section
+4(1), not repudiated by the Minister in terms of section 4(2) as those
+incurred mala fide, dishonestly or fraudulently.  
+  
+in terms of section 17 (having being caught up in the definition of business
+undertaking) "subject to the provisions of the Act", all the liabilities of
+that undertaking (read with section 2(1 )(b) ).  
+  
+The term 'subject to the provisions of this Act' would mean save and except as
+otherwise provided by the Act; so that the clear intention of the legislature
+appears to be that all other liabilities, not covered by section 4(1), shall
+vest with the Government, lock, stock and barrel. The Minister's freedom of
+repudiation has been limited to liabilities under subsisting contracts and
+agreements specified in section 4(1) only and that seems to have been the
+necessity of drafting that part of section 17 in the present shape it has
+taken so as to include every other liability in relation to the business
+undertaking.  
+  
+It is contended on behalf of the appellant, on the authority of the majority
+judgment of the Privy Council in United Engineering Union v. Devanayagam (5)
+that the Labour Tribunals, unlike the ordinary Courts which adjudicate between
+existing rights of parties, create new rights. It is therefore contended that
+the liabilities of the respondent-
+
+**238**
+
+company will arise only in the future, when the decision of the Labour
+Tribunal is pronounced and that section 17 deals with only liabilities in esse
+not with potential liabilities. I would like at this juncture to refer to the
+following illuminating passage in the minority judgment in Devanayagam's case
+(supra) appearing at page 309, with which I am in respectful agreement.  
+  
+"It is the statute which creates the right to equitable relief by giving to
+the workman the option of going to the Labour Tribunal to ask for it instead
+of taking what the common law gives him. One method of altering the law on
+master and servant would be to enact a new set of rules, as has been done to
+some extent in the United Kingdom by the statutes we have mentioned, leaving
+to the court only the task of interpretation and application. Another method
+frequently employed is to give fresh powers to Court. Under the latter method
+the right comes into existence as soon as there is created the relationship,
+in this case that of employer and workman, from which it springs, it does not
+have to wait for life until the relief granted is spelt out in words by the
+court."  
+  
+If liabilities also flow from the statute as I have already held, they would
+not be potential liabilities in the pending proceedings and they exist
+unqualified until they are quantified by the order of the Labour Tribunal. The
+Dictionary of English Law by Earl Jowitt (Volume 2 1959) at 1085 states.  
+  
+"Liability, the condition of being actually or potentially subject to an
+obligation, either generally as including every kind of obligation, or, in a
+more special sense to denote inchoate, future, unascertained or imperfect
+obligations as opposed to debts, the essence of which they are ascertained and
+certain. Thus when a person becomes surety for another he makes himself
+liable, though it is unascertained in what obligation or debt the liability
+may ultimately result."  
+  
+In any event, the words 'all the liabilities' in section 17 are wide enough
+even to cover potential liabilities which will include liabilities flowing
+from the order of the Labour Tribunal in the future. See also Walters v.
+Barbergh District council (6); The Times 21st June 1983; and Bromilow and
+Edwards Ltd., v. Inland Revenue Commissioners (7). It was contended on behalf
+of the appellant that since a 'business undertaking' is not a legal person and
+therefore incapable
+
+**239**
+
+of acquiring any liabilities, that part of section 17 which speaks of 'all the
+liabilities of that undertaking' is meaningless and inoperative, in the result
+no liabilities whatsoever vest with the Government in terms of that section.
+The intention of the legislature appears to me to be quite clear that the
+section refers to the proprietor's liabilities in relation to the business
+undertaking. As said by Megarry J. in Bromilow and Edwards Ltd., V. Inland
+Revenue Commissioners (Supra) " I have no hesitation in choosing the
+interpretation which makes sense and makes this part of the subsection work,
+as against one which reduces it to dust".  
+  
+For the above reasons I hold that in terms of section 17, the respondent-
+company has been correctly discharged from the proceedings. The appeal is
+dismissed with costs.  
+  
+**AMERASINGHE J. - I agree.  
+  
+GOONEWARDENE J. - I agree.  
+  
+_Appeal dismissed._**
+
+* * *
+
+**CommonLII:** [Copyright Policy](/commonlii/copyright.html) **|**
+[Disclaimers](/commonlii/disclaimers.html) **|** [Privacy
+Policy](/commonlii/privacy.html) **|** [Feedback](/commonlii/feedback.html)  
+URL: _http://www.commonlii.org/lk/cases/LKSC/1991/2.html_  
+

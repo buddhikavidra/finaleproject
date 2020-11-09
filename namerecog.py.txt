@@ -1,0 +1,5 @@
+import spacy
+nlp = spacy.load('en')
+doc = nlp("Google is going to open a new office in China")
+for entity in doc.ents:
+    print(entity.text, entity.label_)
