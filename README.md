@@ -1,3 +1,3 @@
 # finaleproject
 final code
-search algo
+searching algorithem
